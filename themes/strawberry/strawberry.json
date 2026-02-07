@@ -1,5 +1,9 @@
 {
   "name": "Strawberry",
+  "font": {
+    "family": "Red Rose",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Red+Rose:wght@300;400;700&display=swap"
+  },
   "colors": {
     "dark-bg": "#D04E4E",
     "element-bg": "#A35F5F",
@@ -23,3 +27,4 @@
     "highlight-color": "#ECD1BF"
   }
 }
+

@@ -1,5 +1,9 @@
 {
   "name": "Mocha",
+  "font": {
+    "family": "Joan",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Joan&display=swap"
+  },
   "colors": {
     "dark-bg": "#EED7B1",
     "element-bg": "#7C6953",
