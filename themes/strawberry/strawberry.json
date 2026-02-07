@@ -1,0 +1,25 @@
+{
+  "name": "Strawberry",
+  "colors": {
+    "dark-bg": "#D04E4E",
+    "element-bg": "#A35F5F",
+    "active-bg": "#F4DCCE",
+    "secondary-bg": "#FFF4E8",
+    "tertiary-bg": "#FFF6ED",
+    "primary-bg": "#FBF8EC",
+    "gray-1": "#797979",
+    "gray-2": "#797979",
+    "gray-3": "#292929",
+    "gray-4": "#141414",
+    "gray-5": "#111111",
+    "info-bg": "#8AC7FF",
+    "info-blue": "#5FA7E8",
+    "link-blue": "#2D6EA3",
+    "off-white": "#F7FAFC",
+    "light-bg": "#F0F4F7",
+    "hover-bg": "#EBEBEB",
+    "border-color": "#D4D4D4",
+    "secondary-text": "#7E7E7E",
+    "highlight-color": "#ECD1BF"
+  }
+}

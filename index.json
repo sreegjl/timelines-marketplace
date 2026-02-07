@@ -1,0 +1,54 @@
+{
+  "themes": [
+    {
+      "id": "cool",
+      "name": "Cool",
+      "author": "sreegjl",
+      "description": "A clean, cool-toned theme with soft contrast for everyday use. \nReccomended Font: Inter (Default)",
+      "paths": {
+        "theme": "themes/cool/cool.json",
+        "thumbnail": "themes/cool/thumbnail.png"
+      }
+    },
+    {
+      "id": "console",
+      "name": "Console",
+      "author": "sreegjl",
+      "description": "A terminal-inspired dark theme with high contrast and muted accents. \nReccomended Font: Space Mono",
+      "paths": {
+        "theme": "themes/console/console.json",
+        "thumbnail": "themes/console/thumbnail.png"
+      }
+    },
+    {
+      "id": "mocha",
+      "name": "Mocha",
+      "author": "sreegjl",
+      "description": "A dark brown theme with warm tones and restrained, low-contrast accents. \nReccomended Font: Joan",
+      "paths": {
+        "theme": "themes/mocha/mocha.json",
+        "thumbnail": "themes/mocha/thumbnail.png"
+      }
+    },
+    {
+      "id": "nebula",
+      "name": "Nebula",
+      "author": "sreegjl",
+      "description": "A sci-fi inspired dark theme with deep blue-purple tones and vivid pink accents. \nReccomended Font: Goldman",
+      "paths": {
+        "theme": "themes/nebula/nebula.json",
+        "thumbnail": "themes/nebula/thumbnail.png"
+      }
+    },
+    {
+      "id": "strawberry",
+      "name": "Strawberry",
+      "author": "sreegjl",
+      "description": "A light, airy theme with a creamy background and soft strawberry-red accents. \nReccomended Font: Red Rose",
+      "paths": {
+        "theme": "themes/strawberry/strawberry.json",
+        "thumbnail": "themes/strawberry/thumbnail.png"
+      }
+    }
+  ]
+}
