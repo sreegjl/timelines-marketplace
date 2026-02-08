@@ -1,6 +1,16 @@
 {
   "themes": [
     {
+      "id": "console",
+      "name": "Console",
+      "author": "sreegjl",
+      "description": "A terminal-inspired dark theme with high contrast and muted accents.",
+      "paths": {
+        "theme": "themes/console/console.json",
+        "thumbnail": "themes/console/thumbnail.png"
+      }
+    },
+    {
       "id": "cool",
       "name": "Cool",
       "author": "sreegjl",
@@ -11,13 +21,13 @@
       }
     },
     {
-      "id": "console",
-      "name": "Console",
+      "id": "dracula",
+      "name": "Dracula",
       "author": "sreegjl",
-      "description": "A terminal-inspired dark theme with high contrast and muted accents.",
+      "description": "A gothic dark theme with deep shadows and blood-red accents.",
       "paths": {
-        "theme": "themes/console/console.json",
-        "thumbnail": "themes/console/thumbnail.png"
+        "theme": "themes/dracula/dracula.json",
+        "thumbnail": "themes/dracula/thumbnail.png"
       }
     },
     {
