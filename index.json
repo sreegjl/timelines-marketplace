@@ -56,8 +56,8 @@
       "author": "sreegjl",
       "description": "A retro inspired dark theme with a dark-blue background and yellow accents.",
       "paths": {
-        "theme": "themes/nebula/nebula.json",
-        "thumbnail": "themes/nebula/thumbnail.png"
+        "theme": "themes/starpoint/starpoint.json",
+        "thumbnail": "themes/starpoint/thumbnail.png"
       }
     },
     {
