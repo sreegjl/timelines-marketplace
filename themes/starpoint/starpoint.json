@@ -1,0 +1,29 @@
+{
+  "name": "Starpoint",
+  "font": {
+    "family": "Silkscreen",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Silkscreen:wght@400;700&display=swap"
+  },
+  "colors": {
+    "dark-bg": "#FFD000",
+    "element-bg": "#A3A3A3",
+    "active-bg": "#052733",
+    "secondary-bg": "#010820",
+    "tertiary-bg": "#00030E",
+    "primary-bg": "#00020A",
+    "gray-1": "#B7BCC1",
+    "gray-2": "#8E9398",
+    "gray-3": "#4A4E54",
+    "gray-4": "#1E2125",
+    "gray-5": "#0B0C0E",
+    "info-bg": "#5282DB",
+    "info-blue": "#405D9E",
+    "link-blue": "#789ABD",
+    "off-white": "#F2F3F4",
+    "light-bg": "#2A2D31",
+    "hover-bg": "#24272B",
+    "border-color": "#3B3F45",
+    "secondary-text": "#B0B5BA",
+    "highlight-color": "#00436A"
+  }
+}
