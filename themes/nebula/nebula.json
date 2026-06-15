@@ -1,29 +1,28 @@
 {
   "name": "Nebula",
+  "type": "dark",
+  "collection": "marketplace",
+  "author": "sreegjl",
   "font": {
     "family": "Goldman",
     "cssUrl": "https://fonts.googleapis.com/css2?family=Goldman:wght@400;700&display=swap"
   },
   "colors": {
-    "dark-bg": "#FF92F0",
-    "element-bg": "#9034D7",
-    "active-bg": "#1C123C",
-    "secondary-bg": "#090419",
-    "tertiary-bg": "#040211",
-    "primary-bg": "#03010B",
-    "gray-1": "#B7BCC1",
-    "gray-2": "#8E9398",
-    "gray-3": "#4A4E54",
-    "gray-4": "#1E2125",
-    "gray-5": "#0B0C0E",
-    "info-bg": "#5282DB",
-    "info-blue": "#405D9E",
-    "link-blue": "#789ABD",
-    "off-white": "#F2F3F4",
+    "text-primary": "#FF92F0",
+    "ui-muted": "#9034D7",
+    "accent-color": "#1C123C",
+    "surface": "#090419",
+    "inset-bg": "#040211",
+    "app-bg": "#03010B",
+    "text-muted": "#B7BCC1",
+    "text-subtle": "#8E9398",
+    "era-label": "#1E2125",
+    "selection-color": "#5282DB",
+    "link-color": "#789ABD",
     "light-bg": "#2A2D31",
-    "hover-bg": "#24272B",
     "border-color": "#3B3F45",
     "secondary-text": "#B0B5BA",
-    "highlight-color": "#1A1950"
+    "highlight-color": "#1A1950",
+    "surface-active": "#1C123C"
   }
 }

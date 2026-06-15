@@ -1,30 +1,28 @@
 {
   "name": "Strawberry",
+  "type": "light",
+  "collection": "marketplace",
+  "author": "sreegjl",
   "font": {
     "family": "Red Rose",
     "cssUrl": "https://fonts.googleapis.com/css2?family=Red+Rose:wght@300;400;700&display=swap"
   },
   "colors": {
-    "dark-bg": "#D04E4E",
-    "element-bg": "#A35F5F",
-    "active-bg": "#F4DCCE",
-    "secondary-bg": "#FFF4E8",
-    "tertiary-bg": "#FFF6ED",
-    "primary-bg": "#FBF8EC",
-    "gray-1": "#797979",
-    "gray-2": "#797979",
-    "gray-3": "#292929",
-    "gray-4": "#141414",
-    "gray-5": "#111111",
-    "info-bg": "#8AC7FF",
-    "info-blue": "#5FA7E8",
-    "link-blue": "#2D6EA3",
-    "off-white": "#F7FAFC",
+    "text-primary": "#D04E4E",
+    "ui-muted": "#A35F5F",
+    "accent-color": "#F4DCCE",
+    "surface": "#FFF4E8",
+    "inset-bg": "#FFF6ED",
+    "app-bg": "#FBF8EC",
+    "text-muted": "#797979",
+    "text-subtle": "#797979",
+    "era-label": "#141414",
+    "selection-color": "#8AC7FF",
+    "link-color": "#2D6EA3",
     "light-bg": "#F0F4F7",
-    "hover-bg": "#EBEBEB",
     "border-color": "#D4D4D4",
     "secondary-text": "#7E7E7E",
-    "highlight-color": "#ECD1BF"
+    "highlight-color": "#ECD1BF",
+    "surface-active": "#F4DCCE"
   }
 }
-

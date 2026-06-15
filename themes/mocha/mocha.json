@@ -1,29 +1,28 @@
 {
   "name": "Mocha",
+  "type": "dark",
+  "collection": "marketplace",
+  "author": "sreegjl",
   "font": {
     "family": "Joan",
     "cssUrl": "https://fonts.googleapis.com/css2?family=Joan&display=swap"
   },
   "colors": {
-    "dark-bg": "#EED7B1",
-    "element-bg": "#7C6953",
-    "active-bg": "#554431",
-    "secondary-bg": "#0F0802",
-    "tertiary-bg": "#0D0701",
-    "primary-bg": "#0B0601",
-    "gray-1": "#C1BCB7",
-    "gray-2": "#98928E",
-    "gray-3": "#544F4A",
-    "gray-4": "#25211E",
-    "gray-5": "#0E0D0B",
-    "info-bg": "#5282DB",
-    "info-blue": "#405D9E",
-    "link-blue": "#789ABD",
-    "off-white": "#F2F3F4",
+    "text-primary": "#EED7B1",
+    "ui-muted": "#7C6953",
+    "accent-color": "#554431",
+    "surface": "#0F0802",
+    "inset-bg": "#0D0701",
+    "app-bg": "#0B0601",
+    "text-muted": "#C1BCB7",
+    "text-subtle": "#98928E",
+    "era-label": "#25211E",
+    "selection-color": "#5282DB",
+    "link-color": "#789ABD",
     "light-bg": "#2A2D31",
-    "hover-bg": "#24272B",
     "border-color": "#3B3F45",
     "secondary-text": "#B0B5BA",
-    "highlight-color": "#6A5A00"
+    "highlight-color": "#6A5A00",
+    "surface-active": "#554431"
   }
 }

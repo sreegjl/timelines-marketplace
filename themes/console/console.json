@@ -1,30 +1,28 @@
 {
   "name": "Console",
+  "type": "dark",
+  "collection": "marketplace",
+  "author": "sreegjl",
   "font": {
     "family": "Google Sans Code",
     "cssUrl": "https://fonts.googleapis.com/css2?family=Google+Sans+Code:ital,wght@0,300..800;1,300..800&display=swap"
   },
   "colors": {
-    "dark-bg": "#00FF2A",
-    "element-bg": "#83E77A",
-    "active-bg": "#186B1C",
-    "secondary-bg": "#070707",
-    "tertiary-bg": "#050505",
-    "primary-bg": "#030303",
-    "gray-1": "#B7C1B9",
-    "gray-2": "#8E988E",
-    "gray-3": "#4A544A",
-    "gray-4": "#1E251F",
-    "gray-5": "#0B0C0E",
-    "info-bg": "#5282DB",
-    "info-blue": "#405D9E",
-    "link-blue": "#789ABD",
-    "off-white": "#F2F3F4",
+    "text-primary": "#00FF2A",
+    "ui-muted": "#83E77A",
+    "accent-color": "#186B1C",
+    "surface": "#070707",
+    "inset-bg": "#050505",
+    "app-bg": "#030303",
+    "text-muted": "#B7C1B9",
+    "text-subtle": "#8E988E",
+    "era-label": "#1E251F",
+    "selection-color": "#5282DB",
+    "link-color": "#789ABD",
     "light-bg": "#2A2D31",
-    "hover-bg": "#24272B",
     "border-color": "#3B3F45",
     "secondary-text": "#B0B5BA",
-    "highlight-color": "#126A00"
+    "highlight-color": "#126A00",
+    "surface-active": "#186B1C"
   }
 }
-
