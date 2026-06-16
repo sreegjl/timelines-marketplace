@@ -6,7 +6,6 @@
       "author": "sreegjl",
       "type": "dark",
       "collection": "marketplace",
-      "tags": ["featured", "retro"],
       "description": "A terminal-inspired dark theme with high contrast and muted accents.",
       "paths": {
         "theme": "themes/console/console.json",
@@ -19,7 +18,6 @@
       "author": "sreegjl",
       "type": "light",
       "collection": "marketplace",
-      "tags": ["featured", "minimal"],
       "description": "A clean, cool-toned theme with soft contrast for everyday use.",
       "paths": {
         "theme": "themes/cool/cool.json",
@@ -32,7 +30,6 @@
       "author": "sreegjl",
       "type": "dark",
       "collection": "marketplace",
-      "tags": ["featured", "retro"],
       "description": "A gothic dark theme with deep shadows and blood-red accents.",
       "paths": {
         "theme": "themes/dracula/dracula.json",
@@ -45,7 +42,6 @@
       "author": "sreegjl",
       "type": "dark",
       "collection": "marketplace",
-      "tags": ["minimal", "warm"],
       "description": "A dark brown theme with warm tones and restrained, low-contrast accents.",
       "paths": {
         "theme": "themes/mocha/mocha.json",
@@ -58,7 +54,6 @@
       "author": "sreegjl",
       "type": "dark",
       "collection": "marketplace",
-      "tags": [],
       "description": "A sci-fi inspired dark theme with deep blue-purple tones and vivid pink accents.",
       "paths": {
         "theme": "themes/nebula/nebula.json",
@@ -71,7 +66,6 @@
       "author": "sreegjl",
       "type": "dark",
       "collection": "marketplace",
-      "tags": ["retro"],
       "description": "A retro inspired dark theme with a dark-blue background and yellow accents.",
       "paths": {
         "theme": "themes/starpoint/starpoint.json",
@@ -84,7 +78,6 @@
       "author": "sreegjl",
       "type": "light",
       "collection": "marketplace",
-      "tags": ["warm"],
       "description": "A light, airy theme with a creamy background and soft strawberry-red accents.",
       "paths": {
         "theme": "themes/strawberry/strawberry.json",
