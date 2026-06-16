@@ -1,0 +1,28 @@
+{
+  "name": "Miami - Champagne Coast",
+  "font": {
+    "family": "Libre Baskerville",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#2D3542",
+    "ui-muted": "#556070",
+    "accent-color": "#E8D5B5",
+    "surface": "#FBF7F1",
+    "inset-bg": "#FFFCF8",
+    "app-bg": "#FFFFFF",
+    "text-muted": "#A49F96",
+    "text-subtle": "#858077",
+    "era-label": "#393530",
+    "selection-color": "#EEF8FA",
+    "link-color": "#517C93",
+    "light-bg": "#FAFBFC",
+    "border-color": "#DDD7CF",
+    "secondary-text": "#908A81",
+    "highlight-color": "#C7A45A",
+    "surface-active": "#E8D5B5"
+  },
+  "type": "light",
+  "collection": "Miami",
+  "author": "Lisa"
+}

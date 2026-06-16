@@ -1,0 +1,28 @@
+{
+  "name": "Miami - South Beach Luxury",
+  "font": {
+    "family": "Cormorant Garamond",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;500;600;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#1E2A38",
+    "ui-muted": "#355C6D",
+    "accent-color": "#E8C39E",
+    "surface": "#FAF3EC",
+    "inset-bg": "#FFFBF7",
+    "app-bg": "#FFFDFC",
+    "text-muted": "#A39B92",
+    "text-subtle": "#827A72",
+    "era-label": "#35312D",
+    "selection-color": "#D7F5F7",
+    "link-color": "#2F6E8F",
+    "light-bg": "#F8FAFA",
+    "border-color": "#DDD5CC",
+    "secondary-text": "#8E867D",
+    "highlight-color": "#C9A44C",
+    "surface-active": "#E8C39E"
+  },
+  "type": "light",
+  "collection": "Miami",
+  "author": "Lisa"
+}

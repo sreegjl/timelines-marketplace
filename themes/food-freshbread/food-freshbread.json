@@ -1,0 +1,28 @@
+{
+  "name": "Food - Fresh Bread",
+  "type": "light",
+  "collection": "Food",
+  "author": "Lisa",
+  "font": {
+    "family": "Lexend",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Lexend:wght@300..700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#4B3424",
+    "ui-muted": "#90735D",
+    "accent-color": "#E5C27A",
+    "surface-active": "#F0D39A",
+    "surface": "#F5E5BF",
+    "inset-bg": "#FFF4DD",
+    "app-bg": "#FFF9F0",
+    "text-muted": "#9A8572",
+    "text-subtle": "#7F6A58",
+    "era-label": "#2F1D14",
+    "selection-color": "#E8B75A",
+    "link-color": "#B86A3C",
+    "light-bg": "#FAF1E0",
+    "border-color": "#D6B58A",
+    "secondary-text": "#7F6A58",
+    "highlight-color": "#FFD87A"
+  }
+}

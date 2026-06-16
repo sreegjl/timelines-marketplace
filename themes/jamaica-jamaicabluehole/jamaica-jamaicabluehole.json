@@ -1,0 +1,28 @@
+{
+  "name": "Jamaica - Jamaica Blue Hole",
+  "type": "light",
+  "collection": "Jamaica",
+  "author": "Lisa",
+  "font": {
+    "family": "Lexend",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Lexend:wght@300..700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#153B4D",
+    "ui-muted": "#6A8FA0",
+    "accent-color": "#00B8D4",
+    "surface-active": "#8BE5F2",
+    "surface": "#DDF7FA",
+    "inset-bg": "#F3FCFD",
+    "app-bg": "#FBFEFF",
+    "text-muted": "#6B8A95",
+    "text-subtle": "#56727C",
+    "era-label": "#0E2A38",
+    "selection-color": "#6CD9FF",
+    "link-color": "#0087A8",
+    "light-bg": "#ECFAFC",
+    "border-color": "#BFE7EC",
+    "secondary-text": "#56727C",
+    "highlight-color": "#FFE066"
+  }
+}

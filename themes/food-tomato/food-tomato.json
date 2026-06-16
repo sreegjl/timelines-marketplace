@@ -1,0 +1,28 @@
+{
+  "name": "Food - Tomato",
+  "font": {
+    "family": "Red Rose",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Red+Rose:wght@300;400;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#C73E2D",
+    "ui-muted": "#A84638",
+    "accent-color": "#FFD7C2",
+    "surface": "#FFF1E8",
+    "inset-bg": "#FFF7F2",
+    "app-bg": "#FFFBF7",
+    "text-muted": "#7A736F",
+    "text-subtle": "#7A736F",
+    "era-label": "#1A1715",
+    "selection-color": "#8AC7FF",
+    "link-color": "#2D6EA3",
+    "light-bg": "#F5F3F0",
+    "border-color": "#D9C7BB",
+    "secondary-text": "#7D6D64",
+    "highlight-color": "#E8C2A8",
+    "surface-active": "#FFD7C2"
+  },
+  "type": "light",
+  "collection": "Food",
+  "author": "Lisa"
+}

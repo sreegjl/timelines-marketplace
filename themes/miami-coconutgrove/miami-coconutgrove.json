@@ -1,0 +1,28 @@
+{
+  "name": "Miami - Coconut Grove",
+  "font": {
+    "family": "Nunito Sans",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;400;600;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#264C3D",
+    "ui-muted": "#3D7058",
+    "accent-color": "#BFE3C0",
+    "surface": "#F2F8F1",
+    "inset-bg": "#FAFDFA",
+    "app-bg": "#FEFFFE",
+    "text-muted": "#98A096",
+    "text-subtle": "#788176",
+    "era-label": "#30352F",
+    "selection-color": "#DCF8F2",
+    "link-color": "#2C7A65",
+    "light-bg": "#F8FBF8",
+    "border-color": "#D7E2D7",
+    "secondary-text": "#878F85",
+    "highlight-color": "#DCC07A",
+    "surface-active": "#BFE3C0"
+  },
+  "type": "light",
+  "collection": "Miami",
+  "author": "Lisa"
+}

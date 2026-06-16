@@ -1,0 +1,28 @@
+{
+  "name": "Misc - Thunderstorm",
+  "font": {
+    "family": "Red Rose",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Red+Rose:wght@300;400;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#161B2D",
+    "ui-muted": "#2B3552",
+    "accent-color": "#B8A8FF",
+    "surface": "#EEF1F7",
+    "inset-bg": "#F7F9FC",
+    "app-bg": "#FCFDFF",
+    "text-muted": "#7C8394",
+    "text-subtle": "#666D7D",
+    "era-label": "#1A1D25",
+    "selection-color": "#A9D9FF",
+    "link-color": "#6A8DFF",
+    "light-bg": "#EEF2F8",
+    "border-color": "#D2D8E4",
+    "secondary-text": "#788092",
+    "highlight-color": "#8E79FF",
+    "surface-active": "#B8A8FF"
+  },
+  "type": "light",
+  "collection": "Misc",
+  "author": "Lisa"
+}

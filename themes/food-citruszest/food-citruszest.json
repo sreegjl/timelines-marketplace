@@ -1,0 +1,28 @@
+{
+  "name": "Food - Citrus Zest",
+  "type": "light",
+  "collection": "Food",
+  "author": "Lisa",
+  "font": {
+    "family": "Lexend",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Lexend:wght@300..700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#33401F",
+    "ui-muted": "#7D8B56",
+    "accent-color": "#D8F08A",
+    "surface-active": "#DFF59A",
+    "surface": "#F1F8C9",
+    "inset-bg": "#FCFEEB",
+    "app-bg": "#FFFEEF",
+    "text-muted": "#8A9275",
+    "text-subtle": "#71795D",
+    "era-label": "#1E2B0F",
+    "selection-color": "#B7E36A",
+    "link-color": "#E79A1F",
+    "light-bg": "#F8FCD9",
+    "border-color": "#D8E4AE",
+    "secondary-text": "#71795D",
+    "highlight-color": "#FFF06A"
+  }
+}

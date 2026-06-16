@@ -1,0 +1,28 @@
+{
+  "name": "Japan - Japanese Koi Pond",
+  "font": {
+    "family": "Red Rose",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Red+Rose:wght@300;400;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#1E2A2F",
+    "ui-muted": "#2F5D62",
+    "accent-color": "#F4A261",
+    "surface": "#FFF4E6",
+    "inset-bg": "#FFFAF3",
+    "app-bg": "#FCFEFF",
+    "text-muted": "#7C8A8F",
+    "text-subtle": "#657377",
+    "era-label": "#171C1E",
+    "selection-color": "#A7D8FF",
+    "link-color": "#3A7D7A",
+    "light-bg": "#EDF4F5",
+    "border-color": "#C9D7DA",
+    "secondary-text": "#6E7C80",
+    "highlight-color": "#E76F51",
+    "surface-active": "#F4A261"
+  },
+  "type": "light",
+  "collection": "Japan",
+  "author": "Lisa"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Food - Wine Cellar",
+  "type": "light",
+  "collection": "Food",
+  "author": "Lisa",
+  "font": {
+    "family": "Lexend",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Lexend:wght@300..700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#34202A",
+    "ui-muted": "#7E6A72",
+    "accent-color": "#D8B7C4",
+    "surface-active": "#E0C2CD",
+    "surface": "#F4E7EA",
+    "inset-bg": "#FCF7F8",
+    "app-bg": "#FFFDFD",
+    "text-muted": "#90848A",
+    "text-subtle": "#76686F",
+    "era-label": "#22131A",
+    "selection-color": "#CFA0B2",
+    "link-color": "#8E2C50",
+    "light-bg": "#F9F1F3",
+    "border-color": "#E3D0D6",
+    "secondary-text": "#76686F",
+    "highlight-color": "#E8D07A"
+  }
+}

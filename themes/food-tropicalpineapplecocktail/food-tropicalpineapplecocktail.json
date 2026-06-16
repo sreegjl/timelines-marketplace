@@ -1,0 +1,28 @@
+{
+  "name": "Food - Tropical Pineapple Cocktail",
+  "type": "light",
+  "collection": "Food",
+  "author": "Lisa",
+  "font": {
+    "family": "Lexend",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Lexend:wght@300..700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#4B3423",
+    "ui-muted": "#9C7D68",
+    "accent-color": "#FFC96B",
+    "surface-active": "#FFC96B",
+    "surface": "#FFE6B8",
+    "inset-bg": "#FFF8EE",
+    "app-bg": "#FFFDF9",
+    "text-muted": "#9B8B81",
+    "text-subtle": "#87776D",
+    "era-label": "#2D1E16",
+    "selection-color": "#9FDFFF",
+    "link-color": "#2F9E99",
+    "light-bg": "#FFF2D7",
+    "border-color": "#EFD7B0",
+    "secondary-text": "#87776D",
+    "highlight-color": "#FFB84D"
+  }
+}

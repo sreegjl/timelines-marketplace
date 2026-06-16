@@ -1,0 +1,28 @@
+{
+  "name": "Jamaica - Jamaica Jungle",
+  "type": "light",
+  "collection": "Jamaica",
+  "author": "Lisa",
+  "font": {
+    "family": "Lexend",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Lexend:wght@300..700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#1F3A28",
+    "ui-muted": "#6F8A63",
+    "accent-color": "#D4B24C",
+    "surface-active": "#D4B24C",
+    "surface": "#E6E1B7",
+    "inset-bg": "#F4F0D8",
+    "app-bg": "#FBF8E6",
+    "text-muted": "#6E7C5A",
+    "text-subtle": "#5E6D4D",
+    "era-label": "#123020",
+    "selection-color": "#7CCF6A",
+    "link-color": "#C46A2D",
+    "light-bg": "#F0EBCF",
+    "border-color": "#B8C08A",
+    "secondary-text": "#5E6D4D",
+    "highlight-color": "#F7D447"
+  }
+}

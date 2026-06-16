@@ -1,0 +1,28 @@
+{
+  "name": "Rainforest - Emerald Canopy",
+  "font": {
+    "family": "Inter",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#0B3D2E",
+    "ui-muted": "#1F6F4A",
+    "accent-color": "#6EE7B7",
+    "surface": "#E9F8F1",
+    "inset-bg": "#F4FFFA",
+    "app-bg": "#FFFFFF",
+    "text-muted": "#8AA69A",
+    "text-subtle": "#6C8F82",
+    "era-label": "#2D3F38",
+    "selection-color": "#D7FFF2",
+    "link-color": "#1C7A5B",
+    "light-bg": "#F1FBF6",
+    "border-color": "#CDE9DD",
+    "secondary-text": "#7A948A",
+    "highlight-color": "#C9A44C",
+    "surface-active": "#6EE7B7"
+  },
+  "type": "light",
+  "collection": "Rainforest",
+  "author": "Lisa"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Beach - Golden Shore",
+  "font": {
+    "family": "DM Sans",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#8A4F2D",
+    "ui-muted": "#C97A3A",
+    "accent-color": "#FFD166",
+    "surface": "#FFF1DD",
+    "inset-bg": "#FFF8EF",
+    "app-bg": "#FFFFFF",
+    "text-muted": "#A4978D",
+    "text-subtle": "#85786F",
+    "era-label": "#362F2A",
+    "selection-color": "#D9F4FF",
+    "link-color": "#2E7AA6",
+    "light-bg": "#FAF3EA",
+    "border-color": "#E3D0B8",
+    "secondary-text": "#8A7D73",
+    "highlight-color": "#FFB703",
+    "surface-active": "#FFD166"
+  },
+  "type": "light",
+  "collection": "Beach",
+  "author": "Lisa"
+}

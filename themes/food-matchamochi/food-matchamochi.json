@@ -1,0 +1,28 @@
+{
+  "name": "Food - Matcha Mochi",
+  "type": "light",
+  "collection": "Food",
+  "author": "Lisa",
+  "font": {
+    "family": "Lexend",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Lexend:wght@300..700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#2F3D2F",
+    "ui-muted": "#73816F",
+    "accent-color": "#BFD4A8",
+    "surface-active": "#D6E6C6",
+    "surface": "#E9F0DD",
+    "inset-bg": "#F7FAF0",
+    "app-bg": "#FDFDF8",
+    "text-muted": "#7E8979",
+    "text-subtle": "#667161",
+    "era-label": "#1F291F",
+    "selection-color": "#F4CDA8",
+    "link-color": "#6A8F52",
+    "light-bg": "#F3F7EB",
+    "border-color": "#D3DDC8",
+    "secondary-text": "#667161",
+    "highlight-color": "#F7E3A1"
+  }
+}

@@ -96,7 +96,7 @@ async function renderThumbnail(theme, outPath, page) {
 }
 
 async function generatePreview(page, thumbPaths, outPath) {
-  const cols = 2;
+  const cols = 4;
   const bg = "#111111";
 
   const images = thumbPaths.map(p => {
@@ -104,12 +104,14 @@ async function generatePreview(page, thumbPaths, outPath) {
     return `data:image/png;base64,${data}`;
   });
 
+  const thumbW = WIDTH / 2;
+  const thumbH = HEIGHT / 2;
   const rows = Math.ceil(images.length / cols);
-  const totalW = cols * WIDTH;
-  const totalH = rows * HEIGHT;
+  const totalW = cols * thumbW;
+  const totalH = rows * thumbH;
 
   const imgTags = images.map(src =>
-    `<img src="${src}" width="${WIDTH}" height="${HEIGHT}" style="display:block;">`
+    `<img src="${src}" width="${thumbW}" height="${thumbH}" style="display:block;">`
   ).join("\n    ");
 
   const html = `<!DOCTYPE html>
@@ -123,7 +125,7 @@ async function generatePreview(page, thumbPaths, outPath) {
     height: ${totalH}px;
     background: ${bg};
     display: grid;
-    grid-template-columns: repeat(${cols}, ${WIDTH}px);
+    grid-template-columns: repeat(${cols}, ${thumbW}px);
   }
 </style>
 </head>

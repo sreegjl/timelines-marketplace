@@ -1,0 +1,28 @@
+{
+  "name": "Japan - Moss Garden",
+  "font": {
+    "family": "M PLUS Rounded 1c",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@300;400;500;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#3F5A4A",
+    "ui-muted": "#5D7A65",
+    "accent-color": "#A7D7A8",
+    "surface": "#FFF3D6",
+    "inset-bg": "#FFF8E8",
+    "app-bg": "#FFFDF6",
+    "text-muted": "#83908A",
+    "text-subtle": "#6D7972",
+    "era-label": "#2C3530",
+    "selection-color": "#A7D8F2",
+    "link-color": "#468BB5",
+    "light-bg": "#F5F7EF",
+    "border-color": "#D8DEC8",
+    "secondary-text": "#68746C",
+    "highlight-color": "#F4C96B",
+    "surface-active": "#A7D7A8"
+  },
+  "type": "light",
+  "collection": "Japan",
+  "author": "Lisa"
+}

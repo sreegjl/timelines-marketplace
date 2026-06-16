@@ -1,0 +1,28 @@
+{
+  "name": "Miami - Biscayne Blue",
+  "font": {
+    "family": "Inter",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#0F5B78",
+    "ui-muted": "#2E88A8",
+    "accent-color": "#A8E6FF",
+    "surface": "#EDF9FD",
+    "inset-bg": "#F7FDFF",
+    "app-bg": "#FCFEFF",
+    "text-muted": "#93A7B2",
+    "text-subtle": "#748791",
+    "era-label": "#2D3B42",
+    "selection-color": "#D5F4FF",
+    "link-color": "#0077A8",
+    "light-bg": "#F3FBFF",
+    "border-color": "#CFE7F0",
+    "secondary-text": "#7B909B",
+    "highlight-color": "#FFD6A5",
+    "surface-active": "#A8E6FF"
+  },
+  "type": "light",
+  "collection": "Miami",
+  "author": "Lisa"
+}

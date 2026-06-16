@@ -1,0 +1,28 @@
+{
+  "name": "Miami - Ocean Drive",
+  "font": {
+    "family": "Montserrat",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Montserrat:wght@300;400;500;600;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#0F4C81",
+    "ui-muted": "#1F7A8C",
+    "accent-color": "#7FE7DC",
+    "surface": "#E8FBFF",
+    "inset-bg": "#F4FDFF",
+    "app-bg": "#FCFEFF",
+    "text-muted": "#8AA1AE",
+    "text-subtle": "#6B7F8C",
+    "era-label": "#2A3A43",
+    "selection-color": "#C6F5FF",
+    "link-color": "#0077B6",
+    "light-bg": "#F2FCFF",
+    "border-color": "#C7EAF2",
+    "secondary-text": "#708A97",
+    "highlight-color": "#FFB4A2",
+    "surface-active": "#7FE7DC"
+  },
+  "type": "light",
+  "collection": "Miami",
+  "author": "Lisa"
+}

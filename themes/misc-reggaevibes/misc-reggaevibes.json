@@ -1,0 +1,28 @@
+{
+  "name": "Misc - Reggae Vibes",
+  "font": {
+    "family": "Red Rose",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Red+Rose:wght@300;400;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#A11D23",
+    "ui-muted": "#1F5A3B",
+    "accent-color": "#F2C94C",
+    "surface": "#FFF7D6",
+    "inset-bg": "#FFFBEF",
+    "app-bg": "#FFFDF8",
+    "text-muted": "#7C756A",
+    "text-subtle": "#666055",
+    "era-label": "#1A1816",
+    "selection-color": "#9DD7FF",
+    "link-color": "#1F5A3B",
+    "light-bg": "#F8F3E8",
+    "border-color": "#DDD2BC",
+    "secondary-text": "#776F63",
+    "highlight-color": "#D4A017",
+    "surface-active": "#F2C94C"
+  },
+  "type": "light",
+  "collection": "Misc",
+  "author": "Lisa"
+}

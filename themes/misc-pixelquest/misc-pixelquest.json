@@ -1,0 +1,28 @@
+{
+  "name": "Misc - Pixel Quest",
+  "font": {
+    "family": "VT323",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=VT323&display=swap"
+  },
+  "colors": {
+    "text-primary": "#2A4B8D",
+    "ui-muted": "#3D63B8",
+    "accent-color": "#FFCB05",
+    "surface": "#EAF2FF",
+    "inset-bg": "#F4F8FF",
+    "app-bg": "#FFFFFF",
+    "text-muted": "#8093B8",
+    "text-subtle": "#64748B",
+    "era-label": "#1E3A5F",
+    "selection-color": "#EF5350",
+    "link-color": "#1565C0",
+    "light-bg": "#F5F8FF",
+    "border-color": "#FFCB05",
+    "secondary-text": "#64748B",
+    "highlight-color": "#EF5350",
+    "surface-active": "#FFCB05"
+  },
+  "type": "light",
+  "collection": "Misc",
+  "author": "Lisa"
+}

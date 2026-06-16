@@ -1,0 +1,28 @@
+{
+  "name": "Food - Pizza",
+  "type": "light",
+  "collection": "Food",
+  "author": "Lisa",
+  "font": {
+    "family": "Lexend",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Lexend:wght@300..700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#4A2E1F",
+    "ui-muted": "#8B7563",
+    "accent-color": "#E7C96E",
+    "surface-active": "#F3D88B",
+    "surface": "#F5E1B8",
+    "inset-bg": "#FFF4DD",
+    "app-bg": "#FFF9EF",
+    "text-muted": "#9A8A79",
+    "text-subtle": "#7C6A5B",
+    "era-label": "#2A1A12",
+    "selection-color": "#B6E36B",
+    "link-color": "#C84B31",
+    "light-bg": "#FAF0DA",
+    "border-color": "#D8B77A",
+    "secondary-text": "#7C6A5B",
+    "highlight-color": "#FFD34D"
+  }
+}

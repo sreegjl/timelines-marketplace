@@ -1,0 +1,28 @@
+{
+  "name": "Summer - Summer Sunset",
+  "font": {
+    "family": "Red Rose",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Red+Rose:wght@300;400;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#FF5E3A",
+    "ui-muted": "#FF8A5B",
+    "accent-color": "#FFE1C2",
+    "surface": "#FFF1E6",
+    "inset-bg": "#FFF6EF",
+    "app-bg": "#FFFDF8",
+    "text-muted": "#7A6F6A",
+    "text-subtle": "#6A5F5A",
+    "era-label": "#1E1715",
+    "selection-color": "#FFB4A2",
+    "link-color": "#E85D04",
+    "light-bg": "#FFF3EB",
+    "border-color": "#F2C6B2",
+    "secondary-text": "#7A5C52",
+    "highlight-color": "#FFD2A1",
+    "surface-active": "#FFE1C2"
+  },
+  "type": "light",
+  "collection": "Summer",
+  "author": "Lisa"
+}

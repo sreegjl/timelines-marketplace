@@ -1,0 +1,28 @@
+{
+  "name": "Misc - Psychedelic Dream",
+  "font": {
+    "family": "Red Rose",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Red+Rose:wght@300;400;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#2A0A3D",
+    "ui-muted": "#5A1F6B",
+    "accent-color": "#FF4FD8",
+    "surface": "#FFF1FA",
+    "inset-bg": "#FFF7FD",
+    "app-bg": "#FFFCFF",
+    "text-muted": "#7E6F86",
+    "text-subtle": "#6A5A73",
+    "era-label": "#1A101D",
+    "selection-color": "#7CE7FF",
+    "link-color": "#7A4DFF",
+    "light-bg": "#F7ECFF",
+    "border-color": "#E2C7F2",
+    "secondary-text": "#8A6F98",
+    "highlight-color": "#FFE66D",
+    "surface-active": "#FF4FD8"
+  },
+  "type": "light",
+  "collection": "Misc",
+  "author": "Lisa"
+}

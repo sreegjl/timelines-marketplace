@@ -1,0 +1,28 @@
+{
+  "name": "Miami - Palm Royale",
+  "font": {
+    "family": "Manrope",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Manrope:wght@300;400;500;600;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#315C4B",
+    "ui-muted": "#4F8A6A",
+    "accent-color": "#F7D9A0",
+    "surface": "#FFF6E8",
+    "inset-bg": "#FFFBF5",
+    "app-bg": "#FFFDFC",
+    "text-muted": "#9AA197",
+    "text-subtle": "#7B8278",
+    "era-label": "#30342F",
+    "selection-color": "#D9F7F0",
+    "link-color": "#2D7A68",
+    "light-bg": "#F8FBF8",
+    "border-color": "#D7E3D8",
+    "secondary-text": "#888F86",
+    "highlight-color": "#D4AF37",
+    "surface-active": "#F7D9A0"
+  },
+  "type": "light",
+  "collection": "Miami",
+  "author": "Lisa"
+}

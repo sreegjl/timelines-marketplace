@@ -1,0 +1,28 @@
+{
+  "name": "Beach - Surf Club",
+  "font": {
+    "family": "Space Grotesk",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#0B6E6B",
+    "ui-muted": "#14A098",
+    "accent-color": "#FF6B6B",
+    "surface": "#E9FFFB",
+    "inset-bg": "#F5FFFD",
+    "app-bg": "#FFFFFF",
+    "text-muted": "#8FA6A4",
+    "text-subtle": "#6D8D8B",
+    "era-label": "#2C3A39",
+    "selection-color": "#D3F8FF",
+    "link-color": "#1F7A7A",
+    "light-bg": "#F0FFFC",
+    "border-color": "#CBE7E3",
+    "secondary-text": "#7D908E",
+    "highlight-color": "#FFD166",
+    "surface-active": "#FF6B6B"
+  },
+  "type": "light",
+  "collection": "Beach",
+  "author": "Lisa"
+}

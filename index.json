@@ -1,11 +1,11 @@
-﻿{
+{
   "themes": [
     {
       "id": "console",
       "name": "Console",
       "author": "sreegjl",
       "type": "dark",
-      "collection": "marketplace",
+      "collection": "featured",
       "description": "A terminal-inspired dark theme with high contrast and muted accents.",
       "paths": {
         "theme": "themes/console/console.json",
@@ -17,7 +17,7 @@
       "name": "Cool",
       "author": "sreegjl",
       "type": "light",
-      "collection": "marketplace",
+      "collection": "featured",
       "description": "A clean, cool-toned theme with soft contrast for everyday use.",
       "paths": {
         "theme": "themes/cool/cool.json",
@@ -29,7 +29,7 @@
       "name": "Dracula",
       "author": "sreegjl",
       "type": "dark",
-      "collection": "marketplace",
+      "collection": "featured",
       "description": "A gothic dark theme with deep shadows and blood-red accents.",
       "paths": {
         "theme": "themes/dracula/dracula.json",
@@ -41,7 +41,7 @@
       "name": "Mocha",
       "author": "sreegjl",
       "type": "dark",
-      "collection": "marketplace",
+      "collection": "featured",
       "description": "A dark brown theme with warm tones and restrained, low-contrast accents.",
       "paths": {
         "theme": "themes/mocha/mocha.json",
@@ -53,7 +53,7 @@
       "name": "Nebula",
       "author": "sreegjl",
       "type": "dark",
-      "collection": "marketplace",
+      "collection": "featured",
       "description": "A sci-fi inspired dark theme with deep blue-purple tones and vivid pink accents.",
       "paths": {
         "theme": "themes/nebula/nebula.json",
@@ -65,7 +65,7 @@
       "name": "Starpoint",
       "author": "sreegjl",
       "type": "dark",
-      "collection": "marketplace",
+      "collection": "featured",
       "description": "A retro inspired dark theme with a dark-blue background and yellow accents.",
       "paths": {
         "theme": "themes/starpoint/starpoint.json",
@@ -77,11 +77,1034 @@
       "name": "Strawberry",
       "author": "sreegjl",
       "type": "light",
-      "collection": "marketplace",
+      "collection": "featured",
       "description": "A light, airy theme with a creamy background and soft strawberry-red accents.",
       "paths": {
         "theme": "themes/strawberry/strawberry.json",
         "thumbnail": "themes/strawberry/thumbnail.png"
+      }
+    },
+    {
+      "id": "beach-beachescape",
+      "name": "Beach - Beach Escape",
+      "author": "Lisa",
+      "collection": "Beach",
+      "description": "",
+      "paths": {
+        "theme": "themes/beach-beachescape/beach-beachescape.json",
+        "thumbnail": "themes/beach-beachescape/thumbnail.png"
+      }
+    },
+    {
+      "id": "beach-driftwood",
+      "name": "Beach - Driftwood",
+      "author": "Lisa",
+      "collection": "Beach",
+      "description": "",
+      "paths": {
+        "theme": "themes/beach-driftwood/beach-driftwood.json",
+        "thumbnail": "themes/beach-driftwood/thumbnail.png"
+      }
+    },
+    {
+      "id": "beach-goldenshore",
+      "name": "Beach - Golden Shore",
+      "author": "Lisa",
+      "collection": "Beach",
+      "description": "",
+      "paths": {
+        "theme": "themes/beach-goldenshore/beach-goldenshore.json",
+        "thumbnail": "themes/beach-goldenshore/thumbnail.png"
+      }
+    },
+    {
+      "id": "beach-malibumorning",
+      "name": "Beach - Malibu Morning",
+      "author": "Lisa",
+      "collection": "Beach",
+      "description": "",
+      "paths": {
+        "theme": "themes/beach-malibumorning/beach-malibumorning.json",
+        "thumbnail": "themes/beach-malibumorning/thumbnail.png"
+      }
+    },
+    {
+      "id": "beach-moonlitbeach",
+      "name": "Beach - Moonlit Beach",
+      "author": "Lisa",
+      "collection": "Beach",
+      "description": "",
+      "paths": {
+        "theme": "themes/beach-moonlitbeach/beach-moonlitbeach.json",
+        "thumbnail": "themes/beach-moonlitbeach/thumbnail.png"
+      }
+    },
+    {
+      "id": "beach-pinksands",
+      "name": "Beach - Pink Sands",
+      "author": "Lisa",
+      "collection": "Beach",
+      "description": "",
+      "paths": {
+        "theme": "themes/beach-pinksands/beach-pinksands.json",
+        "thumbnail": "themes/beach-pinksands/thumbnail.png"
+      }
+    },
+    {
+      "id": "beach-santorinicoast",
+      "name": "Beach - Santorini Coast",
+      "author": "Lisa",
+      "collection": "Beach",
+      "description": "",
+      "paths": {
+        "theme": "themes/beach-santorinicoast/beach-santorinicoast.json",
+        "thumbnail": "themes/beach-santorinicoast/thumbnail.png"
+      }
+    },
+    {
+      "id": "beach-surfclub",
+      "name": "Beach - Surf Club",
+      "author": "Lisa",
+      "collection": "Beach",
+      "description": "",
+      "paths": {
+        "theme": "themes/beach-surfclub/beach-surfclub.json",
+        "thumbnail": "themes/beach-surfclub/thumbnail.png"
+      }
+    },
+    {
+      "id": "beach-tropicallagoon",
+      "name": "Beach - Tropical Lagoon",
+      "author": "Lisa",
+      "collection": "Beach",
+      "description": "",
+      "paths": {
+        "theme": "themes/beach-tropicallagoon/beach-tropicallagoon.json",
+        "thumbnail": "themes/beach-tropicallagoon/thumbnail.png"
+      }
+    },
+    {
+      "id": "food-chocolate",
+      "name": "Food - Chocolate",
+      "author": "Lisa",
+      "collection": "Food",
+      "description": "",
+      "paths": {
+        "theme": "themes/food-chocolate/food-chocolate.json",
+        "thumbnail": "themes/food-chocolate/thumbnail.png"
+      }
+    },
+    {
+      "id": "food-citruszest",
+      "name": "Food - Citrus Zest",
+      "author": "Lisa",
+      "collection": "Food",
+      "description": "",
+      "paths": {
+        "theme": "themes/food-citruszest/food-citruszest.json",
+        "thumbnail": "themes/food-citruszest/thumbnail.png"
+      }
+    },
+    {
+      "id": "food-coffeehouse",
+      "name": "Food - Coffee House",
+      "author": "Lisa",
+      "collection": "Food",
+      "description": "",
+      "paths": {
+        "theme": "themes/food-coffeehouse/food-coffeehouse.json",
+        "thumbnail": "themes/food-coffeehouse/thumbnail.png"
+      }
+    },
+    {
+      "id": "food-freshbread",
+      "name": "Food - Fresh Bread",
+      "author": "Lisa",
+      "collection": "Food",
+      "description": "",
+      "paths": {
+        "theme": "themes/food-freshbread/food-freshbread.json",
+        "thumbnail": "themes/food-freshbread/thumbnail.png"
+      }
+    },
+    {
+      "id": "food-freshfruitbasket",
+      "name": "Food - Fresh Fruit Basket",
+      "author": "Lisa",
+      "collection": "Food",
+      "description": "",
+      "paths": {
+        "theme": "themes/food-freshfruitbasket/food-freshfruitbasket.json",
+        "thumbnail": "themes/food-freshfruitbasket/thumbnail.png"
+      }
+    },
+    {
+      "id": "food-fruitcocktail",
+      "name": "Food - Fruit Cocktail",
+      "author": "Lisa",
+      "collection": "Food",
+      "description": "",
+      "paths": {
+        "theme": "themes/food-fruitcocktail/food-fruitcocktail.json",
+        "thumbnail": "themes/food-fruitcocktail/thumbnail.png"
+      }
+    },
+    {
+      "id": "food-gelatodream",
+      "name": "Food - Gelato Dream",
+      "author": "Lisa",
+      "collection": "Food",
+      "description": "",
+      "paths": {
+        "theme": "themes/food-gelatodream/food-gelatodream.json",
+        "thumbnail": "themes/food-gelatodream/thumbnail.png"
+      }
+    },
+    {
+      "id": "food-goldenpineapple",
+      "name": "Food - Golden Pineapple",
+      "author": "Lisa",
+      "collection": "Food",
+      "description": "",
+      "paths": {
+        "theme": "themes/food-goldenpineapple/food-goldenpineapple.json",
+        "thumbnail": "themes/food-goldenpineapple/thumbnail.png"
+      }
+    },
+    {
+      "id": "food-matchamochi",
+      "name": "Food - Matcha Mochi",
+      "author": "Lisa",
+      "collection": "Food",
+      "description": "",
+      "paths": {
+        "theme": "themes/food-matchamochi/food-matchamochi.json",
+        "thumbnail": "themes/food-matchamochi/thumbnail.png"
+      }
+    },
+    {
+      "id": "food-midnightramen",
+      "name": "Food - Midnight Ramen",
+      "author": "Lisa",
+      "collection": "Food",
+      "description": "",
+      "paths": {
+        "theme": "themes/food-midnightramen/food-midnightramen.json",
+        "thumbnail": "themes/food-midnightramen/thumbnail.png"
+      }
+    },
+    {
+      "id": "food-orange",
+      "name": "Food - Orange",
+      "author": "Lisa",
+      "collection": "Food",
+      "description": "",
+      "paths": {
+        "theme": "themes/food-orange/food-orange.json",
+        "thumbnail": "themes/food-orange/thumbnail.png"
+      }
+    },
+    {
+      "id": "food-pineapplesunshine",
+      "name": "Food - Pineapple Sunshine",
+      "author": "Lisa",
+      "collection": "Food",
+      "description": "",
+      "paths": {
+        "theme": "themes/food-pineapplesunshine/food-pineapplesunshine.json",
+        "thumbnail": "themes/food-pineapplesunshine/thumbnail.png"
+      }
+    },
+    {
+      "id": "food-pizza",
+      "name": "Food - Pizza",
+      "author": "Lisa",
+      "collection": "Food",
+      "description": "",
+      "paths": {
+        "theme": "themes/food-pizza/food-pizza.json",
+        "thumbnail": "themes/food-pizza/thumbnail.png"
+      }
+    },
+    {
+      "id": "food-ripepeach",
+      "name": "Food - Ripe Peach",
+      "author": "Lisa",
+      "collection": "Food",
+      "description": "",
+      "paths": {
+        "theme": "themes/food-ripepeach/food-ripepeach.json",
+        "thumbnail": "themes/food-ripepeach/thumbnail.png"
+      }
+    },
+    {
+      "id": "food-smokybbq",
+      "name": "Food - Smoky BBQ",
+      "author": "Lisa",
+      "collection": "Food",
+      "description": "",
+      "paths": {
+        "theme": "themes/food-smokybbq/food-smokybbq.json",
+        "thumbnail": "themes/food-smokybbq/thumbnail.png"
+      }
+    },
+    {
+      "id": "food-steakhouse",
+      "name": "Food - Steakhouse",
+      "author": "Lisa",
+      "collection": "Food",
+      "description": "",
+      "paths": {
+        "theme": "themes/food-steakhouse/food-steakhouse.json",
+        "thumbnail": "themes/food-steakhouse/thumbnail.png"
+      }
+    },
+    {
+      "id": "food-tomato",
+      "name": "Food - Tomato",
+      "author": "Lisa",
+      "collection": "Food",
+      "description": "",
+      "paths": {
+        "theme": "themes/food-tomato/food-tomato.json",
+        "thumbnail": "themes/food-tomato/thumbnail.png"
+      }
+    },
+    {
+      "id": "food-tropicalpineapplecocktail",
+      "name": "Food - Tropical Pineapple Cocktail",
+      "author": "Lisa",
+      "collection": "Food",
+      "description": "",
+      "paths": {
+        "theme": "themes/food-tropicalpineapplecocktail/food-tropicalpineapplecocktail.json",
+        "thumbnail": "themes/food-tropicalpineapplecocktail/thumbnail.png"
+      }
+    },
+    {
+      "id": "food-vanillaicecream",
+      "name": "Food - Vanilla Ice Cream",
+      "author": "Lisa",
+      "collection": "Food",
+      "description": "",
+      "paths": {
+        "theme": "themes/food-vanillaicecream/food-vanillaicecream.json",
+        "thumbnail": "themes/food-vanillaicecream/thumbnail.png"
+      }
+    },
+    {
+      "id": "food-winecellar",
+      "name": "Food - Wine Cellar",
+      "author": "Lisa",
+      "collection": "Food",
+      "description": "",
+      "paths": {
+        "theme": "themes/food-winecellar/food-winecellar.json",
+        "thumbnail": "themes/food-winecellar/thumbnail.png"
+      }
+    },
+    {
+      "id": "jamaica-jamaicabluehole",
+      "name": "Jamaica - Jamaica Blue Hole",
+      "author": "Lisa",
+      "collection": "Jamaica",
+      "description": "",
+      "paths": {
+        "theme": "themes/jamaica-jamaicabluehole/jamaica-jamaicabluehole.json",
+        "thumbnail": "themes/jamaica-jamaicabluehole/thumbnail.png"
+      }
+    },
+    {
+      "id": "jamaica-jamaicacaribbeansea",
+      "name": "Jamaica - Jamaica Caribbean Sea",
+      "author": "Lisa",
+      "collection": "Jamaica",
+      "description": "",
+      "paths": {
+        "theme": "themes/jamaica-jamaicacaribbeansea/jamaica-jamaicacaribbeansea.json",
+        "thumbnail": "themes/jamaica-jamaicacaribbeansea/thumbnail.png"
+      }
+    },
+    {
+      "id": "jamaica-jamaicajungle",
+      "name": "Jamaica - Jamaica Jungle",
+      "author": "Lisa",
+      "collection": "Jamaica",
+      "description": "",
+      "paths": {
+        "theme": "themes/jamaica-jamaicajungle/jamaica-jamaicajungle.json",
+        "thumbnail": "themes/jamaica-jamaicajungle/thumbnail.png"
+      }
+    },
+    {
+      "id": "jamaica-jamaicakonokofalls",
+      "name": "Jamaica - Jamaica Konoko Falls",
+      "author": "Lisa",
+      "collection": "Jamaica",
+      "description": "",
+      "paths": {
+        "theme": "themes/jamaica-jamaicakonokofalls/jamaica-jamaicakonokofalls.json",
+        "thumbnail": "themes/jamaica-jamaicakonokofalls/thumbnail.png"
+      }
+    },
+    {
+      "id": "jamaica-jamaicamarijuana",
+      "name": "Jamaica - Jamaica Marijuana ",
+      "author": "Lisa",
+      "collection": "Jamaica",
+      "description": "",
+      "paths": {
+        "theme": "themes/jamaica-jamaicamarijuana/jamaica-jamaicamarijuana.json",
+        "thumbnail": "themes/jamaica-jamaicamarijuana/thumbnail.png"
+      }
+    },
+    {
+      "id": "jamaica-onelove",
+      "name": "Jamaica - One Love",
+      "author": "Lisa",
+      "collection": "Jamaica",
+      "description": "",
+      "paths": {
+        "theme": "themes/jamaica-onelove/jamaica-onelove.json",
+        "thumbnail": "themes/jamaica-onelove/thumbnail.png"
+      }
+    },
+    {
+      "id": "jamaica-rastafarigold",
+      "name": "Jamaica - Rastafari Gold",
+      "author": "Lisa",
+      "collection": "Jamaica",
+      "description": "",
+      "paths": {
+        "theme": "themes/jamaica-rastafarigold/jamaica-rastafarigold.json",
+        "thumbnail": "themes/jamaica-rastafarigold/thumbnail.png"
+      }
+    },
+    {
+      "id": "japan-mossgarden",
+      "name": "Japan - Moss Garden",
+      "author": "Lisa",
+      "collection": "Japan",
+      "description": "",
+      "paths": {
+        "theme": "themes/japan-mossgarden/japan-mossgarden.json",
+        "thumbnail": "themes/japan-mossgarden/thumbnail.png"
+      }
+    },
+    {
+      "id": "japan-greatwave",
+      "name": "Japan - Great Wave",
+      "author": "Lisa",
+      "collection": "Japan",
+      "description": "",
+      "paths": {
+        "theme": "themes/japan-greatwave/japan-greatwave.json",
+        "thumbnail": "themes/japan-greatwave/thumbnail.png"
+      }
+    },
+    {
+      "id": "japan-japaneskoipond",
+      "name": "Japan - Japanese Koi Pond",
+      "author": "Lisa",
+      "collection": "Japan",
+      "description": "",
+      "paths": {
+        "theme": "themes/japan-japaneskoipond/japan-japaneskoipond.json",
+        "thumbnail": "themes/japan-japaneskoipond/thumbnail.png"
+      }
+    },
+    {
+      "id": "japan-kyotosakura",
+      "name": "Japan - Kyoto Sakura",
+      "author": "Lisa",
+      "collection": "Japan",
+      "description": "",
+      "paths": {
+        "theme": "themes/japan-kyotosakura/japan-kyotosakura.json",
+        "thumbnail": "themes/japan-kyotosakura/thumbnail.png"
+      }
+    },
+    {
+      "id": "japan-kyototemple",
+      "name": "Japan - Kyoto Temple",
+      "author": "Lisa",
+      "collection": "Japan",
+      "description": "",
+      "paths": {
+        "theme": "themes/japan-kyototemple/japan-kyototemple.json",
+        "thumbnail": "themes/japan-kyototemple/thumbnail.png"
+      }
+    },
+    {
+      "id": "japan-mujiminimal",
+      "name": "Japan - Muji Minimal",
+      "author": "Lisa",
+      "collection": "Japan",
+      "description": "",
+      "paths": {
+        "theme": "themes/japan-mujiminimal/japan-mujiminimal.json",
+        "thumbnail": "themes/japan-mujiminimal/thumbnail.png"
+      }
+    },
+    {
+      "id": "japan-teahouse",
+      "name": "Japan - Tea House",
+      "author": "Lisa",
+      "collection": "Japan",
+      "description": "",
+      "paths": {
+        "theme": "themes/japan-teahouse/japan-teahouse.json",
+        "thumbnail": "themes/japan-teahouse/thumbnail.png"
+      }
+    },
+    {
+      "id": "japan-toriisunset",
+      "name": "Japan - Torii Sunset",
+      "author": "Lisa",
+      "collection": "Japan",
+      "description": "",
+      "paths": {
+        "theme": "themes/japan-toriisunset/japan-toriisunset.json",
+        "thumbnail": "themes/japan-toriisunset/thumbnail.png"
+      }
+    },
+    {
+      "id": "japan-ukiyo-e",
+      "name": "Japan - Ukiyo-e",
+      "author": "Lisa",
+      "collection": "Japan",
+      "description": "",
+      "paths": {
+        "theme": "themes/japan-ukiyo-e/japan-ukiyo-e.json",
+        "thumbnail": "themes/japan-ukiyo-e/thumbnail.png"
+      }
+    },
+    {
+      "id": "japan-zengarden",
+      "name": "Japan - Zen Garden",
+      "author": "Lisa",
+      "collection": "Japan",
+      "description": "",
+      "paths": {
+        "theme": "themes/japan-zengarden/japan-zengarden.json",
+        "thumbnail": "themes/japan-zengarden/thumbnail.png"
+      }
+    },
+    {
+      "id": "miami-artdecomiami",
+      "name": "Miami - Art Deco Miami",
+      "author": "Lisa",
+      "collection": "Miami",
+      "description": "",
+      "paths": {
+        "theme": "themes/miami-artdecomiami/miami-artdecomiami.json",
+        "thumbnail": "themes/miami-artdecomiami/thumbnail.png"
+      }
+    },
+    {
+      "id": "miami-biscayneblue",
+      "name": "Miami - Biscayne Blue",
+      "author": "Lisa",
+      "collection": "Miami",
+      "description": "",
+      "paths": {
+        "theme": "themes/miami-biscayneblue/miami-biscayneblue.json",
+        "thumbnail": "themes/miami-biscayneblue/thumbnail.png"
+      }
+    },
+    {
+      "id": "miami-champagnecoast",
+      "name": "Miami - Champagne Coast",
+      "author": "Lisa",
+      "collection": "Miami",
+      "description": "",
+      "paths": {
+        "theme": "themes/miami-champagnecoast/miami-champagnecoast.json",
+        "thumbnail": "themes/miami-champagnecoast/thumbnail.png"
+      }
+    },
+    {
+      "id": "miami-coconutgrove",
+      "name": "Miami - Coconut Grove",
+      "author": "Lisa",
+      "collection": "Miami",
+      "description": "",
+      "paths": {
+        "theme": "themes/miami-coconutgrove/miami-coconutgrove.json",
+        "thumbnail": "themes/miami-coconutgrove/thumbnail.png"
+      }
+    },
+    {
+      "id": "miami-flamingopink",
+      "name": "Miami - Flamingo Pink",
+      "author": "Lisa",
+      "collection": "Miami",
+      "description": "",
+      "paths": {
+        "theme": "themes/miami-flamingopink/miami-flamingopink.json",
+        "thumbnail": "themes/miami-flamingopink/thumbnail.png"
+      }
+    },
+    {
+      "id": "miami-oceandrive",
+      "name": "Miami - Ocean Drive",
+      "author": "Lisa",
+      "collection": "Miami",
+      "description": "",
+      "paths": {
+        "theme": "themes/miami-oceandrive/miami-oceandrive.json",
+        "thumbnail": "themes/miami-oceandrive/thumbnail.png"
+      }
+    },
+    {
+      "id": "miami-palmroyale",
+      "name": "Miami - Palm Royale",
+      "author": "Lisa",
+      "collection": "Miami",
+      "description": "",
+      "paths": {
+        "theme": "themes/miami-palmroyale/miami-palmroyale.json",
+        "thumbnail": "themes/miami-palmroyale/thumbnail.png"
+      }
+    },
+    {
+      "id": "miami-southbeachluxury",
+      "name": "Miami - South Beach Luxury",
+      "author": "Lisa",
+      "collection": "Miami",
+      "description": "",
+      "paths": {
+        "theme": "themes/miami-southbeachluxury/miami-southbeachluxury.json",
+        "thumbnail": "themes/miami-southbeachluxury/thumbnail.png"
+      }
+    },
+    {
+      "id": "miami-southbeachsunset",
+      "name": "Miami - South Beach Sunset",
+      "author": "Lisa",
+      "collection": "Miami",
+      "description": "",
+      "paths": {
+        "theme": "themes/miami-southbeachsunset/miami-southbeachsunset.json",
+        "thumbnail": "themes/miami-southbeachsunset/thumbnail.png"
+      }
+    },
+    {
+      "id": "misc-bloomgarden",
+      "name": "Misc - Bloom Garden",
+      "author": "Lisa",
+      "collection": "Misc",
+      "description": "",
+      "paths": {
+        "theme": "themes/misc-bloomgarden/misc-bloomgarden.json",
+        "thumbnail": "themes/misc-bloomgarden/thumbnail.png"
+      }
+    },
+    {
+      "id": "misc-christmas",
+      "name": "Misc - Christmas",
+      "author": "Lisa",
+      "collection": "Misc",
+      "description": "",
+      "paths": {
+        "theme": "themes/misc-christmas/misc-christmas.json",
+        "thumbnail": "themes/misc-christmas/thumbnail.png"
+      }
+    },
+    {
+      "id": "misc-cloudyskies",
+      "name": "Misc - Cloudy Skies",
+      "author": "Lisa",
+      "collection": "Misc",
+      "description": "",
+      "paths": {
+        "theme": "themes/misc-cloudyskies/misc-cloudyskies.json",
+        "thumbnail": "themes/misc-cloudyskies/thumbnail.png"
+      }
+    },
+    {
+      "id": "misc-crtpixeldreams",
+      "name": "Misc - CRT Pixel Dreams",
+      "author": "Lisa",
+      "collection": "Misc",
+      "description": "",
+      "paths": {
+        "theme": "themes/misc-crtpixeldreams/misc-crtpixeldreams.json",
+        "thumbnail": "themes/misc-crtpixeldreams/thumbnail.png"
+      }
+    },
+    {
+      "id": "misc-cyberpunkneon",
+      "name": "Misc - Cyberpunk Neon",
+      "author": "Lisa",
+      "collection": "Misc",
+      "description": "",
+      "paths": {
+        "theme": "themes/misc-cyberpunkneon/misc-cyberpunkneon.json",
+        "thumbnail": "themes/misc-cyberpunkneon/thumbnail.png"
+      }
+    },
+    {
+      "id": "misc-deepforest",
+      "name": "Misc - Deep Forest",
+      "author": "Lisa",
+      "collection": "Misc",
+      "description": "",
+      "paths": {
+        "theme": "themes/misc-deepforest/misc-deepforest.json",
+        "thumbnail": "themes/misc-deepforest/thumbnail.png"
+      }
+    },
+    {
+      "id": "misc-freshgrass",
+      "name": "Misc - Fresh Grass",
+      "author": "Lisa",
+      "collection": "Misc",
+      "description": "",
+      "paths": {
+        "theme": "themes/misc-freshgrass/misc-freshgrass.json",
+        "thumbnail": "themes/misc-freshgrass/thumbnail.png"
+      }
+    },
+    {
+      "id": "misc-retroclassic",
+      "name": "Misc - Retro Classic",
+      "author": "Lisa",
+      "collection": "Misc",
+      "description": "",
+      "paths": {
+        "theme": "themes/misc-retroclassic/misc-retroclassic.json",
+        "thumbnail": "themes/misc-retroclassic/thumbnail.png"
+      }
+    },
+    {
+      "id": "misc-bluepixel",
+      "name": "Misc - Blue Pixel",
+      "author": "Lisa",
+      "collection": "Misc",
+      "description": "",
+      "paths": {
+        "theme": "themes/misc-bluepixel/misc-bluepixel.json",
+        "thumbnail": "themes/misc-bluepixel/thumbnail.png"
+      }
+    },
+    {
+      "id": "misc-iceage",
+      "name": "Misc - Ice Age",
+      "author": "Lisa",
+      "collection": "Misc",
+      "description": "",
+      "paths": {
+        "theme": "themes/misc-iceage/misc-iceage.json",
+        "thumbnail": "themes/misc-iceage/thumbnail.png"
+      }
+    },
+    {
+      "id": "misc-italiantomatogarden",
+      "name": "Misc - Italian Tomato Garden",
+      "author": "Lisa",
+      "collection": "Misc",
+      "description": "",
+      "paths": {
+        "theme": "themes/misc-italiantomatogarden/misc-italiantomatogarden.json",
+        "thumbnail": "themes/misc-italiantomatogarden/thumbnail.png"
+      }
+    },
+    {
+      "id": "misc-jurassicamber",
+      "name": "Misc - Jurassic Amber",
+      "author": "Lisa",
+      "collection": "Misc",
+      "description": "",
+      "paths": {
+        "theme": "themes/misc-jurassicamber/misc-jurassicamber.json",
+        "thumbnail": "themes/misc-jurassicamber/thumbnail.png"
+      }
+    },
+    {
+      "id": "misc-miaminights",
+      "name": "Misc - Miami Nights",
+      "author": "Lisa",
+      "collection": "Misc",
+      "description": "",
+      "paths": {
+        "theme": "themes/misc-miaminights/misc-miaminights.json",
+        "thumbnail": "themes/misc-miaminights/thumbnail.png"
+      }
+    },
+    {
+      "id": "misc-8bitquest",
+      "name": "Misc - 8-Bit Quest",
+      "author": "Lisa",
+      "collection": "Misc",
+      "description": "",
+      "paths": {
+        "theme": "themes/misc-8bitquest/misc-8bitquest.json",
+        "thumbnail": "themes/misc-8bitquest/thumbnail.png"
+      }
+    },
+    {
+      "id": "misc-outrunsunset",
+      "name": "Misc - Outrun Sunset",
+      "author": "Lisa",
+      "collection": "Misc",
+      "description": "",
+      "paths": {
+        "theme": "themes/misc-outrunsunset/misc-outrunsunset.json",
+        "thumbnail": "themes/misc-outrunsunset/thumbnail.png"
+      }
+    },
+    {
+      "id": "misc-pixelquest",
+      "name": "Misc - Pixel Quest",
+      "author": "Lisa",
+      "collection": "Misc",
+      "description": "",
+      "paths": {
+        "theme": "themes/misc-pixelquest/misc-pixelquest.json",
+        "thumbnail": "themes/misc-pixelquest/thumbnail.png"
+      }
+    },
+    {
+      "id": "misc-psychedelicdream",
+      "name": "Misc - Psychedelic Dream",
+      "author": "Lisa",
+      "collection": "Misc",
+      "description": "",
+      "paths": {
+        "theme": "themes/misc-psychedelicdream/misc-psychedelicdream.json",
+        "thumbnail": "themes/misc-psychedelicdream/thumbnail.png"
+      }
+    },
+    {
+      "id": "misc-rainyday",
+      "name": "Misc - Rainy Day",
+      "author": "Lisa",
+      "collection": "Misc",
+      "description": "",
+      "paths": {
+        "theme": "themes/misc-rainyday/misc-rainyday.json",
+        "thumbnail": "themes/misc-rainyday/thumbnail.png"
+      }
+    },
+    {
+      "id": "misc-reggaevibes",
+      "name": "Misc - Reggae Vibes",
+      "author": "Lisa",
+      "collection": "Misc",
+      "description": "",
+      "paths": {
+        "theme": "themes/misc-reggaevibes/misc-reggaevibes.json",
+        "thumbnail": "themes/misc-reggaevibes/thumbnail.png"
+      }
+    },
+    {
+      "id": "misc-retroarcade",
+      "name": "Misc - Retro Arcade",
+      "author": "Lisa",
+      "collection": "Misc",
+      "description": "",
+      "paths": {
+        "theme": "themes/misc-retroarcade/misc-retroarcade.json",
+        "thumbnail": "themes/misc-retroarcade/thumbnail.png"
+      }
+    },
+    {
+      "id": "misc-sandstorm",
+      "name": "Misc - Sandstorm",
+      "author": "Lisa",
+      "collection": "Misc",
+      "description": "",
+      "paths": {
+        "theme": "themes/misc-sandstorm/misc-sandstorm.json",
+        "thumbnail": "themes/misc-sandstorm/thumbnail.png"
+      }
+    },
+    {
+      "id": "misc-synthwave",
+      "name": "Misc - Synthwave",
+      "author": "Lisa",
+      "collection": "Misc",
+      "description": "",
+      "paths": {
+        "theme": "themes/misc-synthwave/misc-synthwave.json",
+        "thumbnail": "themes/misc-synthwave/thumbnail.png"
+      }
+    },
+    {
+      "id": "misc-thunderstorm",
+      "name": "Misc - Thunderstorm",
+      "author": "Lisa",
+      "collection": "Misc",
+      "description": "",
+      "paths": {
+        "theme": "themes/misc-thunderstorm/misc-thunderstorm.json",
+        "thumbnail": "themes/misc-thunderstorm/thumbnail.png"
+      }
+    },
+    {
+      "id": "misc-tropicalparadise",
+      "name": "Misc - Tropical Paradise",
+      "author": "Lisa",
+      "collection": "Misc",
+      "description": "",
+      "paths": {
+        "theme": "themes/misc-tropicalparadise/misc-tropicalparadise.json",
+        "thumbnail": "themes/misc-tropicalparadise/thumbnail.png"
+      }
+    },
+    {
+      "id": "misc-waterfallcascade",
+      "name": "Misc - Waterfall Cascade",
+      "author": "Lisa",
+      "collection": "Misc",
+      "description": "",
+      "paths": {
+        "theme": "themes/misc-waterfallcascade/misc-waterfallcascade.json",
+        "thumbnail": "themes/misc-waterfallcascade/thumbnail.png"
+      }
+    },
+    {
+      "id": "rainforest-amazonriver",
+      "name": "Rainforest - Amazon River",
+      "author": "Lisa",
+      "collection": "Rainforest",
+      "description": "",
+      "paths": {
+        "theme": "themes/rainforest-amazonriver/rainforest-amazonriver.json",
+        "thumbnail": "themes/rainforest-amazonriver/thumbnail.png"
+      }
+    },
+    {
+      "id": "rainforest-emeraldcanopy",
+      "name": "Rainforest - Emerald Canopy",
+      "author": "Lisa",
+      "collection": "Rainforest",
+      "description": "",
+      "paths": {
+        "theme": "themes/rainforest-emeraldcanopy/rainforest-emeraldcanopy.json",
+        "thumbnail": "themes/rainforest-emeraldcanopy/thumbnail.png"
+      }
+    },
+    {
+      "id": "rainforest-junglestorm",
+      "name": "Rainforest - Jungle Storm",
+      "author": "Lisa",
+      "collection": "Rainforest",
+      "description": "",
+      "paths": {
+        "theme": "themes/rainforest-junglestorm/rainforest-junglestorm.json",
+        "thumbnail": "themes/rainforest-junglestorm/thumbnail.png"
+      }
+    },
+    {
+      "id": "rainforest-mossandstone",
+      "name": "Rainforest - Moss & Stone",
+      "author": "Lisa",
+      "collection": "Rainforest",
+      "description": "",
+      "paths": {
+        "theme": "themes/rainforest-mossandstone/rainforest-mossandstone.json",
+        "thumbnail": "themes/rainforest-mossandstone/thumbnail.png"
+      }
+    },
+    {
+      "id": "rainforest-orchidbloom",
+      "name": "Rainforest - Orchid Bloom",
+      "author": "Lisa",
+      "collection": "Rainforest",
+      "description": "",
+      "paths": {
+        "theme": "themes/rainforest-orchidbloom/rainforest-orchidbloom.json",
+        "thumbnail": "themes/rainforest-orchidbloom/thumbnail.png"
+      }
+    },
+    {
+      "id": "rainforest-rainforestnight",
+      "name": "Rainforest - Rainforest Night",
+      "author": "Lisa",
+      "collection": "Rainforest",
+      "description": "",
+      "paths": {
+        "theme": "themes/rainforest-rainforestnight/rainforest-rainforestnight.json",
+        "thumbnail": "themes/rainforest-rainforestnight/thumbnail.png"
+      }
+    },
+    {
+      "id": "summer-coastalbreeze",
+      "name": "Summer - Coastal Breeze",
+      "author": "Lisa",
+      "collection": "Summer",
+      "description": "",
+      "paths": {
+        "theme": "themes/summer-coastalbreeze/summer-coastalbreeze.json",
+        "thumbnail": "themes/summer-coastalbreeze/thumbnail.png"
+      }
+    },
+    {
+      "id": "summer-hibiscussummer",
+      "name": "Summer - Hibiscus Summer",
+      "author": "Lisa",
+      "collection": "Summer",
+      "description": "",
+      "paths": {
+        "theme": "themes/summer-hibiscussummer/summer-hibiscussummer.json",
+        "thumbnail": "themes/summer-hibiscussummer/thumbnail.png"
+      }
+    },
+    {
+      "id": "summer-lemonadesummer",
+      "name": "Summer - Lemonade Summer",
+      "author": "Lisa",
+      "collection": "Summer",
+      "description": "",
+      "paths": {
+        "theme": "themes/summer-lemonadesummer/summer-lemonadesummer.json",
+        "thumbnail": "themes/summer-lemonadesummer/thumbnail.png"
+      }
+    },
+    {
+      "id": "summer-oceansummer",
+      "name": "Summer - Ocean Summer",
+      "author": "Lisa",
+      "collection": "Summer",
+      "description": "",
+      "paths": {
+        "theme": "themes/summer-oceansummer/summer-oceansummer.json",
+        "thumbnail": "themes/summer-oceansummer/thumbnail.png"
+      }
+    },
+    {
+      "id": "summer-summer",
+      "name": "Summer - Summer",
+      "author": "Lisa",
+      "collection": "Summer",
+      "description": "",
+      "paths": {
+        "theme": "themes/summer-summer/summer-summer.json",
+        "thumbnail": "themes/summer-summer/thumbnail.png"
+      }
+    },
+    {
+      "id": "summer-summersunset",
+      "name": "Summer - Summer Sunset",
+      "author": "Lisa",
+      "collection": "Summer",
+      "description": "",
+      "paths": {
+        "theme": "themes/summer-summersunset/summer-summersunset.json",
+        "thumbnail": "themes/summer-summersunset/thumbnail.png"
+      }
+    },
+    {
+      "id": "summer-tropicalsummer",
+      "name": "Summer - Tropical Summer",
+      "author": "Lisa",
+      "collection": "Summer",
+      "description": "",
+      "paths": {
+        "theme": "themes/summer-tropicalsummer/summer-tropicalsummer.json",
+        "thumbnail": "themes/summer-tropicalsummer/thumbnail.png"
       }
     }
   ]

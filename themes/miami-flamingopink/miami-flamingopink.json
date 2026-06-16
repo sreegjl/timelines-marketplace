@@ -1,0 +1,28 @@
+{
+  "name": "Miami - Flamingo Pink",
+  "font": {
+    "family": "Quicksand",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#D96A8A",
+    "ui-muted": "#F28BA8",
+    "accent-color": "#FFE4EC",
+    "surface": "#FFF2F6",
+    "inset-bg": "#FFF8FA",
+    "app-bg": "#FFFCFD",
+    "text-muted": "#A1949A",
+    "text-subtle": "#84767C",
+    "era-label": "#382F33",
+    "selection-color": "#DDF8FF",
+    "link-color": "#4B7EA8",
+    "light-bg": "#FFF9FB",
+    "border-color": "#F0D7E0",
+    "secondary-text": "#8C7F85",
+    "highlight-color": "#FFD166",
+    "surface-active": "#FFE4EC"
+  },
+  "type": "light",
+  "collection": "Miami",
+  "author": "Lisa"
+}

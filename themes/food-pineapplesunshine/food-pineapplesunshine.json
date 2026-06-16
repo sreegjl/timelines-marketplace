@@ -1,0 +1,28 @@
+{
+  "name": "Food - Pineapple Sunshine",
+  "type": "light",
+  "collection": "Food",
+  "author": "Lisa",
+  "font": {
+    "family": "Lexend",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Lexend:wght@300..700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#4A3A18",
+    "ui-muted": "#9E8A52",
+    "accent-color": "#F5D45A",
+    "surface-active": "#F5D45A",
+    "surface": "#FBEAA3",
+    "inset-bg": "#FFFBE8",
+    "app-bg": "#FFFDF4",
+    "text-muted": "#8D8468",
+    "text-subtle": "#7C745C",
+    "era-label": "#2D240E",
+    "selection-color": "#A7D9FF",
+    "link-color": "#5F9B4B",
+    "light-bg": "#FFF6CC",
+    "border-color": "#E8D98A",
+    "secondary-text": "#7C745C",
+    "highlight-color": "#FFD93D"
+  }
+}

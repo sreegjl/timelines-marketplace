@@ -1,0 +1,28 @@
+{
+  "name": "Miami - Art Deco Miami",
+  "font": {
+    "family": "Josefin Sans",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400;500;600;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#1F3A5F",
+    "ui-muted": "#4C7A8A",
+    "accent-color": "#F4C7AB",
+    "surface": "#FDF3E7",
+    "inset-bg": "#FFF8F0",
+    "app-bg": "#FFFCF8",
+    "text-muted": "#9B9A95",
+    "text-subtle": "#7B7A76",
+    "era-label": "#32312F",
+    "selection-color": "#D6F4F7",
+    "link-color": "#2F6F9F",
+    "light-bg": "#F8FAFB",
+    "border-color": "#D9D3CA",
+    "secondary-text": "#8A857D",
+    "highlight-color": "#D4AF37",
+    "surface-active": "#F4C7AB"
+  },
+  "type": "light",
+  "collection": "Miami",
+  "author": "Lisa"
+}

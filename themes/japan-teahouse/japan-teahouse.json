@@ -1,0 +1,28 @@
+{
+  "name": "Japan - Tea House",
+  "font": {
+    "family": "Zen Old Mincho",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Zen+Old+Mincho:wght@400;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#2E3426",
+    "ui-muted": "#4E5A3D",
+    "accent-color": "#8AA66C",
+    "surface": "#F4EBD8",
+    "inset-bg": "#FAF4E7",
+    "app-bg": "#FEFBF3",
+    "text-muted": "#8B8478",
+    "text-subtle": "#70695F",
+    "era-label": "#2B2721",
+    "selection-color": "#C5DDBF",
+    "link-color": "#557245",
+    "light-bg": "#F7F2E7",
+    "border-color": "#D8CCB8",
+    "secondary-text": "#736B61",
+    "highlight-color": "#B68B5A",
+    "surface-active": "#8AA66C"
+  },
+  "type": "light",
+  "collection": "Japan",
+  "author": "Lisa"
+}

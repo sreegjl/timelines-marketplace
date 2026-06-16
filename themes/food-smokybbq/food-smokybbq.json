@@ -1,0 +1,28 @@
+{
+  "name": "Food - Smoky BBQ",
+  "type": "light",
+  "collection": "Food",
+  "author": "Lisa",
+  "font": {
+    "family": "Lexend",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Lexend:wght@300..700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#2E231F",
+    "ui-muted": "#78675D",
+    "accent-color": "#D6B08A",
+    "surface-active": "#E0BE9D",
+    "surface": "#F5E6D8",
+    "inset-bg": "#FCF7F2",
+    "app-bg": "#FFFDFC",
+    "text-muted": "#90857D",
+    "text-subtle": "#746962",
+    "era-label": "#1D1411",
+    "selection-color": "#C86A3A",
+    "link-color": "#A33A24",
+    "light-bg": "#F8EFE8",
+    "border-color": "#E2D2C4",
+    "secondary-text": "#746962",
+    "highlight-color": "#F0B84A"
+  }
+}

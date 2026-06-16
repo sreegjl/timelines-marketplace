@@ -1,0 +1,28 @@
+{
+  "name": "Misc - Italian Tomato Garden",
+  "font": {
+    "family": "Red Rose",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Red+Rose:wght@300;400;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#A62D2D",
+    "ui-muted": "#6B8E4E",
+    "accent-color": "#FFD7B5",
+    "surface": "#FFF3E6",
+    "inset-bg": "#FFF8F1",
+    "app-bg": "#FFFDF8",
+    "text-muted": "#7B756B",
+    "text-subtle": "#686258",
+    "era-label": "#1D1A17",
+    "selection-color": "#8AC7FF",
+    "link-color": "#4F7A3D",
+    "light-bg": "#F6F1E8",
+    "border-color": "#DCCFC0",
+    "secondary-text": "#7A7064",
+    "highlight-color": "#C95A38",
+    "surface-active": "#FFD7B5"
+  },
+  "type": "light",
+  "collection": "Misc",
+  "author": "Lisa"
+}

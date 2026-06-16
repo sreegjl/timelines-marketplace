@@ -1,0 +1,28 @@
+{
+  "name": "Jamaica - Jamaica Caribbean Sea",
+  "type": "light",
+  "collection": "Jamaica",
+  "author": "Lisa",
+  "font": {
+    "family": "Lexend",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Lexend:wght@300..700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#12384A",
+    "ui-muted": "#5F8FA3",
+    "accent-color": "#19B7C9",
+    "surface-active": "#7EDFE8",
+    "surface": "#DDF5F7",
+    "inset-bg": "#F1FBFC",
+    "app-bg": "#FAFEFF",
+    "text-muted": "#6C8E99",
+    "text-subtle": "#54727C",
+    "era-label": "#0A2734",
+    "selection-color": "#6ED8FF",
+    "link-color": "#0077B6",
+    "light-bg": "#EAF9FB",
+    "border-color": "#B7E3E8",
+    "secondary-text": "#54727C",
+    "highlight-color": "#FFD166"
+  }
+}

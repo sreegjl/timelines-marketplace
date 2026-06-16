@@ -1,0 +1,28 @@
+{
+  "name": "Rainforest - Orchid Bloom",
+  "font": {
+    "family": "Poppins",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#2A1F2D",
+    "ui-muted": "#5C3D5E",
+    "accent-color": "#FF9EC7",
+    "surface": "#FFF0F6",
+    "inset-bg": "#FFF7FA",
+    "app-bg": "#FFFFFF",
+    "text-muted": "#A59AA3",
+    "text-subtle": "#857A84",
+    "era-label": "#383039",
+    "selection-color": "#E0F7FF",
+    "link-color": "#5C6BC0",
+    "light-bg": "#FFF8FB",
+    "border-color": "#F0D3DF",
+    "secondary-text": "#8B7D86",
+    "highlight-color": "#FFD166",
+    "surface-active": "#FF9EC7"
+  },
+  "type": "light",
+  "collection": "Rainforest",
+  "author": "Lisa"
+}

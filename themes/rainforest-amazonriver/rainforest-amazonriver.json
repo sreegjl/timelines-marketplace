@@ -1,0 +1,28 @@
+{
+  "name": "Rainforest - Amazon River",
+  "font": {
+    "family": "Nunito Sans",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;400;600;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#0E2F2F",
+    "ui-muted": "#1F5C5C",
+    "accent-color": "#7FDBDA",
+    "surface": "#EAF6F6",
+    "inset-bg": "#F5FCFC",
+    "app-bg": "#FFFFFF",
+    "text-muted": "#8EA3A3",
+    "text-subtle": "#6E8C8C",
+    "era-label": "#2C3C3C",
+    "selection-color": "#D3F4FF",
+    "link-color": "#1F6F8B",
+    "light-bg": "#F0FAFA",
+    "border-color": "#C9E2E2",
+    "secondary-text": "#7A8F8F",
+    "highlight-color": "#D4AF37",
+    "surface-active": "#7FDBDA"
+  },
+  "type": "light",
+  "collection": "Rainforest",
+  "author": "Lisa"
+}

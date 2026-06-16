@@ -1,0 +1,28 @@
+{
+  "name": "Japan - Great Wave",
+  "font": {
+    "family": "Shippori Mincho",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Shippori+Mincho:wght@400;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#1E3A5F",
+    "ui-muted": "#2E4F7C",
+    "accent-color": "#4F7AA1",
+    "surface": "#DFF3FC",
+    "inset-bg": "#E6F5FD",
+    "app-bg": "#F0FAFF",
+    "text-muted": "#6B7280",
+    "text-subtle": "#9CA3AF",
+    "era-label": "#1F2937",
+    "selection-color": "#3B82F6",
+    "link-color": "#1D4ED8",
+    "light-bg": "#EFF6FF",
+    "border-color": "#BFDBFE",
+    "secondary-text": "#3B4C63",
+    "highlight-color": "#FCD34D",
+    "surface-active": "#4F7AA1"
+  },
+  "type": "light",
+  "collection": "Japan",
+  "author": "Lisa"
+}

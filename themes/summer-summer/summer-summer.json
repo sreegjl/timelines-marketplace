@@ -1,0 +1,28 @@
+{
+  "name": "Summer - Summer",
+  "font": {
+    "family": "Red Rose",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Red+Rose:wght@300;400;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#FF7A59",
+    "ui-muted": "#FFB36B",
+    "accent-color": "#FFF2D6",
+    "surface": "#E6FAFF",
+    "inset-bg": "#F3FBFF",
+    "app-bg": "#FFFDF2",
+    "text-muted": "#7A7A7A",
+    "text-subtle": "#6B6B6B",
+    "era-label": "#1B1B1B",
+    "selection-color": "#7DD3FC",
+    "link-color": "#1D7ED6",
+    "light-bg": "#F5FAF7",
+    "border-color": "#E9D5C2",
+    "secondary-text": "#6F6F6F",
+    "highlight-color": "#FFE2A8",
+    "surface-active": "#FFF2D6"
+  },
+  "type": "light",
+  "collection": "Summer",
+  "author": "Lisa"
+}

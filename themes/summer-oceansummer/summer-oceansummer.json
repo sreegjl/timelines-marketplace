@@ -1,0 +1,28 @@
+{
+  "name": "Summer - Ocean Summer",
+  "font": {
+    "family": "Red Rose",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Red+Rose:wght@300;400;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#2EC4B6",
+    "ui-muted": "#6EE7E1",
+    "accent-color": "#DFFBFA",
+    "surface": "#EAFBFF",
+    "inset-bg": "#F3FDFF",
+    "app-bg": "#F8FFFE",
+    "text-muted": "#6B7A7A",
+    "text-subtle": "#556B6B",
+    "era-label": "#172121",
+    "selection-color": "#7DD3FC",
+    "link-color": "#0EA5E9",
+    "light-bg": "#ECFDFB",
+    "border-color": "#BFEAE6",
+    "secondary-text": "#5F7C7B",
+    "highlight-color": "#A7F3D0",
+    "surface-active": "#DFFBFA"
+  },
+  "type": "light",
+  "collection": "Summer",
+  "author": "Lisa"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Summer - Lemonade Summer",
+  "font": {
+    "family": "Red Rose",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Red+Rose:wght@300;400;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#FFB703",
+    "ui-muted": "#FFD166",
+    "accent-color": "#FFF3B0",
+    "surface": "#F6FFF8",
+    "inset-bg": "#ECFDF3",
+    "app-bg": "#FFFCF2",
+    "text-muted": "#6B6B6B",
+    "text-subtle": "#5A5A5A",
+    "era-label": "#1A1A1A",
+    "selection-color": "#90E0EF",
+    "link-color": "#0077B6",
+    "light-bg": "#F8FAF0",
+    "border-color": "#E6D69C",
+    "secondary-text": "#6F6F6F",
+    "highlight-color": "#FFF07C",
+    "surface-active": "#FFF3B0"
+  },
+  "type": "light",
+  "collection": "Summer",
+  "author": "Lisa"
+}

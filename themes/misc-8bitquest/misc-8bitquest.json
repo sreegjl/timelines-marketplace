@@ -1,0 +1,28 @@
+{
+  "name": "Misc - 8-Bit Quest",
+  "font": {
+    "family": "Press Start 2P",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap"
+  },
+  "colors": {
+    "text-primary": "#1A1A1A",
+    "ui-muted": "#2D2D2D",
+    "accent-color": "#E53935",
+    "surface": "#E8EAF6",
+    "inset-bg": "#F5F5F5",
+    "app-bg": "#FFFFFF",
+    "text-muted": "#757575",
+    "text-subtle": "#616161",
+    "era-label": "#212121",
+    "selection-color": "#42A5F5",
+    "link-color": "#1565C0",
+    "light-bg": "#F0F0F0",
+    "border-color": "#E53935",
+    "secondary-text": "#616161",
+    "highlight-color": "#43A047",
+    "surface-active": "#E53935"
+  },
+  "type": "light",
+  "collection": "Misc",
+  "author": "Lisa"
+}

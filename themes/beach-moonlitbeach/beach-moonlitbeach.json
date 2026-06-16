@@ -1,0 +1,28 @@
+{
+  "name": "Beach - Moonlit Beach",
+  "font": {
+    "family": "Inter",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#071A2F",
+    "ui-muted": "#0E2A47",
+    "accent-color": "#9AD1FF",
+    "surface": "#EAF4FF",
+    "inset-bg": "#F6FBFF",
+    "app-bg": "#FFFFFF",
+    "text-muted": "#8FA3B2",
+    "text-subtle": "#6E8494",
+    "era-label": "#2C3A42",
+    "selection-color": "#D6F1FF",
+    "link-color": "#2B6F9C",
+    "light-bg": "#F2F9FF",
+    "border-color": "#C7DCE8",
+    "secondary-text": "#7D8E9A",
+    "highlight-color": "#FFD166",
+    "surface-active": "#9AD1FF"
+  },
+  "type": "light",
+  "collection": "Beach",
+  "author": "Lisa"
+}

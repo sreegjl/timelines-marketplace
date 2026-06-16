@@ -1,0 +1,28 @@
+{
+  "name": "Beach - Beach Escape",
+  "font": {
+    "family": "DM Sans",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#2A6F97",
+    "ui-muted": "#61A5C2",
+    "accent-color": "#A9F0E3",
+    "surface": "#FDF4E3",
+    "inset-bg": "#FFF9F0",
+    "app-bg": "#FFFEFB",
+    "text-muted": "#9AA6A9",
+    "text-subtle": "#7A878A",
+    "era-label": "#333B3D",
+    "selection-color": "#D9F7FF",
+    "link-color": "#1E88B8",
+    "light-bg": "#F5FBFD",
+    "border-color": "#D6E8EC",
+    "secondary-text": "#879396",
+    "highlight-color": "#FFD166",
+    "surface-active": "#A9F0E3"
+  },
+  "type": "light",
+  "collection": "Beach",
+  "author": "Lisa"
+}

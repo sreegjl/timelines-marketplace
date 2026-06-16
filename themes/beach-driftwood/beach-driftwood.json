@@ -1,0 +1,28 @@
+{
+  "name": "Beach - Driftwood",
+  "font": {
+    "family": "Roboto Slab",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;400;500;600;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#3E3A36",
+    "ui-muted": "#6B625C",
+    "accent-color": "#D8C3A5",
+    "surface": "#F5EFE6",
+    "inset-bg": "#FBF7F2",
+    "app-bg": "#FFFFFF",
+    "text-muted": "#A0988F",
+    "text-subtle": "#817A72",
+    "era-label": "#34302C",
+    "selection-color": "#E7F3F5",
+    "link-color": "#4C6F7A",
+    "light-bg": "#F8F4EF",
+    "border-color": "#D7CEC4",
+    "secondary-text": "#8C857C",
+    "highlight-color": "#C9A44C",
+    "surface-active": "#D8C3A5"
+  },
+  "type": "light",
+  "collection": "Beach",
+  "author": "Lisa"
+}

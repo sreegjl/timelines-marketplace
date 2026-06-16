@@ -1,0 +1,28 @@
+{
+  "name": "Misc - Miami Nights",
+  "font": {
+    "family": "Outfit",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#080B1A",
+    "ui-muted": "#151A35",
+    "accent-color": "#FF2DAF",
+    "surface": "#1E2550",
+    "inset-bg": "#29336B",
+    "app-bg": "#FAFAFF",
+    "text-muted": "#9AA3C7",
+    "text-subtle": "#7881A7",
+    "era-label": "#222A47",
+    "selection-color": "#00F5FF",
+    "link-color": "#38BDF8",
+    "light-bg": "#303B75",
+    "border-color": "#FF2DAF",
+    "secondary-text": "#B9C1E8",
+    "highlight-color": "#FF9E00",
+    "surface-active": "#FF2DAF"
+  },
+  "type": "light",
+  "collection": "Misc",
+  "author": "Lisa"
+}

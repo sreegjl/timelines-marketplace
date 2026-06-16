@@ -1,0 +1,28 @@
+{
+  "name": "Misc - Outrun Sunset",
+  "font": {
+    "family": "Chakra Petch",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Chakra+Petch:wght@300;400;500;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#140021",
+    "ui-muted": "#25003A",
+    "accent-color": "#FF5E5B",
+    "surface": "#38105F",
+    "inset-bg": "#4B197D",
+    "app-bg": "#FFF8F4",
+    "text-muted": "#B09AC5",
+    "text-subtle": "#8C76A6",
+    "era-label": "#32203F",
+    "selection-color": "#6CF4FF",
+    "link-color": "#38BDF8",
+    "light-bg": "#5E2699",
+    "border-color": "#FF5E5B",
+    "secondary-text": "#D1C1E3",
+    "highlight-color": "#FFD166",
+    "surface-active": "#FF5E5B"
+  },
+  "type": "light",
+  "collection": "Misc",
+  "author": "Lisa"
+}

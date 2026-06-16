@@ -1,0 +1,28 @@
+{
+  "name": "Misc - Rainy Day",
+  "font": {
+    "family": "Red Rose",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Red+Rose:wght@300;400;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#243447",
+    "ui-muted": "#3F5870",
+    "accent-color": "#9EC7E8",
+    "surface": "#EAF1F6",
+    "inset-bg": "#F5F9FC",
+    "app-bg": "#FBFDFF",
+    "text-muted": "#7A8793",
+    "text-subtle": "#65717C",
+    "era-label": "#1A2128",
+    "selection-color": "#B6E0FF",
+    "link-color": "#3D7EB8",
+    "light-bg": "#EDF3F8",
+    "border-color": "#CDD8E2",
+    "secondary-text": "#74818C",
+    "highlight-color": "#6FAFD9",
+    "surface-active": "#9EC7E8"
+  },
+  "type": "light",
+  "collection": "Misc",
+  "author": "Lisa"
+}

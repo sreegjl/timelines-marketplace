@@ -1,0 +1,28 @@
+{
+  "name": "Food - Midnight Ramen",
+  "type": "dark",
+  "collection": "Food",
+  "author": "Lisa",
+  "font": {
+    "family": "Lexend",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Lexend:wght@300..700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#F7E8D3",
+    "ui-muted": "#B09A87",
+    "accent-color": "#E2A24B",
+    "surface-active": "#7E3A27",
+    "surface": "#2B201C",
+    "inset-bg": "#1F1715",
+    "app-bg": "#15100F",
+    "text-muted": "#9E8B7B",
+    "text-subtle": "#837264",
+    "era-label": "#FFF5E8",
+    "selection-color": "#D65A31",
+    "link-color": "#F0B34D",
+    "light-bg": "#352824",
+    "border-color": "#5B453C",
+    "secondary-text": "#837264",
+    "highlight-color": "#F6D36C"
+  }
+}

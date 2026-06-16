@@ -1,0 +1,28 @@
+{
+  "name": "Misc - Waterfall Cascade",
+  "font": {
+    "family": "Red Rose",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Red+Rose:wght@300;400;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#1B2B34",
+    "ui-muted": "#2E5C6E",
+    "accent-color": "#7DD3FC",
+    "surface": "#EAF6FB",
+    "inset-bg": "#F5FBFE",
+    "app-bg": "#FCFEFF",
+    "text-muted": "#7A8A94",
+    "text-subtle": "#64727A",
+    "era-label": "#171D20",
+    "selection-color": "#A5E3FF",
+    "link-color": "#3A8FBF",
+    "light-bg": "#EDF7FA",
+    "border-color": "#C9DDE6",
+    "secondary-text": "#6E7C85",
+    "highlight-color": "#2DD4BF",
+    "surface-active": "#7DD3FC"
+  },
+  "type": "light",
+  "collection": "Misc",
+  "author": "Lisa"
+}

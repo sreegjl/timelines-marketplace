@@ -1,0 +1,28 @@
+{
+  "name": "Beach - Santorini Coast",
+  "font": {
+    "family": "Nunito Sans",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;400;600;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#0B3C5D",
+    "ui-muted": "#1F6F8B",
+    "accent-color": "#B3E5FF",
+    "surface": "#F3FAFF",
+    "inset-bg": "#FBFDFF",
+    "app-bg": "#FFFFFF",
+    "text-muted": "#92A4AE",
+    "text-subtle": "#738590",
+    "era-label": "#2E3941",
+    "selection-color": "#D6F3FF",
+    "link-color": "#1D6F9A",
+    "light-bg": "#F0F8FF",
+    "border-color": "#CFE4F0",
+    "secondary-text": "#7D8C96",
+    "highlight-color": "#FFD166",
+    "surface-active": "#B3E5FF"
+  },
+  "type": "light",
+  "collection": "Beach",
+  "author": "Lisa"
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Misc - Jurassic Amber",
+  "font": {
+    "family": "Red Rose",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Red+Rose:wght@300;400;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#4B2E2E",
+    "ui-muted": "#7C4A1C",
+    "accent-color": "#F7E3B4",
+    "surface": "#FFF1D0",
+    "inset-bg": "#FFF5DE",
+    "app-bg": "#FFF8E5",
+    "text-muted": "#A08870",
+    "text-subtle": "#7D6B5D",
+    "era-label": "#2C1F18",
+    "selection-color": "#FFD97D",
+    "link-color": "#D17A2A",
+    "light-bg": "#FFF4E3",
+    "border-color": "#E0CBA9",
+    "secondary-text": "#8B6F55",
+    "highlight-color": "#FFD27F",
+    "surface-active": "#F7E3B4"
+  },
+  "type": "light",
+  "collection": "Misc",
+  "author": "Lisa"
+}

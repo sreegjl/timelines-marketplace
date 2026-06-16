@@ -36,7 +36,7 @@ async function main() {
     return;
   }
 
-  const index = JSON.parse(fs.readFileSync(INDEX_FILE, "utf8"));
+  const index = JSON.parse(fs.readFileSync(INDEX_FILE, "utf8").replace(/^﻿/, ""));
   const browser = await chromium.launch();
   const page = await browser.newPage();
 
@@ -84,7 +84,7 @@ async function main() {
     console.log(`imported ${file} → themes/${id}/`);
   }
 
-  fs.writeFileSync(INDEX_FILE, JSON.stringify(index, null, 2) + "\n", "utf8");
+  fs.writeFileSync(INDEX_FILE, Buffer.from(JSON.stringify(index, null, 2) + "\n", "utf8"));
 
   const allThumbPaths = fs.readdirSync(THEMES_DIR)
     .filter(name => fs.statSync(path.join(THEMES_DIR, name)).isDirectory())

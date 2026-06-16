@@ -1,0 +1,28 @@
+{
+  "name": "Japan - Ukiyo-e",
+  "font": {
+    "family": "Shippori Mincho",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Shippori+Mincho:wght@400;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#1E3557",
+    "ui-muted": "#365A86",
+    "accent-color": "#6A8FB8",
+    "surface": "#EFE4D1",
+    "inset-bg": "#F7EFE3",
+    "app-bg": "#FCF8F1",
+    "text-muted": "#847C71",
+    "text-subtle": "#686157",
+    "era-label": "#26231F",
+    "selection-color": "#A8C5E6",
+    "link-color": "#2E5E91",
+    "light-bg": "#F5F0E7",
+    "border-color": "#D9CCBC",
+    "secondary-text": "#6D665C",
+    "highlight-color": "#C95D4A",
+    "surface-active": "#6A8FB8"
+  },
+  "type": "light",
+  "collection": "Japan",
+  "author": "Lisa"
+}

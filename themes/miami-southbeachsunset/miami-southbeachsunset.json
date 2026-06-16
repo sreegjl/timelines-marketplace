@@ -1,0 +1,28 @@
+{
+  "name": "Miami - South Beach Sunset",
+  "font": {
+    "family": "Poppins",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#FF6B6B",
+    "ui-muted": "#FF8E72",
+    "accent-color": "#FFD6A5",
+    "surface": "#FFF0E6",
+    "inset-bg": "#FFF7F2",
+    "app-bg": "#FFFDFB",
+    "text-muted": "#9A8F8A",
+    "text-subtle": "#7D736F",
+    "era-label": "#372F2B",
+    "selection-color": "#C8F5FF",
+    "link-color": "#2D8DBA",
+    "light-bg": "#FFF8F4",
+    "border-color": "#F2D4C7",
+    "secondary-text": "#8D7F79",
+    "highlight-color": "#FFC857",
+    "surface-active": "#FFD6A5"
+  },
+  "type": "light",
+  "collection": "Miami",
+  "author": "Lisa"
+}

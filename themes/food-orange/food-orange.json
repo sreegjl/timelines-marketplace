@@ -1,0 +1,28 @@
+{
+  "name": "Food - Orange",
+  "type": "light",
+  "collection": "Food",
+  "author": "Lisa",
+  "font": {
+    "family": "Lexend",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Lexend:wght@300..700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#4A2A14",
+    "ui-muted": "#A67C52",
+    "accent-color": "#FFC98B",
+    "surface-active": "#FFD19A",
+    "surface": "#FFE3BF",
+    "inset-bg": "#FFF4E3",
+    "app-bg": "#FFF9F0",
+    "text-muted": "#9C8A7B",
+    "text-subtle": "#856E5C",
+    "era-label": "#2E1A0A",
+    "selection-color": "#FFB55A",
+    "link-color": "#E67E22",
+    "light-bg": "#FFF0D9",
+    "border-color": "#E8C99E",
+    "secondary-text": "#856E5C",
+    "highlight-color": "#FFD45C"
+  }
+}

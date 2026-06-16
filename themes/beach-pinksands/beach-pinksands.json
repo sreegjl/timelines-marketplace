@@ -1,0 +1,28 @@
+{
+  "name": "Beach - Pink Sands",
+  "font": {
+    "family": "Quicksand",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#D96C8C",
+    "ui-muted": "#F28FB4",
+    "accent-color": "#FFD1DC",
+    "surface": "#FFF2F6",
+    "inset-bg": "#FFF8FA",
+    "app-bg": "#FFFEFF",
+    "text-muted": "#A18D93",
+    "text-subtle": "#847077",
+    "era-label": "#372F33",
+    "selection-color": "#DDF6FF",
+    "link-color": "#4B7FA8",
+    "light-bg": "#FFF7FA",
+    "border-color": "#F2D7E0",
+    "secondary-text": "#8B7C81",
+    "highlight-color": "#FFD166",
+    "surface-active": "#FFD1DC"
+  },
+  "type": "light",
+  "collection": "Beach",
+  "author": "Lisa"
+}

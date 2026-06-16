@@ -1,0 +1,28 @@
+{
+  "name": "Summer - Tropical Summer",
+  "font": {
+    "family": "Red Rose",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Red+Rose:wght@300;400;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#FF3D68",
+    "ui-muted": "#FF7A00",
+    "accent-color": "#FFE6A7",
+    "surface": "#E6FFF3",
+    "inset-bg": "#F2FFF9",
+    "app-bg": "#FFFDF5",
+    "text-muted": "#6E6E6E",
+    "text-subtle": "#5C5C5C",
+    "era-label": "#181818",
+    "selection-color": "#4ADE80",
+    "link-color": "#2563EB",
+    "light-bg": "#F4FFF7",
+    "border-color": "#F5D0A9",
+    "secondary-text": "#6B5B53",
+    "highlight-color": "#FFD166",
+    "surface-active": "#FFE6A7"
+  },
+  "type": "light",
+  "collection": "Summer",
+  "author": "Lisa"
+}

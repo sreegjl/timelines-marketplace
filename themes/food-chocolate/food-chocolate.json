@@ -1,0 +1,28 @@
+{
+  "name": "Food - Chocolate",
+  "font": {
+    "family": "Roboto",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#4E342E",
+    "ui-muted": "#6D4C41",
+    "accent-color": "#C68642",
+    "surface": "#D9B382",
+    "inset-bg": "#E3C7A1",
+    "app-bg": "#F5E6D3",
+    "text-muted": "#7B5E57",
+    "text-subtle": "#6A4F3E",
+    "era-label": "#2C1F1B",
+    "selection-color": "#8BC34A",
+    "link-color": "#5D4037",
+    "light-bg": "#F0E6DA",
+    "border-color": "#A1887F",
+    "secondary-text": "#5D4037",
+    "highlight-color": "#D4A373",
+    "surface-active": "#C68642"
+  },
+  "type": "light",
+  "collection": "Food",
+  "author": "Lisa"
+}

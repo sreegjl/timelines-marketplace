@@ -1,0 +1,28 @@
+{
+  "name": "Rainforest - Moss & Stone",
+  "font": {
+    "family": "Roboto Slab",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@300;400;500;600;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#2B2F2A",
+    "ui-muted": "#4E5B4A",
+    "accent-color": "#A3B18A",
+    "surface": "#F3F6F0",
+    "inset-bg": "#FAFBF8",
+    "app-bg": "#FFFFFF",
+    "text-muted": "#9AA69A",
+    "text-subtle": "#7C877C",
+    "era-label": "#353A35",
+    "selection-color": "#E6F7F0",
+    "link-color": "#3D6B4A",
+    "light-bg": "#F6F8F3",
+    "border-color": "#D6DED0",
+    "secondary-text": "#7F8A7F",
+    "highlight-color": "#C9A44C",
+    "surface-active": "#A3B18A"
+  },
+  "type": "light",
+  "collection": "Rainforest",
+  "author": "Lisa"
+}

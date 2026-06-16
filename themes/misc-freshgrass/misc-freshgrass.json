@@ -1,0 +1,28 @@
+{
+  "name": "Misc - Fresh Grass",
+  "font": {
+    "family": "Red Rose",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Red+Rose:wght@300;400;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#2E5D34",
+    "ui-muted": "#4E8B45",
+    "accent-color": "#CFEF9D",
+    "surface": "#F3FBEA",
+    "inset-bg": "#FAFFF5",
+    "app-bg": "#FDFFF9",
+    "text-muted": "#7A8278",
+    "text-subtle": "#646B62",
+    "era-label": "#1A1F19",
+    "selection-color": "#A7DAFF",
+    "link-color": "#3D7A3F",
+    "light-bg": "#F1F7EC",
+    "border-color": "#D6E2CF",
+    "secondary-text": "#71806F",
+    "highlight-color": "#9ED65A",
+    "surface-active": "#CFEF9D"
+  },
+  "type": "light",
+  "collection": "Misc",
+  "author": "Lisa"
+}

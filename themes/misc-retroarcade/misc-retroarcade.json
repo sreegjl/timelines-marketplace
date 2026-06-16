@@ -1,0 +1,28 @@
+{
+  "name": "Misc - Retro Arcade",
+  "font": {
+    "family": "Press Start 2P",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap"
+  },
+  "colors": {
+    "text-primary": "#111827",
+    "ui-muted": "#1E293B",
+    "accent-color": "#FF2D95",
+    "surface": "#1A2340",
+    "inset-bg": "#222C50",
+    "app-bg": "#F8FAFC",
+    "text-muted": "#94A3B8",
+    "text-subtle": "#64748B",
+    "era-label": "#1E293B",
+    "selection-color": "#00E5FF",
+    "link-color": "#38BDF8",
+    "light-bg": "#2A3A6A",
+    "border-color": "#00E5FF",
+    "secondary-text": "#CBD5E1",
+    "highlight-color": "#FFE600",
+    "surface-active": "#FF2D95"
+  },
+  "type": "light",
+  "collection": "Misc",
+  "author": "Lisa"
+}

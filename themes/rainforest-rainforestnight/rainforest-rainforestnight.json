@@ -1,0 +1,28 @@
+{
+  "name": "Rainforest - Rainforest Night",
+  "font": {
+    "family": "Inter",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#050B0A",
+    "ui-muted": "#102A25",
+    "accent-color": "#00F5D4",
+    "surface": "#E6FFFB",
+    "inset-bg": "#F3FFFD",
+    "app-bg": "#FFFFFF",
+    "text-muted": "#7FA8A2",
+    "text-subtle": "#5F8A84",
+    "era-label": "#223431",
+    "selection-color": "#D0F7FF",
+    "link-color": "#1B7F6B",
+    "light-bg": "#F0FFFB",
+    "border-color": "#C6E5DE",
+    "secondary-text": "#7A8F8B",
+    "highlight-color": "#FFEA00",
+    "surface-active": "#00F5D4"
+  },
+  "type": "light",
+  "collection": "Rainforest",
+  "author": "Lisa"
+}

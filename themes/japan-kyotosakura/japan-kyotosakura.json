@@ -1,0 +1,28 @@
+{
+  "name": "Japan - Kyoto Sakura",
+  "font": {
+    "family": "Zen Maru Gothic",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Zen+Maru+Gothic:wght@300;400;500;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#7A2832",
+    "ui-muted": "#A64D5A",
+    "accent-color": "#F7D6DF",
+    "surface": "#FFF7F2",
+    "inset-bg": "#FFFBF8",
+    "app-bg": "#FDFCF8",
+    "text-muted": "#8A827A",
+    "text-subtle": "#6E675F",
+    "era-label": "#241F1B",
+    "selection-color": "#B7D7F2",
+    "link-color": "#3B6D9A",
+    "light-bg": "#F8F4EE",
+    "border-color": "#E2D7CC",
+    "secondary-text": "#7A6E67",
+    "highlight-color": "#EFC9D2",
+    "surface-active": "#F7D6DF"
+  },
+  "type": "light",
+  "collection": "Japan",
+  "author": "Lisa"
+}

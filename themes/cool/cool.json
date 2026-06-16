@@ -1,7 +1,7 @@
 {
   "name": "Cool",
   "type": "light",
-  "collection": "marketplace",
+  "collection": "featured",
   "author": "sreegjl",
   "colors": {
     "text-primary": "#3E4A59",

@@ -1,0 +1,28 @@
+{
+  "name": "Food - Coffee House",
+  "type": "light",
+  "collection": "Food",
+  "author": "Lisa",
+  "font": {
+    "family": "Lexend",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Lexend:wght@300..700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#3B2A1F",
+    "ui-muted": "#8B7765",
+    "accent-color": "#A66A3F",
+    "surface-active": "#D8B08A",
+    "surface": "#EFE2D2",
+    "inset-bg": "#FAF4EE",
+    "app-bg": "#FEFBF7",
+    "text-muted": "#8A7C70",
+    "text-subtle": "#74675D",
+    "era-label": "#241912",
+    "selection-color": "#C9A27A",
+    "link-color": "#8B4A2F",
+    "light-bg": "#F6EEE5",
+    "border-color": "#D8C5B3",
+    "secondary-text": "#74675D",
+    "highlight-color": "#E7C56A"
+  }
+}

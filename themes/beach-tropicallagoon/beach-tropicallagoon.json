@@ -1,0 +1,28 @@
+{
+  "name": "Beach - Tropical Lagoon",
+  "font": {
+    "family": "Poppins",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#0E5C4A",
+    "ui-muted": "#1B8A6B",
+    "accent-color": "#7FFFD4",
+    "surface": "#E9FFF8",
+    "inset-bg": "#F6FFFB",
+    "app-bg": "#FFFFFF",
+    "text-muted": "#8FA6A0",
+    "text-subtle": "#6D8C85",
+    "era-label": "#2C3D39",
+    "selection-color": "#CFFAF0",
+    "link-color": "#1B7F6A",
+    "light-bg": "#F1FFFB",
+    "border-color": "#CDE8E0",
+    "secondary-text": "#7C918B",
+    "highlight-color": "#FFD166",
+    "surface-active": "#7FFFD4"
+  },
+  "type": "light",
+  "collection": "Beach",
+  "author": "Lisa"
+}

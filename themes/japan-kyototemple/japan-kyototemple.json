@@ -1,0 +1,28 @@
+{
+  "name": "Japan - Kyoto Temple",
+  "font": {
+    "family": "Noto Serif JP",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Noto+Serif+JP:wght@300;400;500;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#2B211B",
+    "ui-muted": "#4A372D",
+    "accent-color": "#A0522D",
+    "surface": "#F5EBDD",
+    "inset-bg": "#FBF5EC",
+    "app-bg": "#FEFCF7",
+    "text-muted": "#8A8178",
+    "text-subtle": "#6D665F",
+    "era-label": "#26211D",
+    "selection-color": "#BFD9C6",
+    "link-color": "#4B6F5A",
+    "light-bg": "#F8F3EC",
+    "border-color": "#D9C8B5",
+    "secondary-text": "#756B62",
+    "highlight-color": "#D97A43",
+    "surface-active": "#A0522D"
+  },
+  "type": "light",
+  "collection": "Japan",
+  "author": "Lisa"
+}

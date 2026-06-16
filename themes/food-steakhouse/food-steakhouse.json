@@ -1,0 +1,28 @@
+{
+  "name": "Food - Steakhouse",
+  "type": "light",
+  "collection": "Food",
+  "author": "Lisa",
+  "font": {
+    "family": "Lexend",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Lexend:wght@300..700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#33231D",
+    "ui-muted": "#7E675D",
+    "accent-color": "#D6B49A",
+    "surface-active": "#E0C0A9",
+    "surface": "#F4E4D8",
+    "inset-bg": "#FBF5F0",
+    "app-bg": "#FFFDFC",
+    "text-muted": "#90837C",
+    "text-subtle": "#746A64",
+    "era-label": "#211511",
+    "selection-color": "#C9785D",
+    "link-color": "#8F3A2E",
+    "light-bg": "#F8EEE8",
+    "border-color": "#E2D1C5",
+    "secondary-text": "#746A64",
+    "highlight-color": "#E6C16A"
+  }
+}

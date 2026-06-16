@@ -1,0 +1,28 @@
+{
+  "name": "Misc - Christmas",
+  "font": {
+    "family": "Red Rose",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Red+Rose:wght@300;400;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#8B1E24",
+    "ui-muted": "#2F5D3A",
+    "accent-color": "#F3D9A5",
+    "surface": "#FFF8F0",
+    "inset-bg": "#FFFCF7",
+    "app-bg": "#FFFFFF",
+    "text-muted": "#7A7772",
+    "text-subtle": "#66635F",
+    "era-label": "#1A1816",
+    "selection-color": "#A9D7FF",
+    "link-color": "#2F5D3A",
+    "light-bg": "#F7F4EE",
+    "border-color": "#DDD6CC",
+    "secondary-text": "#7A726A",
+    "highlight-color": "#D4AF37",
+    "surface-active": "#F3D9A5"
+  },
+  "type": "light",
+  "collection": "Misc",
+  "author": "Lisa"
+}

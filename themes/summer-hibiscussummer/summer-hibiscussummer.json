@@ -1,0 +1,28 @@
+{
+  "name": "Summer - Hibiscus Summer",
+  "font": {
+    "family": "Red Rose",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Red+Rose:wght@300;400;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#D62828",
+    "ui-muted": "#F77F00",
+    "accent-color": "#FFD6A5",
+    "surface": "#FFF1E6",
+    "inset-bg": "#FFF8F2",
+    "app-bg": "#FFFCFA",
+    "text-muted": "#7A6A6A",
+    "text-subtle": "#6A5A5A",
+    "era-label": "#1A0F0F",
+    "selection-color": "#FFADAD",
+    "link-color": "#C9184A",
+    "light-bg": "#FFF0E6",
+    "border-color": "#F2C6B2",
+    "secondary-text": "#7A5C52",
+    "highlight-color": "#FFB4A2",
+    "surface-active": "#FFD6A5"
+  },
+  "type": "light",
+  "collection": "Summer",
+  "author": "Lisa"
+}

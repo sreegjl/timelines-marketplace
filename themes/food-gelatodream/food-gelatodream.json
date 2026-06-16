@@ -1,0 +1,28 @@
+{
+  "name": "Food - Gelato Dream",
+  "type": "light",
+  "collection": "Food",
+  "author": "Lisa",
+  "font": {
+    "family": "Lexend",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Lexend:wght@300..700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#4A3A45",
+    "ui-muted": "#8C7C87",
+    "accent-color": "#F8D7E8",
+    "surface-active": "#FCE0EE",
+    "surface": "#FFF0F6",
+    "inset-bg": "#FFF9FC",
+    "app-bg": "#FFFDFE",
+    "text-muted": "#9B9197",
+    "text-subtle": "#80757B",
+    "era-label": "#2D202A",
+    "selection-color": "#BFE7FF",
+    "link-color": "#D96C8C",
+    "light-bg": "#FFF5F9",
+    "border-color": "#EAD8E2",
+    "secondary-text": "#80757B",
+    "highlight-color": "#FFE89A"
+  }
+}

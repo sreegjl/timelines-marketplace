@@ -1,0 +1,28 @@
+{
+  "name": "Rainforest - Jungle Storm",
+  "font": {
+    "family": "Space Grotesk",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#0B1F1A",
+    "ui-muted": "#1E3D34",
+    "accent-color": "#4FD1C5",
+    "surface": "#E6F2EF",
+    "inset-bg": "#F4FBF8",
+    "app-bg": "#FFFFFF",
+    "text-muted": "#8AA39C",
+    "text-subtle": "#6C8B84",
+    "era-label": "#2C3A37",
+    "selection-color": "#D6F7FF",
+    "link-color": "#1E6F7A",
+    "light-bg": "#F1F9F7",
+    "border-color": "#CDE5DF",
+    "secondary-text": "#7A928C",
+    "highlight-color": "#FFB703",
+    "surface-active": "#4FD1C5"
+  },
+  "type": "light",
+  "collection": "Rainforest",
+  "author": "Lisa"
+}

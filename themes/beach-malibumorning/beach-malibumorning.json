@@ -1,0 +1,28 @@
+{
+  "name": "Beach - Malibu Morning",
+  "font": {
+    "family": "Inter",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#1E4E6E",
+    "ui-muted": "#3A86A8",
+    "accent-color": "#BFE9FF",
+    "surface": "#F4FBFF",
+    "inset-bg": "#FBFEFF",
+    "app-bg": "#FFFFFF",
+    "text-muted": "#9AA7AE",
+    "text-subtle": "#7C8A92",
+    "era-label": "#323C41",
+    "selection-color": "#D8F4FF",
+    "link-color": "#1F7FAE",
+    "light-bg": "#F2FAFF",
+    "border-color": "#CFE4EE",
+    "secondary-text": "#7D8A91",
+    "highlight-color": "#FFD166",
+    "surface-active": "#BFE9FF"
+  },
+  "type": "light",
+  "collection": "Beach",
+  "author": "Lisa"
+}

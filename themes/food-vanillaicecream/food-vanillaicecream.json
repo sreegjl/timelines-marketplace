@@ -1,0 +1,28 @@
+{
+  "name": "Food - Vanilla Ice Cream",
+  "font": {
+    "family": "Red Rose",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Red+Rose:wght@300;400;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#7A644F",
+    "ui-muted": "#B79C7B",
+    "accent-color": "#F5E6C8",
+    "surface": "#FFF8EC",
+    "inset-bg": "#FFFCF6",
+    "app-bg": "#FFFDF9",
+    "text-muted": "#8C857D",
+    "text-subtle": "#746D65",
+    "era-label": "#221F1C",
+    "selection-color": "#C5E5FF",
+    "link-color": "#8A6A44",
+    "light-bg": "#F8F4EE",
+    "border-color": "#E1D8CB",
+    "secondary-text": "#8B8176",
+    "highlight-color": "#E8D1A3",
+    "surface-active": "#F5E6C8"
+  },
+  "type": "light",
+  "collection": "Food",
+  "author": "Lisa"
+}

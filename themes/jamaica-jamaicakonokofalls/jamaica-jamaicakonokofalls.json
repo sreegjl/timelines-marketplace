@@ -1,0 +1,28 @@
+{
+  "name": "Jamaica - Jamaica Konoko Falls",
+  "type": "light",
+  "collection": "Jamaica",
+  "author": "Lisa",
+  "font": {
+    "family": "Lexend",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Lexend:wght@300..700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#234135",
+    "ui-muted": "#6E8D7A",
+    "accent-color": "#63C7B2",
+    "surface-active": "#A8E4D7",
+    "surface": "#E3F3EB",
+    "inset-bg": "#F5FBF8",
+    "app-bg": "#FCFEFC",
+    "text-muted": "#718A80",
+    "text-subtle": "#5F756B",
+    "era-label": "#183027",
+    "selection-color": "#7FD8FF",
+    "link-color": "#2A8F7A",
+    "light-bg": "#EEF8F2",
+    "border-color": "#C5DDD1",
+    "secondary-text": "#5F756B",
+    "highlight-color": "#F4D35E"
+  }
+}

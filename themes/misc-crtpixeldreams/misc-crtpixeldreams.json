@@ -1,0 +1,28 @@
+{
+  "name": "Misc - CRT Pixel Dreams",
+  "font": {
+    "family": "Silkscreen",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Silkscreen:wght@400;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#08140A",
+    "ui-muted": "#102314",
+    "accent-color": "#00FF66",
+    "surface": "#152A18",
+    "inset-bg": "#1B341F",
+    "app-bg": "#E8FFE8",
+    "text-muted": "#89B089",
+    "text-subtle": "#648564",
+    "era-label": "#203120",
+    "selection-color": "#00FF99",
+    "link-color": "#00E676",
+    "light-bg": "#234423",
+    "border-color": "#00FF66",
+    "secondary-text": "#A7C9A7",
+    "highlight-color": "#66FFCC",
+    "surface-active": "#00FF66"
+  },
+  "type": "light",
+  "collection": "Misc",
+  "author": "Lisa"
+}

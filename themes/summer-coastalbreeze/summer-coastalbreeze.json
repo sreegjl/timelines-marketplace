@@ -1,0 +1,28 @@
+{
+  "name": "Summer - Coastal Breeze",
+  "font": {
+    "family": "Red Rose",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Red+Rose:wght@300;400;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#1D3557",
+    "ui-muted": "#457B9D",
+    "accent-color": "#A8DADC",
+    "surface": "#DFF6F9",
+    "inset-bg": "#F1FAEE",
+    "app-bg": "#FBFFFE",
+    "text-muted": "#6C757D",
+    "text-subtle": "#5A6268",
+    "era-label": "#212529",
+    "selection-color": "#74C0FC",
+    "link-color": "#1C7ED6",
+    "light-bg": "#EAF6F8",
+    "border-color": "#BEE3F0",
+    "secondary-text": "#5C6B73",
+    "highlight-color": "#A5D8FF",
+    "surface-active": "#A8DADC"
+  },
+  "type": "light",
+  "collection": "Summer",
+  "author": "Lisa"
+}
