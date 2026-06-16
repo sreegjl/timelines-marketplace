@@ -781,18 +781,6 @@
       }
     },
     {
-      "id": "misc-crtpixeldreams",
-      "name": "Misc - CRT Pixel Dreams",
-      "author": "Lisa",
-      "collection": "Misc",
-      "type": "light",
-      "description": "",
-      "paths": {
-        "theme": "themes/misc-crtpixeldreams/misc-crtpixeldreams.json",
-        "thumbnail": "themes/misc-crtpixeldreams/thumbnail.png"
-      }
-    },
-    {
       "id": "misc-cyberpunkneon",
       "name": "Misc - Cyberpunk Neon",
       "author": "Lisa",
@@ -841,18 +829,6 @@
       }
     },
     {
-      "id": "misc-bluepixel",
-      "name": "Misc - Blue Pixel",
-      "author": "Lisa",
-      "collection": "Misc",
-      "type": "light",
-      "description": "",
-      "paths": {
-        "theme": "themes/misc-bluepixel/misc-bluepixel.json",
-        "thumbnail": "themes/misc-bluepixel/thumbnail.png"
-      }
-    },
-    {
       "id": "misc-iceage",
       "name": "Misc - Ice Age",
       "author": "Lisa",
@@ -889,18 +865,6 @@
       }
     },
     {
-      "id": "misc-miaminights",
-      "name": "Misc - Miami Nights",
-      "author": "Lisa",
-      "collection": "Misc",
-      "type": "light",
-      "description": "",
-      "paths": {
-        "theme": "themes/misc-miaminights/misc-miaminights.json",
-        "thumbnail": "themes/misc-miaminights/thumbnail.png"
-      }
-    },
-    {
       "id": "misc-8bitquest",
       "name": "Misc - 8-Bit Quest",
       "author": "Lisa",
@@ -910,18 +874,6 @@
       "paths": {
         "theme": "themes/misc-8bitquest/misc-8bitquest.json",
         "thumbnail": "themes/misc-8bitquest/thumbnail.png"
-      }
-    },
-    {
-      "id": "misc-outrunsunset",
-      "name": "Misc - Outrun Sunset",
-      "author": "Lisa",
-      "collection": "Misc",
-      "type": "light",
-      "description": "",
-      "paths": {
-        "theme": "themes/misc-outrunsunset/misc-outrunsunset.json",
-        "thumbnail": "themes/misc-outrunsunset/thumbnail.png"
       }
     },
     {
@@ -973,18 +925,6 @@
       }
     },
     {
-      "id": "misc-retroarcade",
-      "name": "Misc - Retro Arcade",
-      "author": "Lisa",
-      "collection": "Misc",
-      "type": "light",
-      "description": "",
-      "paths": {
-        "theme": "themes/misc-retroarcade/misc-retroarcade.json",
-        "thumbnail": "themes/misc-retroarcade/thumbnail.png"
-      }
-    },
-    {
       "id": "misc-sandstorm",
       "name": "Misc - Sandstorm",
       "author": "Lisa",
@@ -994,18 +934,6 @@
       "paths": {
         "theme": "themes/misc-sandstorm/misc-sandstorm.json",
         "thumbnail": "themes/misc-sandstorm/thumbnail.png"
-      }
-    },
-    {
-      "id": "misc-synthwave",
-      "name": "Misc - Synthwave",
-      "author": "Lisa",
-      "collection": "Misc",
-      "type": "light",
-      "description": "",
-      "paths": {
-        "theme": "themes/misc-synthwave/misc-synthwave.json",
-        "thumbnail": "themes/misc-synthwave/thumbnail.png"
       }
     },
     {
