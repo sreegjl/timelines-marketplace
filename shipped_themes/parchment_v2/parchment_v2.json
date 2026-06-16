@@ -1,0 +1,28 @@
+{
+  "name": "Parchment v2",
+  "type": "light",
+  "collection": "bundled",
+  "author": "sreegjl",
+  "font": {
+    "family": "Lexend",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Lexend:wght@300..700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#3A2E22",
+    "ui-muted": "#90816D",
+    "accent-color": "#DFD2B6",
+    "surface-active": "#DFD2B6",
+    "surface": "#EADFC8",
+    "inset-bg": "#FBF3E1",
+    "app-bg": "#FEF7E8",
+    "text-muted": "#918C85",
+    "text-subtle": "#807C76",
+    "era-label": "#141414",
+    "selection-color": "#87C6FA",
+    "link-color": "#C66F3D",
+    "light-bg": "#F3EDE3",
+    "border-color": "#D4CAB8",
+    "secondary-text": "#807C76",
+    "highlight-color": "#F6D66A"
+  }
+}

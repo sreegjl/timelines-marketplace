@@ -1,0 +1,24 @@
+{
+  "name": "Parchment",
+  "type": "light",
+  "collection": "bundled",
+  "author": "sreegjl",
+  "colors": {
+    "text-primary": "#6C5F55",
+    "ui-muted": "#A6977E",
+    "accent-color": "#D4CAB8",
+    "surface-active": "#D4CAB8",
+    "surface": "#EDE6DA",
+    "inset-bg": "#F3EDE3",
+    "app-bg": "#FFFAF4",
+    "text-muted": "#918C85",
+    "text-subtle": "#807C76",
+    "era-label": "#141414",
+    "selection-color": "#87C6FA",
+    "link-color": "#417FB2",
+    "light-bg": "#F3EDE3",
+    "border-color": "#D4CAB8",
+    "secondary-text": "#807C76",
+    "highlight-color": "#F6D66A"
+  }
+}
