@@ -1,0 +1,7 @@
+{
+  "name": "timelines-marketplace",
+  "version": "1.0.0",
+  "devDependencies": {
+    "playwright": "^1.61.0"
+  }
+}
