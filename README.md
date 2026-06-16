@@ -4,7 +4,7 @@
 
 Submit your theme `.json` file by either:
 
-- Dropping it into the `inbox/` folder and running `node scripts/import.js`, or
+- Forking the repo, dropping your `.json` into `inbox/`, running `node scripts/import.js`, then opening a pull request, or
 - Emailing it to [sreegjl@gmail.com](mailto:sreegjl@gmail.com)
 
 See the [theme documentation](https://github.com/sreegjl/timelines/wiki/Themes) for the full JSON format.
