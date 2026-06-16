@@ -69,6 +69,7 @@ async function main() {
         name: theme.name,
         author: theme.author,
         collection: theme.collection ?? null,
+        type: theme.type ?? "light",
         description: "",
         paths: {
           theme: `themes/${id}/${id}.json`,

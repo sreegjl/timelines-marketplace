@@ -4,8 +4,8 @@
       "id": "console",
       "name": "Console",
       "author": "sreegjl",
-      "type": "dark",
       "collection": "featured",
+      "type": "dark",
       "description": "A terminal-inspired dark theme with high contrast and muted accents.",
       "paths": {
         "theme": "themes/console/console.json",
@@ -16,8 +16,8 @@
       "id": "cool",
       "name": "Cool",
       "author": "sreegjl",
-      "type": "light",
       "collection": "featured",
+      "type": "light",
       "description": "A clean, cool-toned theme with soft contrast for everyday use.",
       "paths": {
         "theme": "themes/cool/cool.json",
@@ -28,8 +28,8 @@
       "id": "dracula",
       "name": "Dracula",
       "author": "sreegjl",
-      "type": "dark",
       "collection": "featured",
+      "type": "dark",
       "description": "A gothic dark theme with deep shadows and blood-red accents.",
       "paths": {
         "theme": "themes/dracula/dracula.json",
@@ -40,8 +40,8 @@
       "id": "mocha",
       "name": "Mocha",
       "author": "sreegjl",
-      "type": "dark",
       "collection": "featured",
+      "type": "dark",
       "description": "A dark brown theme with warm tones and restrained, low-contrast accents.",
       "paths": {
         "theme": "themes/mocha/mocha.json",
@@ -52,8 +52,8 @@
       "id": "nebula",
       "name": "Nebula",
       "author": "sreegjl",
-      "type": "dark",
       "collection": "featured",
+      "type": "dark",
       "description": "A sci-fi inspired dark theme with deep blue-purple tones and vivid pink accents.",
       "paths": {
         "theme": "themes/nebula/nebula.json",
@@ -64,8 +64,8 @@
       "id": "starpoint",
       "name": "Starpoint",
       "author": "sreegjl",
-      "type": "dark",
       "collection": "featured",
+      "type": "dark",
       "description": "A retro inspired dark theme with a dark-blue background and yellow accents.",
       "paths": {
         "theme": "themes/starpoint/starpoint.json",
@@ -76,8 +76,8 @@
       "id": "strawberry",
       "name": "Strawberry",
       "author": "sreegjl",
-      "type": "light",
       "collection": "featured",
+      "type": "light",
       "description": "A light, airy theme with a creamy background and soft strawberry-red accents.",
       "paths": {
         "theme": "themes/strawberry/strawberry.json",
@@ -89,6 +89,7 @@
       "name": "Beach - Beach Escape",
       "author": "Lisa",
       "collection": "Beach",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/beach-beachescape/beach-beachescape.json",
@@ -100,6 +101,7 @@
       "name": "Beach - Driftwood",
       "author": "Lisa",
       "collection": "Beach",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/beach-driftwood/beach-driftwood.json",
@@ -111,6 +113,7 @@
       "name": "Beach - Golden Shore",
       "author": "Lisa",
       "collection": "Beach",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/beach-goldenshore/beach-goldenshore.json",
@@ -122,6 +125,7 @@
       "name": "Beach - Malibu Morning",
       "author": "Lisa",
       "collection": "Beach",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/beach-malibumorning/beach-malibumorning.json",
@@ -133,6 +137,7 @@
       "name": "Beach - Moonlit Beach",
       "author": "Lisa",
       "collection": "Beach",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/beach-moonlitbeach/beach-moonlitbeach.json",
@@ -144,6 +149,7 @@
       "name": "Beach - Pink Sands",
       "author": "Lisa",
       "collection": "Beach",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/beach-pinksands/beach-pinksands.json",
@@ -155,6 +161,7 @@
       "name": "Beach - Santorini Coast",
       "author": "Lisa",
       "collection": "Beach",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/beach-santorinicoast/beach-santorinicoast.json",
@@ -166,6 +173,7 @@
       "name": "Beach - Surf Club",
       "author": "Lisa",
       "collection": "Beach",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/beach-surfclub/beach-surfclub.json",
@@ -177,6 +185,7 @@
       "name": "Beach - Tropical Lagoon",
       "author": "Lisa",
       "collection": "Beach",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/beach-tropicallagoon/beach-tropicallagoon.json",
@@ -188,6 +197,7 @@
       "name": "Food - Chocolate",
       "author": "Lisa",
       "collection": "Food",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/food-chocolate/food-chocolate.json",
@@ -199,6 +209,7 @@
       "name": "Food - Citrus Zest",
       "author": "Lisa",
       "collection": "Food",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/food-citruszest/food-citruszest.json",
@@ -210,6 +221,7 @@
       "name": "Food - Coffee House",
       "author": "Lisa",
       "collection": "Food",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/food-coffeehouse/food-coffeehouse.json",
@@ -221,6 +233,7 @@
       "name": "Food - Fresh Bread",
       "author": "Lisa",
       "collection": "Food",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/food-freshbread/food-freshbread.json",
@@ -232,6 +245,7 @@
       "name": "Food - Fresh Fruit Basket",
       "author": "Lisa",
       "collection": "Food",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/food-freshfruitbasket/food-freshfruitbasket.json",
@@ -243,6 +257,7 @@
       "name": "Food - Fruit Cocktail",
       "author": "Lisa",
       "collection": "Food",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/food-fruitcocktail/food-fruitcocktail.json",
@@ -254,6 +269,7 @@
       "name": "Food - Gelato Dream",
       "author": "Lisa",
       "collection": "Food",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/food-gelatodream/food-gelatodream.json",
@@ -265,6 +281,7 @@
       "name": "Food - Golden Pineapple",
       "author": "Lisa",
       "collection": "Food",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/food-goldenpineapple/food-goldenpineapple.json",
@@ -276,6 +293,7 @@
       "name": "Food - Matcha Mochi",
       "author": "Lisa",
       "collection": "Food",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/food-matchamochi/food-matchamochi.json",
@@ -287,6 +305,7 @@
       "name": "Food - Midnight Ramen",
       "author": "Lisa",
       "collection": "Food",
+      "type": "dark",
       "description": "",
       "paths": {
         "theme": "themes/food-midnightramen/food-midnightramen.json",
@@ -298,6 +317,7 @@
       "name": "Food - Orange",
       "author": "Lisa",
       "collection": "Food",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/food-orange/food-orange.json",
@@ -309,6 +329,7 @@
       "name": "Food - Pineapple Sunshine",
       "author": "Lisa",
       "collection": "Food",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/food-pineapplesunshine/food-pineapplesunshine.json",
@@ -320,6 +341,7 @@
       "name": "Food - Pizza",
       "author": "Lisa",
       "collection": "Food",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/food-pizza/food-pizza.json",
@@ -331,6 +353,7 @@
       "name": "Food - Ripe Peach",
       "author": "Lisa",
       "collection": "Food",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/food-ripepeach/food-ripepeach.json",
@@ -342,6 +365,7 @@
       "name": "Food - Smoky BBQ",
       "author": "Lisa",
       "collection": "Food",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/food-smokybbq/food-smokybbq.json",
@@ -353,6 +377,7 @@
       "name": "Food - Steakhouse",
       "author": "Lisa",
       "collection": "Food",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/food-steakhouse/food-steakhouse.json",
@@ -364,6 +389,7 @@
       "name": "Food - Tomato",
       "author": "Lisa",
       "collection": "Food",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/food-tomato/food-tomato.json",
@@ -375,6 +401,7 @@
       "name": "Food - Tropical Pineapple Cocktail",
       "author": "Lisa",
       "collection": "Food",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/food-tropicalpineapplecocktail/food-tropicalpineapplecocktail.json",
@@ -386,6 +413,7 @@
       "name": "Food - Vanilla Ice Cream",
       "author": "Lisa",
       "collection": "Food",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/food-vanillaicecream/food-vanillaicecream.json",
@@ -397,6 +425,7 @@
       "name": "Food - Wine Cellar",
       "author": "Lisa",
       "collection": "Food",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/food-winecellar/food-winecellar.json",
@@ -408,6 +437,7 @@
       "name": "Jamaica - Jamaica Blue Hole",
       "author": "Lisa",
       "collection": "Jamaica",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/jamaica-jamaicabluehole/jamaica-jamaicabluehole.json",
@@ -419,6 +449,7 @@
       "name": "Jamaica - Jamaica Caribbean Sea",
       "author": "Lisa",
       "collection": "Jamaica",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/jamaica-jamaicacaribbeansea/jamaica-jamaicacaribbeansea.json",
@@ -430,6 +461,7 @@
       "name": "Jamaica - Jamaica Jungle",
       "author": "Lisa",
       "collection": "Jamaica",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/jamaica-jamaicajungle/jamaica-jamaicajungle.json",
@@ -441,6 +473,7 @@
       "name": "Jamaica - Jamaica Konoko Falls",
       "author": "Lisa",
       "collection": "Jamaica",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/jamaica-jamaicakonokofalls/jamaica-jamaicakonokofalls.json",
@@ -452,6 +485,7 @@
       "name": "Jamaica - Jamaica Marijuana ",
       "author": "Lisa",
       "collection": "Jamaica",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/jamaica-jamaicamarijuana/jamaica-jamaicamarijuana.json",
@@ -463,6 +497,7 @@
       "name": "Jamaica - One Love",
       "author": "Lisa",
       "collection": "Jamaica",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/jamaica-onelove/jamaica-onelove.json",
@@ -474,6 +509,7 @@
       "name": "Jamaica - Rastafari Gold",
       "author": "Lisa",
       "collection": "Jamaica",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/jamaica-rastafarigold/jamaica-rastafarigold.json",
@@ -485,6 +521,7 @@
       "name": "Japan - Moss Garden",
       "author": "Lisa",
       "collection": "Japan",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/japan-mossgarden/japan-mossgarden.json",
@@ -496,6 +533,7 @@
       "name": "Japan - Great Wave",
       "author": "Lisa",
       "collection": "Japan",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/japan-greatwave/japan-greatwave.json",
@@ -507,6 +545,7 @@
       "name": "Japan - Japanese Koi Pond",
       "author": "Lisa",
       "collection": "Japan",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/japan-japaneskoipond/japan-japaneskoipond.json",
@@ -518,6 +557,7 @@
       "name": "Japan - Kyoto Sakura",
       "author": "Lisa",
       "collection": "Japan",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/japan-kyotosakura/japan-kyotosakura.json",
@@ -529,6 +569,7 @@
       "name": "Japan - Kyoto Temple",
       "author": "Lisa",
       "collection": "Japan",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/japan-kyototemple/japan-kyototemple.json",
@@ -540,6 +581,7 @@
       "name": "Japan - Muji Minimal",
       "author": "Lisa",
       "collection": "Japan",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/japan-mujiminimal/japan-mujiminimal.json",
@@ -551,6 +593,7 @@
       "name": "Japan - Tea House",
       "author": "Lisa",
       "collection": "Japan",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/japan-teahouse/japan-teahouse.json",
@@ -562,6 +605,7 @@
       "name": "Japan - Torii Sunset",
       "author": "Lisa",
       "collection": "Japan",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/japan-toriisunset/japan-toriisunset.json",
@@ -573,6 +617,7 @@
       "name": "Japan - Ukiyo-e",
       "author": "Lisa",
       "collection": "Japan",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/japan-ukiyo-e/japan-ukiyo-e.json",
@@ -584,6 +629,7 @@
       "name": "Japan - Zen Garden",
       "author": "Lisa",
       "collection": "Japan",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/japan-zengarden/japan-zengarden.json",
@@ -595,6 +641,7 @@
       "name": "Miami - Art Deco Miami",
       "author": "Lisa",
       "collection": "Miami",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/miami-artdecomiami/miami-artdecomiami.json",
@@ -606,6 +653,7 @@
       "name": "Miami - Biscayne Blue",
       "author": "Lisa",
       "collection": "Miami",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/miami-biscayneblue/miami-biscayneblue.json",
@@ -617,6 +665,7 @@
       "name": "Miami - Champagne Coast",
       "author": "Lisa",
       "collection": "Miami",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/miami-champagnecoast/miami-champagnecoast.json",
@@ -628,6 +677,7 @@
       "name": "Miami - Coconut Grove",
       "author": "Lisa",
       "collection": "Miami",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/miami-coconutgrove/miami-coconutgrove.json",
@@ -639,6 +689,7 @@
       "name": "Miami - Flamingo Pink",
       "author": "Lisa",
       "collection": "Miami",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/miami-flamingopink/miami-flamingopink.json",
@@ -650,6 +701,7 @@
       "name": "Miami - Ocean Drive",
       "author": "Lisa",
       "collection": "Miami",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/miami-oceandrive/miami-oceandrive.json",
@@ -661,6 +713,7 @@
       "name": "Miami - Palm Royale",
       "author": "Lisa",
       "collection": "Miami",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/miami-palmroyale/miami-palmroyale.json",
@@ -672,6 +725,7 @@
       "name": "Miami - South Beach Luxury",
       "author": "Lisa",
       "collection": "Miami",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/miami-southbeachluxury/miami-southbeachluxury.json",
@@ -683,6 +737,7 @@
       "name": "Miami - South Beach Sunset",
       "author": "Lisa",
       "collection": "Miami",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/miami-southbeachsunset/miami-southbeachsunset.json",
@@ -694,6 +749,7 @@
       "name": "Misc - Bloom Garden",
       "author": "Lisa",
       "collection": "Misc",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/misc-bloomgarden/misc-bloomgarden.json",
@@ -705,6 +761,7 @@
       "name": "Misc - Christmas",
       "author": "Lisa",
       "collection": "Misc",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/misc-christmas/misc-christmas.json",
@@ -716,6 +773,7 @@
       "name": "Misc - Cloudy Skies",
       "author": "Lisa",
       "collection": "Misc",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/misc-cloudyskies/misc-cloudyskies.json",
@@ -727,6 +785,7 @@
       "name": "Misc - CRT Pixel Dreams",
       "author": "Lisa",
       "collection": "Misc",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/misc-crtpixeldreams/misc-crtpixeldreams.json",
@@ -738,6 +797,7 @@
       "name": "Misc - Cyberpunk Neon",
       "author": "Lisa",
       "collection": "Misc",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/misc-cyberpunkneon/misc-cyberpunkneon.json",
@@ -749,6 +809,7 @@
       "name": "Misc - Deep Forest",
       "author": "Lisa",
       "collection": "Misc",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/misc-deepforest/misc-deepforest.json",
@@ -760,6 +821,7 @@
       "name": "Misc - Fresh Grass",
       "author": "Lisa",
       "collection": "Misc",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/misc-freshgrass/misc-freshgrass.json",
@@ -771,6 +833,7 @@
       "name": "Misc - Retro Classic",
       "author": "Lisa",
       "collection": "Misc",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/misc-retroclassic/misc-retroclassic.json",
@@ -782,6 +845,7 @@
       "name": "Misc - Blue Pixel",
       "author": "Lisa",
       "collection": "Misc",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/misc-bluepixel/misc-bluepixel.json",
@@ -793,6 +857,7 @@
       "name": "Misc - Ice Age",
       "author": "Lisa",
       "collection": "Misc",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/misc-iceage/misc-iceage.json",
@@ -804,6 +869,7 @@
       "name": "Misc - Italian Tomato Garden",
       "author": "Lisa",
       "collection": "Misc",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/misc-italiantomatogarden/misc-italiantomatogarden.json",
@@ -815,6 +881,7 @@
       "name": "Misc - Jurassic Amber",
       "author": "Lisa",
       "collection": "Misc",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/misc-jurassicamber/misc-jurassicamber.json",
@@ -826,6 +893,7 @@
       "name": "Misc - Miami Nights",
       "author": "Lisa",
       "collection": "Misc",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/misc-miaminights/misc-miaminights.json",
@@ -837,6 +905,7 @@
       "name": "Misc - 8-Bit Quest",
       "author": "Lisa",
       "collection": "Misc",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/misc-8bitquest/misc-8bitquest.json",
@@ -848,6 +917,7 @@
       "name": "Misc - Outrun Sunset",
       "author": "Lisa",
       "collection": "Misc",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/misc-outrunsunset/misc-outrunsunset.json",
@@ -859,6 +929,7 @@
       "name": "Misc - Pixel Quest",
       "author": "Lisa",
       "collection": "Misc",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/misc-pixelquest/misc-pixelquest.json",
@@ -870,6 +941,7 @@
       "name": "Misc - Psychedelic Dream",
       "author": "Lisa",
       "collection": "Misc",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/misc-psychedelicdream/misc-psychedelicdream.json",
@@ -881,6 +953,7 @@
       "name": "Misc - Rainy Day",
       "author": "Lisa",
       "collection": "Misc",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/misc-rainyday/misc-rainyday.json",
@@ -892,6 +965,7 @@
       "name": "Misc - Reggae Vibes",
       "author": "Lisa",
       "collection": "Misc",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/misc-reggaevibes/misc-reggaevibes.json",
@@ -903,6 +977,7 @@
       "name": "Misc - Retro Arcade",
       "author": "Lisa",
       "collection": "Misc",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/misc-retroarcade/misc-retroarcade.json",
@@ -914,6 +989,7 @@
       "name": "Misc - Sandstorm",
       "author": "Lisa",
       "collection": "Misc",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/misc-sandstorm/misc-sandstorm.json",
@@ -925,6 +1001,7 @@
       "name": "Misc - Synthwave",
       "author": "Lisa",
       "collection": "Misc",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/misc-synthwave/misc-synthwave.json",
@@ -936,6 +1013,7 @@
       "name": "Misc - Thunderstorm",
       "author": "Lisa",
       "collection": "Misc",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/misc-thunderstorm/misc-thunderstorm.json",
@@ -947,6 +1025,7 @@
       "name": "Misc - Tropical Paradise",
       "author": "Lisa",
       "collection": "Misc",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/misc-tropicalparadise/misc-tropicalparadise.json",
@@ -958,6 +1037,7 @@
       "name": "Misc - Waterfall Cascade",
       "author": "Lisa",
       "collection": "Misc",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/misc-waterfallcascade/misc-waterfallcascade.json",
@@ -969,6 +1049,7 @@
       "name": "Rainforest - Amazon River",
       "author": "Lisa",
       "collection": "Rainforest",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/rainforest-amazonriver/rainforest-amazonriver.json",
@@ -980,6 +1061,7 @@
       "name": "Rainforest - Emerald Canopy",
       "author": "Lisa",
       "collection": "Rainforest",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/rainforest-emeraldcanopy/rainforest-emeraldcanopy.json",
@@ -991,6 +1073,7 @@
       "name": "Rainforest - Jungle Storm",
       "author": "Lisa",
       "collection": "Rainforest",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/rainforest-junglestorm/rainforest-junglestorm.json",
@@ -1002,6 +1085,7 @@
       "name": "Rainforest - Moss & Stone",
       "author": "Lisa",
       "collection": "Rainforest",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/rainforest-mossandstone/rainforest-mossandstone.json",
@@ -1013,6 +1097,7 @@
       "name": "Rainforest - Orchid Bloom",
       "author": "Lisa",
       "collection": "Rainforest",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/rainforest-orchidbloom/rainforest-orchidbloom.json",
@@ -1024,6 +1109,7 @@
       "name": "Rainforest - Rainforest Night",
       "author": "Lisa",
       "collection": "Rainforest",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/rainforest-rainforestnight/rainforest-rainforestnight.json",
@@ -1035,6 +1121,7 @@
       "name": "Summer - Coastal Breeze",
       "author": "Lisa",
       "collection": "Summer",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/summer-coastalbreeze/summer-coastalbreeze.json",
@@ -1046,6 +1133,7 @@
       "name": "Summer - Hibiscus Summer",
       "author": "Lisa",
       "collection": "Summer",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/summer-hibiscussummer/summer-hibiscussummer.json",
@@ -1057,6 +1145,7 @@
       "name": "Summer - Lemonade Summer",
       "author": "Lisa",
       "collection": "Summer",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/summer-lemonadesummer/summer-lemonadesummer.json",
@@ -1068,6 +1157,7 @@
       "name": "Summer - Ocean Summer",
       "author": "Lisa",
       "collection": "Summer",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/summer-oceansummer/summer-oceansummer.json",
@@ -1079,6 +1169,7 @@
       "name": "Summer - Summer",
       "author": "Lisa",
       "collection": "Summer",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/summer-summer/summer-summer.json",
@@ -1090,6 +1181,7 @@
       "name": "Summer - Summer Sunset",
       "author": "Lisa",
       "collection": "Summer",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/summer-summersunset/summer-summersunset.json",
@@ -1101,6 +1193,7 @@
       "name": "Summer - Tropical Summer",
       "author": "Lisa",
       "collection": "Summer",
+      "type": "light",
       "description": "",
       "paths": {
         "theme": "themes/summer-tropicalsummer/summer-tropicalsummer.json",
