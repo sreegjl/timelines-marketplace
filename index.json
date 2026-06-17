@@ -1,4 +1,4 @@
-{
+﻿{
   "themes": [
     {
       "id": "console",
@@ -1150,18 +1150,6 @@
       "paths": {
         "theme": "themes/miami-miamipastels/miami-miamipastels.json",
         "thumbnail": "themes/miami-miamipastels/thumbnail.png"
-      }
-    },
-    {
-      "id": "misc-bluepixel",
-      "name": "Misc - Blue Pixel",
-      "author": "Lisa",
-      "collection": "Misc",
-      "type": "light",
-      "description": "",
-      "paths": {
-        "theme": "themes/misc-bluepixel/misc-bluepixel.json",
-        "thumbnail": "themes/misc-bluepixel/thumbnail.png"
       }
     },
     {
