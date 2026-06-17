@@ -1,0 +1,28 @@
+{
+  "name": "Miami - Miami Pastels",
+  "font": {
+    "family": "Outfit",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;500;600;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#FF8FB8",
+    "ui-muted": "#7EDFEF",
+    "accent-color": "#FFE0EC",
+    "surface": "#FFF5EF",
+    "inset-bg": "#FFFBF7",
+    "app-bg": "#FFFDFB",
+    "text-muted": "#8D90A3",
+    "text-subtle": "#72768A",
+    "era-label": "#313447",
+    "selection-color": "#B8F1FF",
+    "link-color": "#3A7CA5",
+    "light-bg": "#F8FCFF",
+    "border-color": "#E6EAF0",
+    "secondary-text": "#8B8FA3",
+    "highlight-color": "#FFD6A5",
+    "surface-active": "#FFE0EC"
+  },
+  "type": "light",
+  "collection": "Miami",
+  "author": "Lisa"
+}

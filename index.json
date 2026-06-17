@@ -1127,6 +1127,54 @@
         "theme": "themes/summer-tropicalsummer/summer-tropicalsummer.json",
         "thumbnail": "themes/summer-tropicalsummer/thumbnail.png"
       }
+    },
+    {
+      "id": "food-peach",
+      "name": "Food - Peach",
+      "author": "Lisa",
+      "collection": "Food",
+      "type": "light",
+      "description": "",
+      "paths": {
+        "theme": "themes/food-peach/food-peach.json",
+        "thumbnail": "themes/food-peach/thumbnail.png"
+      }
+    },
+    {
+      "id": "miami-miamipastels",
+      "name": "Miami - Miami Pastels",
+      "author": "Lisa",
+      "collection": "Miami",
+      "type": "light",
+      "description": "",
+      "paths": {
+        "theme": "themes/miami-miamipastels/miami-miamipastels.json",
+        "thumbnail": "themes/miami-miamipastels/thumbnail.png"
+      }
+    },
+    {
+      "id": "misc-bluepixel",
+      "name": "Misc - Blue Pixel",
+      "author": "Lisa",
+      "collection": "Misc",
+      "type": "light",
+      "description": "",
+      "paths": {
+        "theme": "themes/misc-bluepixel/misc-bluepixel.json",
+        "thumbnail": "themes/misc-bluepixel/thumbnail.png"
+      }
+    },
+    {
+      "id": "summer-beachsandsummer",
+      "name": "Summer - Beach Sand Summer",
+      "author": "Lisa",
+      "collection": "Summer",
+      "type": "light",
+      "description": "",
+      "paths": {
+        "theme": "themes/summer-beachsandsummer/summer-beachsandsummer.json",
+        "thumbnail": "themes/summer-beachsandsummer/thumbnail.png"
+      }
     }
   ]
 }

@@ -1,0 +1,28 @@
+{
+  "name": "Summer - Beach Sand Summer",
+  "font": {
+    "family": "Red Rose",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Red+Rose:wght@300;400;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#C2A27C",
+    "ui-muted": "#D9C2A6",
+    "accent-color": "#F3E9DA",
+    "surface": "#FAF3E7",
+    "inset-bg": "#FFF8F0",
+    "app-bg": "#FFFCF7",
+    "text-muted": "#7A7A7A",
+    "text-subtle": "#666666",
+    "era-label": "#1C1C1C",
+    "selection-color": "#A2D2FF",
+    "link-color": "#4D96FF",
+    "light-bg": "#F6F1E8",
+    "border-color": "#D8C3A5",
+    "secondary-text": "#6F6A63",
+    "highlight-color": "#EAD2AC",
+    "surface-active": "#F3E9DA"
+  },
+  "type": "light",
+  "collection": "Summer",
+  "author": "Lisa"
+}

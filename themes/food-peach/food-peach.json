@@ -1,0 +1,28 @@
+{
+  "name": "Food - Peach",
+  "type": "light",
+  "collection": "Food",
+  "author": "Lisa",
+  "font": {
+    "family": "Lexend",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Lexend:wght@300..700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#4A3228",
+    "ui-muted": "#A38778",
+    "accent-color": "#F4C7A1",
+    "surface-active": "#F4C7A1",
+    "surface": "#F9E0CC",
+    "inset-bg": "#FFF4EC",
+    "app-bg": "#FFF9F4",
+    "text-muted": "#9D8A80",
+    "text-subtle": "#8B786F",
+    "era-label": "#2A1E18",
+    "selection-color": "#A8D8FF",
+    "link-color": "#D97745",
+    "light-bg": "#FDF0E7",
+    "border-color": "#E7CBB7",
+    "secondary-text": "#8B786F",
+    "highlight-color": "#FFD27A"
+  }
+}
