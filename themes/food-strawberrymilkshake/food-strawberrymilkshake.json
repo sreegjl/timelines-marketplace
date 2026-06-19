@@ -1,0 +1,28 @@
+{
+  "name": "Food - Strawberry Milkshake",
+  "type": "light",
+  "collection": "Food",
+  "author": "Lisa",
+  "font": {
+    "family": "Comfortaa",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#5A3A45",
+    "ui-muted": "#B08B97",
+    "accent-color": "#FFC8D6",
+    "surface-active": "#FFB3C7",
+    "surface": "#FFF0F4",
+    "inset-bg": "#FFF8FA",
+    "app-bg": "#FFFFFF",
+    "text-muted": "#B196A0",
+    "text-subtle": "#9A8089",
+    "era-label": "#4A2D37",
+    "selection-color": "#FFA7BF",
+    "link-color": "#E46A8A",
+    "light-bg": "#FFF6F8",
+    "border-color": "#F5D6DF",
+    "secondary-text": "#9A8089",
+    "highlight-color": "#FFE9A8"
+  }
+}

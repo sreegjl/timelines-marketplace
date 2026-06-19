@@ -1,0 +1,28 @@
+{
+  "name": "Food - Blueberry Bliss",
+  "type": "light",
+  "collection": "Food",
+  "author": "Lisa",
+  "font": {
+    "family": "Lexend",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Lexend:wght@300..700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#2A2440",
+    "ui-muted": "#7A7FA8",
+    "accent-color": "#7C8CFF",
+    "surface-active": "#AAB6FF",
+    "surface": "#E8EBFF",
+    "inset-bg": "#F5F7FF",
+    "app-bg": "#FCFCFF",
+    "text-muted": "#8A8FB5",
+    "text-subtle": "#A0A5C8",
+    "era-label": "#1E1B34",
+    "selection-color": "#B8D4FF",
+    "link-color": "#5A67D8",
+    "light-bg": "#F0F3FF",
+    "border-color": "#D3D9F8",
+    "secondary-text": "#A0A5C8",
+    "highlight-color": "#C7B5FF"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Food - Sugar Plum Dream",
+  "type": "light",
+  "collection": "Food",
+  "author": "Lisa",
+  "font": {
+    "family": "Lexend",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Lexend:wght@300..700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#35233F",
+    "ui-muted": "#8F7A9C",
+    "accent-color": "#C78AE6",
+    "surface-active": "#DDB4F2",
+    "surface": "#F6E8FB",
+    "inset-bg": "#FCF6FF",
+    "app-bg": "#FFFCFF",
+    "text-muted": "#9A8AA5",
+    "text-subtle": "#B1A2BC",
+    "era-label": "#24142D",
+    "selection-color": "#E4C6FF",
+    "link-color": "#A455D6",
+    "light-bg": "#F9F1FD",
+    "border-color": "#E3D1EE",
+    "secondary-text": "#B1A2BC",
+    "highlight-color": "#FFD8F4"
+  }
+}

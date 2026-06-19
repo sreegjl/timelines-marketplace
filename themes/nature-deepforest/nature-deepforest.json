@@ -1,0 +1,28 @@
+{
+  "name": "Nature - Deep Forest",
+  "font": {
+    "family": "Red Rose",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Red+Rose:wght@300;400;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#1F3A2D",
+    "ui-muted": "#355E4B",
+    "accent-color": "#B8D8A8",
+    "surface": "#EEF5EC",
+    "inset-bg": "#F7FBF6",
+    "app-bg": "#FCFEFB",
+    "text-muted": "#7A8078",
+    "text-subtle": "#62685F",
+    "era-label": "#181C19",
+    "selection-color": "#A9D7FF",
+    "link-color": "#2D5A46",
+    "light-bg": "#F1F5F0",
+    "border-color": "#D2DCCF",
+    "secondary-text": "#6D766D",
+    "highlight-color": "#8FAF5C",
+    "surface-active": "#B8D8A8"
+  },
+  "type": "light",
+  "collection": "Nature",
+  "author": "Lisa"
+}

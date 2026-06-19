@@ -1,0 +1,28 @@
+{
+  "name": "Nature - Sandstorm",
+  "font": {
+    "family": "Red Rose",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Red+Rose:wght@300;400;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#5A4634",
+    "ui-muted": "#7A5F45",
+    "accent-color": "#E7C59A",
+    "surface": "#FAF1E4",
+    "inset-bg": "#FFF7ED",
+    "app-bg": "#FFFCF8",
+    "text-muted": "#8A7F75",
+    "text-subtle": "#746B62",
+    "era-label": "#221E1A",
+    "selection-color": "#A9D7FF",
+    "link-color": "#7C5A3A",
+    "light-bg": "#F4EBDD",
+    "border-color": "#D8C7B2",
+    "secondary-text": "#7A6D61",
+    "highlight-color": "#D6A85C",
+    "surface-active": "#E7C59A"
+  },
+  "type": "light",
+  "collection": "Nature",
+  "author": "Lisa"
+}

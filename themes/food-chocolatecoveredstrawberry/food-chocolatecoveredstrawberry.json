@@ -1,0 +1,28 @@
+{
+  "name": "Food - Chocolate-Covered Strawberry",
+  "type": "light",
+  "collection": "Food",
+  "author": "Lisa",
+  "font": {
+    "family": "Fraunces",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,100..900&display=swap"
+  },
+  "colors": {
+    "text-primary": "#3B241A",
+    "ui-muted": "#8B6B5A",
+    "accent-color": "#D95C6C",
+    "surface-active": "#E67C8A",
+    "surface": "#F3E3D6",
+    "inset-bg": "#FBF5F0",
+    "app-bg": "#FFFDFB",
+    "text-muted": "#8F7A71",
+    "text-subtle": "#776760",
+    "era-label": "#24140E",
+    "selection-color": "#D96A7D",
+    "link-color": "#A14F3B",
+    "light-bg": "#F8EFE8",
+    "border-color": "#DDC8BB",
+    "secondary-text": "#776760",
+    "highlight-color": "#F2C75C"
+  }
+}

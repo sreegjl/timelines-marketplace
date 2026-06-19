@@ -1,0 +1,28 @@
+{
+  "name": "Food - Strawberry Cream",
+  "type": "light",
+  "collection": "Food",
+  "author": "Lisa",
+  "font": {
+    "family": "Quicksand",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#4A2430",
+    "ui-muted": "#9B6E78",
+    "accent-color": "#F7B7C3",
+    "surface-active": "#F6A5B6",
+    "surface": "#FFE8EC",
+    "inset-bg": "#FFF7F8",
+    "app-bg": "#FFFDFD",
+    "text-muted": "#A07B84",
+    "text-subtle": "#8C6870",
+    "era-label": "#3A1D25",
+    "selection-color": "#FF8DA1",
+    "link-color": "#D94A68",
+    "light-bg": "#FFF2F4",
+    "border-color": "#F1C7CF",
+    "secondary-text": "#8C6870",
+    "highlight-color": "#FFD966"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Food - Bubblegum Pop",
+  "type": "light",
+  "collection": "Food",
+  "author": "Lisa",
+  "font": {
+    "family": "Rubik Bubbles",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Rubik+Bubbles&display=swap"
+  },
+  "colors": {
+    "text-primary": "#53305F",
+    "ui-muted": "#A47AB5",
+    "accent-color": "#FF7BC5",
+    "surface-active": "#7ED7FF",
+    "surface": "#FFF0FA",
+    "inset-bg": "#FFF9FD",
+    "app-bg": "#FFFFFF",
+    "text-muted": "#AB92B8",
+    "text-subtle": "#907B9D",
+    "era-label": "#341C3D",
+    "selection-color": "#FF9FD6",
+    "link-color": "#4FA9FF",
+    "light-bg": "#FFF6FC",
+    "border-color": "#F0D8F5",
+    "secondary-text": "#907B9D",
+    "highlight-color": "#FFF07A"
+  }
+}

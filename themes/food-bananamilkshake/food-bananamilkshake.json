@@ -1,0 +1,28 @@
+{
+  "name": "Food - Banana Milkshake",
+  "type": "light",
+  "collection": "Food",
+  "author": "Lisa",
+  "font": {
+    "family": "Nunito",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Nunito:wght@200..1000&display=swap"
+  },
+  "colors": {
+    "text-primary": "#4A3B20",
+    "ui-muted": "#9A8A63",
+    "accent-color": "#F7D86A",
+    "surface-active": "#F4D04B",
+    "surface": "#FFF3C9",
+    "inset-bg": "#FFFBEF",
+    "app-bg": "#FFFDF8",
+    "text-muted": "#A39470",
+    "text-subtle": "#8D7F5E",
+    "era-label": "#342813",
+    "selection-color": "#FFD95A",
+    "link-color": "#C88B2D",
+    "light-bg": "#FFF8E2",
+    "border-color": "#EADFB6",
+    "secondary-text": "#8D7F5E",
+    "highlight-color": "#FFE88F"
+  }
+}

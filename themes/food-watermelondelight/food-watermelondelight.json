@@ -1,0 +1,28 @@
+{
+  "name": "Food - Watermelon Delight",
+  "type": "light",
+  "collection": "Food",
+  "author": "Lisa",
+  "font": {
+    "family": "Lexend",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Lexend:wght@300..700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#2F241D",
+    "ui-muted": "#7C8B6F",
+    "accent-color": "#FF8FA3",
+    "surface-active": "#FFB3C1",
+    "surface": "#FEE5E8",
+    "inset-bg": "#FFF8F4",
+    "app-bg": "#FFFDFC",
+    "text-muted": "#8A7A72",
+    "text-subtle": "#A38F86",
+    "era-label": "#2A1B17",
+    "selection-color": "#A7E3A1",
+    "link-color": "#E85D75",
+    "light-bg": "#F5FFF0",
+    "border-color": "#C8E6B8",
+    "secondary-text": "#A38F86",
+    "highlight-color": "#FFDE59"
+  }
+}

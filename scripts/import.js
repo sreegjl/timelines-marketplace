@@ -31,12 +31,30 @@ async function main() {
   fs.mkdirSync(INBOX_DIR, { recursive: true });
 
   const files = fs.readdirSync(INBOX_DIR).filter(f => f.endsWith(".json"));
-  if (files.length === 0) {
-    console.log("inbox/ is empty — drop theme JSON files there and re-run.");
+
+  const index = JSON.parse(fs.readFileSync(INDEX_FILE, "utf8").replace(/^﻿/, ""));
+
+  const before = index.themes.length;
+  index.themes = index.themes.filter(t => {
+    const themeDir = path.join(THEMES_DIR, t.id);
+    if (!fs.existsSync(themeDir)) {
+      console.log(`removed "${t.id}" from index — folder missing`);
+      return false;
+    }
+    return true;
+  });
+  const removed = index.themes.length < before;
+  if (removed) {
+    fs.writeFileSync(INDEX_FILE, Buffer.from(JSON.stringify(index, null, 2) + "\n", "utf8"));
+  }
+
+  if (files.length === 0 && !removed) {
+    console.log("nothing to do — inbox is empty and index is clean.");
     return;
   }
 
-  const index = JSON.parse(fs.readFileSync(INDEX_FILE, "utf8").replace(/^﻿/, ""));
+  for (const entry of index.themes) delete entry.new;
+
   const browser = await chromium.launch();
   const page = await browser.newPage();
 
@@ -70,6 +88,7 @@ async function main() {
         author: theme.author,
         collection: theme.collection ?? null,
         type: theme.type ?? "light",
+        new: true,
         description: "",
         paths: {
           theme: `themes/${id}/${id}.json`,

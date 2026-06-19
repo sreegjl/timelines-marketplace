@@ -1,0 +1,28 @@
+{
+  "name": "Food - Wild Strawberry",
+  "type": "light",
+  "collection": "Food",
+  "author": "Lisa",
+  "font": {
+    "family": "Crimson Pro",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Crimson+Pro:wght@200..900&display=swap"
+  },
+  "colors": {
+    "text-primary": "#432126",
+    "ui-muted": "#8E6468",
+    "accent-color": "#D95B6F",
+    "surface-active": "#E97A8E",
+    "surface": "#F8E7E2",
+    "inset-bg": "#FFF7F3",
+    "app-bg": "#FFFDFC",
+    "text-muted": "#8F7774",
+    "text-subtle": "#796462",
+    "era-label": "#2F1619",
+    "selection-color": "#E65A72",
+    "link-color": "#C63D58",
+    "light-bg": "#FCF1ED",
+    "border-color": "#E7C9C1",
+    "secondary-text": "#796462",
+    "highlight-color": "#FFD86A"
+  }
+}

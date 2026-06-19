@@ -1,0 +1,28 @@
+{
+  "name": "Food - Candy Shop",
+  "type": "light",
+  "collection": "Food",
+  "author": "Lisa",
+  "font": {
+    "family": "Fredoka",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Fredoka:wght@300..700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#4A3559",
+    "ui-muted": "#9A86B0",
+    "accent-color": "#FF9FD6",
+    "surface-active": "#8ED8FF",
+    "surface": "#FFF0FA",
+    "inset-bg": "#FFF9FD",
+    "app-bg": "#FFFFFF",
+    "text-muted": "#A28FB4",
+    "text-subtle": "#8C7A9D",
+    "era-label": "#2D2138",
+    "selection-color": "#FFB3E1",
+    "link-color": "#6C8DFF",
+    "light-bg": "#FFF6FC",
+    "border-color": "#E8D6F2",
+    "secondary-text": "#8C7A9D",
+    "highlight-color": "#FFE86B"
+  }
+}

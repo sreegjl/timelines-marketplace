@@ -1,4 +1,4 @@
-﻿{
+{
   "themes": [
     {
       "id": "console",
@@ -745,18 +745,6 @@
       }
     },
     {
-      "id": "misc-bloomgarden",
-      "name": "Misc - Bloom Garden",
-      "author": "Lisa",
-      "collection": "Misc",
-      "type": "light",
-      "description": "",
-      "paths": {
-        "theme": "themes/misc-bloomgarden/misc-bloomgarden.json",
-        "thumbnail": "themes/misc-bloomgarden/thumbnail.png"
-      }
-    },
-    {
       "id": "misc-christmas",
       "name": "Misc - Christmas",
       "author": "Lisa",
@@ -766,18 +754,6 @@
       "paths": {
         "theme": "themes/misc-christmas/misc-christmas.json",
         "thumbnail": "themes/misc-christmas/thumbnail.png"
-      }
-    },
-    {
-      "id": "misc-cloudyskies",
-      "name": "Misc - Cloudy Skies",
-      "author": "Lisa",
-      "collection": "Misc",
-      "type": "light",
-      "description": "",
-      "paths": {
-        "theme": "themes/misc-cloudyskies/misc-cloudyskies.json",
-        "thumbnail": "themes/misc-cloudyskies/thumbnail.png"
       }
     },
     {
@@ -793,30 +769,6 @@
       }
     },
     {
-      "id": "misc-deepforest",
-      "name": "Misc - Deep Forest",
-      "author": "Lisa",
-      "collection": "Misc",
-      "type": "light",
-      "description": "",
-      "paths": {
-        "theme": "themes/misc-deepforest/misc-deepforest.json",
-        "thumbnail": "themes/misc-deepforest/thumbnail.png"
-      }
-    },
-    {
-      "id": "misc-freshgrass",
-      "name": "Misc - Fresh Grass",
-      "author": "Lisa",
-      "collection": "Misc",
-      "type": "light",
-      "description": "",
-      "paths": {
-        "theme": "themes/misc-freshgrass/misc-freshgrass.json",
-        "thumbnail": "themes/misc-freshgrass/thumbnail.png"
-      }
-    },
-    {
       "id": "misc-retroclassic",
       "name": "Misc - Retro Classic",
       "author": "Lisa",
@@ -826,42 +778,6 @@
       "paths": {
         "theme": "themes/misc-retroclassic/misc-retroclassic.json",
         "thumbnail": "themes/misc-retroclassic/thumbnail.png"
-      }
-    },
-    {
-      "id": "misc-iceage",
-      "name": "Misc - Ice Age",
-      "author": "Lisa",
-      "collection": "Misc",
-      "type": "light",
-      "description": "",
-      "paths": {
-        "theme": "themes/misc-iceage/misc-iceage.json",
-        "thumbnail": "themes/misc-iceage/thumbnail.png"
-      }
-    },
-    {
-      "id": "misc-italiantomatogarden",
-      "name": "Misc - Italian Tomato Garden",
-      "author": "Lisa",
-      "collection": "Misc",
-      "type": "light",
-      "description": "",
-      "paths": {
-        "theme": "themes/misc-italiantomatogarden/misc-italiantomatogarden.json",
-        "thumbnail": "themes/misc-italiantomatogarden/thumbnail.png"
-      }
-    },
-    {
-      "id": "misc-jurassicamber",
-      "name": "Misc - Jurassic Amber",
-      "author": "Lisa",
-      "collection": "Misc",
-      "type": "light",
-      "description": "",
-      "paths": {
-        "theme": "themes/misc-jurassicamber/misc-jurassicamber.json",
-        "thumbnail": "themes/misc-jurassicamber/thumbnail.png"
       }
     },
     {
@@ -901,18 +817,6 @@
       }
     },
     {
-      "id": "misc-rainyday",
-      "name": "Misc - Rainy Day",
-      "author": "Lisa",
-      "collection": "Misc",
-      "type": "light",
-      "description": "",
-      "paths": {
-        "theme": "themes/misc-rainyday/misc-rainyday.json",
-        "thumbnail": "themes/misc-rainyday/thumbnail.png"
-      }
-    },
-    {
       "id": "misc-reggaevibes",
       "name": "Misc - Reggae Vibes",
       "author": "Lisa",
@@ -922,54 +826,6 @@
       "paths": {
         "theme": "themes/misc-reggaevibes/misc-reggaevibes.json",
         "thumbnail": "themes/misc-reggaevibes/thumbnail.png"
-      }
-    },
-    {
-      "id": "misc-sandstorm",
-      "name": "Misc - Sandstorm",
-      "author": "Lisa",
-      "collection": "Misc",
-      "type": "light",
-      "description": "",
-      "paths": {
-        "theme": "themes/misc-sandstorm/misc-sandstorm.json",
-        "thumbnail": "themes/misc-sandstorm/thumbnail.png"
-      }
-    },
-    {
-      "id": "misc-thunderstorm",
-      "name": "Misc - Thunderstorm",
-      "author": "Lisa",
-      "collection": "Misc",
-      "type": "light",
-      "description": "",
-      "paths": {
-        "theme": "themes/misc-thunderstorm/misc-thunderstorm.json",
-        "thumbnail": "themes/misc-thunderstorm/thumbnail.png"
-      }
-    },
-    {
-      "id": "misc-tropicalparadise",
-      "name": "Misc - Tropical Paradise",
-      "author": "Lisa",
-      "collection": "Misc",
-      "type": "light",
-      "description": "",
-      "paths": {
-        "theme": "themes/misc-tropicalparadise/misc-tropicalparadise.json",
-        "thumbnail": "themes/misc-tropicalparadise/thumbnail.png"
-      }
-    },
-    {
-      "id": "misc-waterfallcascade",
-      "name": "Misc - Waterfall Cascade",
-      "author": "Lisa",
-      "collection": "Misc",
-      "type": "light",
-      "description": "",
-      "paths": {
-        "theme": "themes/misc-waterfallcascade/misc-waterfallcascade.json",
-        "thumbnail": "themes/misc-waterfallcascade/thumbnail.png"
       }
     },
     {
@@ -1162,6 +1018,294 @@
       "paths": {
         "theme": "themes/summer-beachsandsummer/summer-beachsandsummer.json",
         "thumbnail": "themes/summer-beachsandsummer/thumbnail.png"
+      }
+    },
+    {
+      "id": "food-bananamilkshake",
+      "name": "Food - Banana Milkshake",
+      "author": "Lisa",
+      "collection": "Food",
+      "type": "light",
+      "description": "",
+      "paths": {
+        "theme": "themes/food-bananamilkshake/food-bananamilkshake.json",
+        "thumbnail": "themes/food-bananamilkshake/thumbnail.png"
+      }
+    },
+    {
+      "id": "food-bananasplit",
+      "name": "Food - Banana Split",
+      "author": "Lisa",
+      "collection": "Food",
+      "type": "light",
+      "description": "",
+      "paths": {
+        "theme": "themes/food-bananasplit/food-bananasplit.json",
+        "thumbnail": "themes/food-bananasplit/thumbnail.png"
+      }
+    },
+    {
+      "id": "food-blueberrybliss",
+      "name": "Food - Blueberry Bliss",
+      "author": "Lisa",
+      "collection": "Food",
+      "type": "light",
+      "description": "",
+      "paths": {
+        "theme": "themes/food-blueberrybliss/food-blueberrybliss.json",
+        "thumbnail": "themes/food-blueberrybliss/thumbnail.png"
+      }
+    },
+    {
+      "id": "food-bubblegumpop",
+      "name": "Food - Bubblegum Pop",
+      "author": "Lisa",
+      "collection": "Food",
+      "type": "light",
+      "description": "",
+      "paths": {
+        "theme": "themes/food-bubblegumpop/food-bubblegumpop.json",
+        "thumbnail": "themes/food-bubblegumpop/thumbnail.png"
+      }
+    },
+    {
+      "id": "food-candyshop",
+      "name": "Food - Candy Shop",
+      "author": "Lisa",
+      "collection": "Food",
+      "type": "light",
+      "description": "",
+      "paths": {
+        "theme": "themes/food-candyshop/food-candyshop.json",
+        "thumbnail": "themes/food-candyshop/thumbnail.png"
+      }
+    },
+    {
+      "id": "food-chocolatecoveredstrawberry",
+      "name": "Food - Chocolate-Covered Strawberry",
+      "author": "Lisa",
+      "collection": "Food",
+      "type": "light",
+      "description": "",
+      "paths": {
+        "theme": "themes/food-chocolatecoveredstrawberry/food-chocolatecoveredstrawberry.json",
+        "thumbnail": "themes/food-chocolatecoveredstrawberry/thumbnail.png"
+      }
+    },
+    {
+      "id": "food-lollipopland",
+      "name": "Food - Lollipop Land",
+      "author": "Lisa",
+      "collection": "Food",
+      "type": "light",
+      "description": "",
+      "paths": {
+        "theme": "themes/food-lollipopland/food-lollipopland.json",
+        "thumbnail": "themes/food-lollipopland/thumbnail.png"
+      }
+    },
+    {
+      "id": "food-strawberrycream",
+      "name": "Food - Strawberry Cream",
+      "author": "Lisa",
+      "collection": "Food",
+      "type": "light",
+      "description": "",
+      "paths": {
+        "theme": "themes/food-strawberrycream/food-strawberrycream.json",
+        "thumbnail": "themes/food-strawberrycream/thumbnail.png"
+      }
+    },
+    {
+      "id": "food-strawberrymilkshake",
+      "name": "Food - Strawberry Milkshake",
+      "author": "Lisa",
+      "collection": "Food",
+      "type": "light",
+      "description": "",
+      "paths": {
+        "theme": "themes/food-strawberrymilkshake/food-strawberrymilkshake.json",
+        "thumbnail": "themes/food-strawberrymilkshake/thumbnail.png"
+      }
+    },
+    {
+      "id": "food-sugarplumdream",
+      "name": "Food - Sugar Plum Dream",
+      "author": "Lisa",
+      "collection": "Food",
+      "type": "light",
+      "description": "",
+      "paths": {
+        "theme": "themes/food-sugarplumdream/food-sugarplumdream.json",
+        "thumbnail": "themes/food-sugarplumdream/thumbnail.png"
+      }
+    },
+    {
+      "id": "food-watermelondelight",
+      "name": "Food - Watermelon Delight",
+      "author": "Lisa",
+      "collection": "Food",
+      "type": "light",
+      "description": "",
+      "paths": {
+        "theme": "themes/food-watermelondelight/food-watermelondelight.json",
+        "thumbnail": "themes/food-watermelondelight/thumbnail.png"
+      }
+    },
+    {
+      "id": "food-wildstrawberry",
+      "name": "Food - Wild Strawberry",
+      "author": "Lisa",
+      "collection": "Food",
+      "type": "light",
+      "description": "",
+      "paths": {
+        "theme": "themes/food-wildstrawberry/food-wildstrawberry.json",
+        "thumbnail": "themes/food-wildstrawberry/thumbnail.png"
+      }
+    },
+    {
+      "id": "nature-bloomgarden",
+      "name": "Nature - Bloom Garden",
+      "author": "Lisa",
+      "collection": "Nature",
+      "type": "light",
+      "description": "",
+      "paths": {
+        "theme": "themes/nature-bloomgarden/nature-bloomgarden.json",
+        "thumbnail": "themes/nature-bloomgarden/thumbnail.png"
+      }
+    },
+    {
+      "id": "nature-cloudyskies",
+      "name": "Nature - Cloudy Skies",
+      "author": "Lisa",
+      "collection": "Nature",
+      "type": "light",
+      "description": "",
+      "paths": {
+        "theme": "themes/nature-cloudyskies/nature-cloudyskies.json",
+        "thumbnail": "themes/nature-cloudyskies/thumbnail.png"
+      }
+    },
+    {
+      "id": "nature-deepforest",
+      "name": "Nature - Deep Forest",
+      "author": "Lisa",
+      "collection": "Nature",
+      "type": "light",
+      "description": "",
+      "paths": {
+        "theme": "themes/nature-deepforest/nature-deepforest.json",
+        "thumbnail": "themes/nature-deepforest/thumbnail.png"
+      }
+    },
+    {
+      "id": "nature-freshgrass",
+      "name": "Nature - Fresh Grass",
+      "author": "Lisa",
+      "collection": "Nature",
+      "type": "light",
+      "description": "",
+      "paths": {
+        "theme": "themes/nature-freshgrass/nature-freshgrass.json",
+        "thumbnail": "themes/nature-freshgrass/thumbnail.png"
+      }
+    },
+    {
+      "id": "nature-iceage",
+      "name": "Nature - Ice Age",
+      "author": "Lisa",
+      "collection": "Nature",
+      "type": "light",
+      "description": "",
+      "paths": {
+        "theme": "themes/nature-iceage/nature-iceage.json",
+        "thumbnail": "themes/nature-iceage/thumbnail.png"
+      }
+    },
+    {
+      "id": "nature-italiantomatogarden",
+      "name": "Nature - Italian Tomato Garden",
+      "author": "Lisa",
+      "collection": "Nature",
+      "type": "light",
+      "description": "",
+      "paths": {
+        "theme": "themes/nature-italiantomatogarden/nature-italiantomatogarden.json",
+        "thumbnail": "themes/nature-italiantomatogarden/thumbnail.png"
+      }
+    },
+    {
+      "id": "nature-jurassicamber",
+      "name": "Nature - Jurassic Amber",
+      "author": "Lisa",
+      "collection": "Nature",
+      "type": "light",
+      "description": "",
+      "paths": {
+        "theme": "themes/nature-jurassicamber/nature-jurassicamber.json",
+        "thumbnail": "themes/nature-jurassicamber/thumbnail.png"
+      }
+    },
+    {
+      "id": "nature-rainyday",
+      "name": "Nature - Rainy Day",
+      "author": "Lisa",
+      "collection": "Nature",
+      "type": "light",
+      "description": "",
+      "paths": {
+        "theme": "themes/nature-rainyday/nature-rainyday.json",
+        "thumbnail": "themes/nature-rainyday/thumbnail.png"
+      }
+    },
+    {
+      "id": "nature-sandstorm",
+      "name": "Nature - Sandstorm",
+      "author": "Lisa",
+      "collection": "Nature",
+      "type": "light",
+      "description": "",
+      "paths": {
+        "theme": "themes/nature-sandstorm/nature-sandstorm.json",
+        "thumbnail": "themes/nature-sandstorm/thumbnail.png"
+      }
+    },
+    {
+      "id": "nature-thunderstorm",
+      "name": "Nature - Thunderstorm",
+      "author": "Lisa",
+      "collection": "Nature",
+      "type": "light",
+      "description": "",
+      "paths": {
+        "theme": "themes/nature-thunderstorm/nature-thunderstorm.json",
+        "thumbnail": "themes/nature-thunderstorm/thumbnail.png"
+      }
+    },
+    {
+      "id": "nature-tropicalparadise",
+      "name": "Nature - Tropical Paradise",
+      "author": "Lisa",
+      "collection": "Nature",
+      "type": "light",
+      "description": "",
+      "paths": {
+        "theme": "themes/nature-tropicalparadise/nature-tropicalparadise.json",
+        "thumbnail": "themes/nature-tropicalparadise/thumbnail.png"
+      }
+    },
+    {
+      "id": "nature-waterfallcascade",
+      "name": "Nature - Waterfall Cascade",
+      "author": "Lisa",
+      "collection": "Nature",
+      "type": "light",
+      "description": "",
+      "paths": {
+        "theme": "themes/nature-waterfallcascade/nature-waterfallcascade.json",
+        "thumbnail": "themes/nature-waterfallcascade/thumbnail.png"
       }
     }
   ]

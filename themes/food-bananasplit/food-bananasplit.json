@@ -1,0 +1,28 @@
+{
+  "name": "Food - Banana Split",
+  "type": "light",
+  "collection": "Food",
+  "author": "Lisa",
+  "font": {
+    "family": "Baloo 2",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Baloo+2:wght@400;500;600;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#4A3025",
+    "ui-muted": "#9A7D71",
+    "accent-color": "#F58AA8",
+    "surface-active": "#FFD75E",
+    "surface": "#FFF4D6",
+    "inset-bg": "#FFFBF2",
+    "app-bg": "#FFFEFB",
+    "text-muted": "#9C8C84",
+    "text-subtle": "#85756E",
+    "era-label": "#2E1B14",
+    "selection-color": "#FF9DB6",
+    "link-color": "#B85A3C",
+    "light-bg": "#FFF8E8",
+    "border-color": "#E8D9BE",
+    "secondary-text": "#85756E",
+    "highlight-color": "#FFE680"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Food - Lollipop Land",
+  "type": "light",
+  "collection": "Food",
+  "author": "Lisa",
+  "font": {
+    "family": "Chewy",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Chewy&display=swap"
+  },
+  "colors": {
+    "text-primary": "#4A2D57",
+    "ui-muted": "#8E7AA0",
+    "accent-color": "#FF6FAF",
+    "surface-active": "#6ED8FF",
+    "surface": "#FFF2F8",
+    "inset-bg": "#FFF9FC",
+    "app-bg": "#FFFFFF",
+    "text-muted": "#9D8CB0",
+    "text-subtle": "#847494",
+    "era-label": "#2C1735",
+    "selection-color": "#FFA3C9",
+    "link-color": "#7A6BFF",
+    "light-bg": "#FFF7FB",
+    "border-color": "#E7D6F5",
+    "secondary-text": "#847494",
+    "highlight-color": "#FFE45C"
+  }
+}
