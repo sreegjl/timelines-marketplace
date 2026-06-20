@@ -1,0 +1,28 @@
+{
+  "name": "Nature - Starlight",
+  "type": "dark",
+  "collection": "Nature",
+  "author": "Lisa",
+  "font": {
+    "family": "Space Grotesk",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#F1F5FF",
+    "ui-muted": "#7C86A3",
+    "accent-color": "#4DA3FF",
+    "surface-active": "#1C2238",
+    "surface": "#14182B",
+    "inset-bg": "#0F1324",
+    "app-bg": "#070A14",
+    "text-muted": "#A3ACC7",
+    "text-subtle": "#6F7896",
+    "era-label": "#FFFFFF",
+    "selection-color": "#2F7BFF",
+    "link-color": "#7DB3FF",
+    "light-bg": "#1A1F34",
+    "border-color": "#262B45",
+    "secondary-text": "#6F7896",
+    "highlight-color": "#9ECBFF"
+  }
+}

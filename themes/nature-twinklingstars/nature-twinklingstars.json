@@ -1,0 +1,28 @@
+{
+  "name": "Nature - Twinkling Stars",
+  "type": "dark",
+  "collection": "Nature",
+  "author": "Lisa",
+  "font": {
+    "family": "Exo 2",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Exo+2:wght@300..700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#F8FAFF",
+    "ui-muted": "#8893B5",
+    "accent-color": "#6EC1FF",
+    "surface-active": "#1A2140",
+    "surface": "#12162B",
+    "inset-bg": "#0C1022",
+    "app-bg": "#05070F",
+    "text-muted": "#AAB4D6",
+    "text-subtle": "#737DA3",
+    "era-label": "#FFFFFF",
+    "selection-color": "#3F8CFF",
+    "link-color": "#9ED0FF",
+    "light-bg": "#181D36",
+    "border-color": "#242A4D",
+    "secondary-text": "#737DA3",
+    "highlight-color": "#E6F1FF"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Nature - Desert Sunset Glow",
+  "type": "light",
+  "collection": "Nature",
+  "author": "Lisa",
+  "font": {
+    "family": "Playfair Display",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#3C2720",
+    "ui-muted": "#A17865",
+    "accent-color": "#E98A4D",
+    "surface-active": "#E98A4D",
+    "surface": "#F5D2A7",
+    "inset-bg": "#FCE7CC",
+    "app-bg": "#FFF3E3",
+    "text-muted": "#9B8579",
+    "text-subtle": "#826F65",
+    "era-label": "#1E1410",
+    "selection-color": "#FF9E6D",
+    "link-color": "#C9571E",
+    "light-bg": "#FAE2C8",
+    "border-color": "#E2B894",
+    "secondary-text": "#826F65",
+    "highlight-color": "#FFD166"
+  }
+}

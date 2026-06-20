@@ -55,7 +55,7 @@ async function main() {
 
   for (const entry of index.themes) delete entry.new;
 
-  const browser = await chromium.launch();
+  const browser = await chromium.launch({ channel: "chrome" });
   const page = await browser.newPage();
 
   for (const file of files) {

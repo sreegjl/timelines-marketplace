@@ -1,0 +1,28 @@
+{
+  "name": "Nature - Jurassic Earth",
+  "type": "dark",
+  "collection": "Nature",
+  "author": "Lisa",
+  "font": {
+    "family": "Cinzel",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Cinzel:wght@400..700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#E8F0E8",
+    "ui-muted": "#7F8F7A",
+    "accent-color": "#6FAF5F",
+    "surface-active": "#2F3D2F",
+    "surface": "#1F2A1F",
+    "inset-bg": "#172017",
+    "app-bg": "#0F160F",
+    "text-muted": "#9EAD9A",
+    "text-subtle": "#6F7F6C",
+    "era-label": "#F5F7F5",
+    "selection-color": "#4FAF4F",
+    "link-color": "#8FD47A",
+    "light-bg": "#263326",
+    "border-color": "#344534",
+    "secondary-text": "#6F7F6C",
+    "highlight-color": "#C2E07A"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Nature - Iceland Winter",
+  "type": "dark",
+  "collection": "Nature",
+  "author": "Lisa",
+  "font": {
+    "family": "Outfit",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap"
+  },
+  "colors": {
+    "text-primary": "#F2FAFF",
+    "ui-muted": "#8FA9BB",
+    "accent-color": "#7FD6FF",
+    "surface-active": "#2C5F7A",
+    "surface": "#162634",
+    "inset-bg": "#0F1B27",
+    "app-bg": "#08131C",
+    "text-muted": "#A7C0D1",
+    "text-subtle": "#7890A0",
+    "era-label": "#FFFFFF",
+    "selection-color": "#8EDFFF",
+    "link-color": "#9AE8FF",
+    "light-bg": "#213849",
+    "border-color": "#2E4658",
+    "secondary-text": "#7890A0",
+    "highlight-color": "#D7F3FF"
+  }
+}

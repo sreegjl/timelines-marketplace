@@ -1,0 +1,28 @@
+{
+  "name": "Nature - Komodo Dragon",
+  "type": "dark",
+  "collection": "Nature",
+  "author": "Lisa",
+  "font": {
+    "family": "Alegreya Sans SC",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Alegreya+Sans+SC:wght@300;400;500;700;800&display=swap"
+  },
+  "colors": {
+    "text-primary": "#E6E1D5",
+    "ui-muted": "#9B9588",
+    "accent-color": "#7E8A56",
+    "surface-active": "#59603D",
+    "surface": "#2A2722",
+    "inset-bg": "#211E1A",
+    "app-bg": "#141210",
+    "text-muted": "#B2AA9B",
+    "text-subtle": "#837C70",
+    "era-label": "#F4F1E8",
+    "selection-color": "#A4B37A",
+    "link-color": "#A8BF68",
+    "light-bg": "#37332D",
+    "border-color": "#4B463F",
+    "secondary-text": "#837C70",
+    "highlight-color": "#C98F4A"
+  }
+}

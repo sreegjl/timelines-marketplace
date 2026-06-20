@@ -1,0 +1,28 @@
+{
+  "name": "Nature - Desert Dunes",
+  "type": "light",
+  "collection": "Nature",
+  "author": "Lisa",
+  "font": {
+    "family": "Marcellus",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Marcellus&display=swap"
+  },
+  "colors": {
+    "text-primary": "#3B2F24",
+    "ui-muted": "#9A8572",
+    "accent-color": "#E6C89C",
+    "surface-active": "#E6C89C",
+    "surface": "#F0DEC3",
+    "inset-bg": "#FAF1E3",
+    "app-bg": "#FFF8ED",
+    "text-muted": "#A09586",
+    "text-subtle": "#8A7F73",
+    "era-label": "#1A1410",
+    "selection-color": "#F2B880",
+    "link-color": "#C76B2A",
+    "light-bg": "#F5EBDD",
+    "border-color": "#DCCBB2",
+    "secondary-text": "#8A7F73",
+    "highlight-color": "#F4D06F"
+  }
+}

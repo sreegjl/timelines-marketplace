@@ -1,0 +1,28 @@
+{
+  "name": "Nature - Deep Space",
+  "type": "dark",
+  "collection": "Nature",
+  "author": "Lisa",
+  "font": {
+    "family": "Orbitron",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Orbitron:wght@400..700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#E6ECFF",
+    "ui-muted": "#7B86A6",
+    "accent-color": "#6C63FF",
+    "surface-active": "#2A2F4A",
+    "surface": "#1B1F36",
+    "inset-bg": "#14182B",
+    "app-bg": "#0B0E1A",
+    "text-muted": "#9AA3C0",
+    "text-subtle": "#6E7694",
+    "era-label": "#FFFFFF",
+    "selection-color": "#3A8DFF",
+    "link-color": "#8AB4FF",
+    "light-bg": "#22263D",
+    "border-color": "#2C3150",
+    "secondary-text": "#6E7694",
+    "highlight-color": "#A78BFA"
+  }
+}

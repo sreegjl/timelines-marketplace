@@ -1,0 +1,28 @@
+{
+  "name": "Nature - Aurora Borealis",
+  "type": "dark",
+  "collection": "Nature",
+  "author": "Lisa",
+  "font": {
+    "family": "Manrope",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap"
+  },
+  "colors": {
+    "text-primary": "#E8FFF9",
+    "ui-muted": "#7FAEA8",
+    "accent-color": "#59E6C5",
+    "surface-active": "#1E6F6A",
+    "surface": "#102A38",
+    "inset-bg": "#0B1F2D",
+    "app-bg": "#06131D",
+    "text-muted": "#9BC4BE",
+    "text-subtle": "#6E9691",
+    "era-label": "#F3FFFD",
+    "selection-color": "#4CC9F0",
+    "link-color": "#7CF7D4",
+    "light-bg": "#173646",
+    "border-color": "#234B57",
+    "secondary-text": "#6E9691",
+    "highlight-color": "#9BFF6A"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Nature - Ocean Dolphin",
+  "type": "dark",
+  "collection": "Nature",
+  "author": "Lisa",
+  "font": {
+    "family": "Quicksand",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#F0FBFF",
+    "ui-muted": "#8CB8C9",
+    "accent-color": "#4FC3F7",
+    "surface-active": "#1976A5",
+    "surface": "#12354A",
+    "inset-bg": "#0D2737",
+    "app-bg": "#071B28",
+    "text-muted": "#B0D5E3",
+    "text-subtle": "#7DA4B5",
+    "era-label": "#FFFFFF",
+    "selection-color": "#7DDFFF",
+    "link-color": "#6BE3FF",
+    "light-bg": "#1D4C67",
+    "border-color": "#2A617D",
+    "secondary-text": "#7DA4B5",
+    "highlight-color": "#8EF7FF"
+  }
+}

@@ -1307,6 +1307,180 @@
         "theme": "themes/nature-waterfallcascade/nature-waterfallcascade.json",
         "thumbnail": "themes/nature-waterfallcascade/thumbnail.png"
       }
+    },
+    {
+      "id": "misc-neonfuture",
+      "name": "Misc - Neon Future",
+      "author": "Lisa",
+      "collection": "Misc",
+      "type": "dark",
+      "description": "",
+      "paths": {
+        "theme": "themes/misc-neonfuture/misc-neonfuture.json",
+        "thumbnail": "themes/misc-neonfuture/thumbnail.png"
+      }
+    },
+    {
+      "id": "nature-deepspace",
+      "name": "Nature - Deep Space",
+      "author": "Lisa",
+      "collection": "Nature",
+      "type": "dark",
+      "description": "",
+      "paths": {
+        "theme": "themes/nature-deepspace/nature-deepspace.json",
+        "thumbnail": "themes/nature-deepspace/thumbnail.png"
+      }
+    },
+    {
+      "id": "nature-desertdunes",
+      "name": "Nature - Desert Dunes",
+      "author": "Lisa",
+      "collection": "Nature",
+      "type": "light",
+      "description": "",
+      "paths": {
+        "theme": "themes/nature-desertdunes/nature-desertdunes.json",
+        "thumbnail": "themes/nature-desertdunes/thumbnail.png"
+      }
+    },
+    {
+      "id": "nature-desertsunsetglow",
+      "name": "Nature - Desert Sunset Glow",
+      "author": "Lisa",
+      "collection": "Nature",
+      "type": "light",
+      "description": "",
+      "paths": {
+        "theme": "themes/nature-desertsunsetglow/nature-desertsunsetglow.json",
+        "thumbnail": "themes/nature-desertsunsetglow/thumbnail.png"
+      }
+    },
+    {
+      "id": "nature-jurassicearth",
+      "name": "Nature - Jurassic Earth",
+      "author": "Lisa",
+      "collection": "Nature",
+      "type": "dark",
+      "description": "",
+      "paths": {
+        "theme": "themes/nature-jurassicearth/nature-jurassicearth.json",
+        "thumbnail": "themes/nature-jurassicearth/thumbnail.png"
+      }
+    },
+    {
+      "id": "nature-starlight",
+      "name": "Nature - Starlight",
+      "author": "Lisa",
+      "collection": "Nature",
+      "type": "dark",
+      "description": "",
+      "paths": {
+        "theme": "themes/nature-starlight/nature-starlight.json",
+        "thumbnail": "themes/nature-starlight/thumbnail.png"
+      }
+    },
+    {
+      "id": "nature-twinklingstars",
+      "name": "Nature - Twinkling Stars",
+      "author": "Lisa",
+      "collection": "Nature",
+      "type": "dark",
+      "description": "",
+      "paths": {
+        "theme": "themes/nature-twinklingstars/nature-twinklingstars.json",
+        "thumbnail": "themes/nature-twinklingstars/thumbnail.png"
+      }
+    },
+    {
+      "id": "nature-volcanicjurassic",
+      "name": "Nature - Volcanic Jurassic",
+      "author": "Lisa",
+      "collection": "Nature",
+      "type": "dark",
+      "description": "",
+      "paths": {
+        "theme": "themes/nature-volcanicjurassic/nature-volcanicjurassic.json",
+        "thumbnail": "themes/nature-volcanicjurassic/thumbnail.png"
+      }
+    },
+    {
+      "id": "nature-auroraborealis",
+      "name": "Nature - Aurora Borealis",
+      "author": "Lisa",
+      "collection": "Nature",
+      "type": "dark",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/nature-auroraborealis/nature-auroraborealis.json",
+        "thumbnail": "themes/nature-auroraborealis/thumbnail.png"
+      }
+    },
+    {
+      "id": "nature-elephantguardian",
+      "name": "Nature - Elephant Guardian",
+      "author": "Lisa",
+      "collection": "Nature",
+      "type": "dark",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/nature-elephantguardian/nature-elephantguardian.json",
+        "thumbnail": "themes/nature-elephantguardian/thumbnail.png"
+      }
+    },
+    {
+      "id": "nature-icelandwinter",
+      "name": "Nature - Iceland Winter",
+      "author": "Lisa",
+      "collection": "Nature",
+      "type": "dark",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/nature-icelandwinter/nature-icelandwinter.json",
+        "thumbnail": "themes/nature-icelandwinter/thumbnail.png"
+      }
+    },
+    {
+      "id": "nature-komododragon",
+      "name": "Nature - Komodo Dragon",
+      "author": "Lisa",
+      "collection": "Nature",
+      "type": "dark",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/nature-komododragon/nature-komododragon.json",
+        "thumbnail": "themes/nature-komododragon/thumbnail.png"
+      }
+    },
+    {
+      "id": "nature-lionpride",
+      "name": "Nature - Lion Pride",
+      "author": "Lisa",
+      "collection": "Nature",
+      "type": "dark",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/nature-lionpride/nature-lionpride.json",
+        "thumbnail": "themes/nature-lionpride/thumbnail.png"
+      }
+    },
+    {
+      "id": "nature-oceandolphin",
+      "name": "Nature - Ocean Dolphin",
+      "author": "Lisa",
+      "collection": "Nature",
+      "type": "dark",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/nature-oceandolphin/nature-oceandolphin.json",
+        "thumbnail": "themes/nature-oceandolphin/thumbnail.png"
+      }
     }
   ]
 }

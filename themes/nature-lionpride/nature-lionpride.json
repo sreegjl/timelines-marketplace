@@ -1,0 +1,28 @@
+{
+  "name": "Nature - Lion Pride",
+  "type": "dark",
+  "collection": "Nature",
+  "author": "Lisa",
+  "font": {
+    "family": "Cinzel",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&display=swap"
+  },
+  "colors": {
+    "text-primary": "#F8E8C8",
+    "ui-muted": "#B89A6A",
+    "accent-color": "#D4A64A",
+    "surface-active": "#7A5525",
+    "surface": "#2B1D12",
+    "inset-bg": "#1E140C",
+    "app-bg": "#120C07",
+    "text-muted": "#C3AB84",
+    "text-subtle": "#9D835F",
+    "era-label": "#FFF6E6",
+    "selection-color": "#E7B95B",
+    "link-color": "#F0B84A",
+    "light-bg": "#3A291A",
+    "border-color": "#5A4129",
+    "secondary-text": "#9D835F",
+    "highlight-color": "#FFD166"
+  }
+}

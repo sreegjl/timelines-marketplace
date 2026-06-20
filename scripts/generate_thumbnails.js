@@ -16,7 +16,7 @@ async function main() {
     .filter(name => !filterThemes || filterThemes.includes(name))
     .sort();
 
-  const browser = await chromium.launch();
+  const browser = await chromium.launch({ channel: "chrome" });
   const page = await browser.newPage();
 
   for (const id of themeDirs) {

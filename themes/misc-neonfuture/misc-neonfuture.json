@@ -1,0 +1,28 @@
+{
+  "name": "Misc - Neon Future",
+  "type": "dark",
+  "collection": "Misc",
+  "author": "Lisa",
+  "font": {
+    "family": "Rajdhani",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Rajdhani:wght@300..700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#EAF2FF",
+    "ui-muted": "#7C8DB5",
+    "accent-color": "#00E5FF",
+    "surface-active": "#1A2238",
+    "surface": "#12182B",
+    "inset-bg": "#0C1120",
+    "app-bg": "#06090F",
+    "text-muted": "#A5B4D6",
+    "text-subtle": "#6F7FA6",
+    "era-label": "#FFFFFF",
+    "selection-color": "#00BFFF",
+    "link-color": "#4DA3FF",
+    "light-bg": "#18203A",
+    "border-color": "#243055",
+    "secondary-text": "#6F7FA6",
+    "highlight-color": "#7DF9FF"
+  }
+}

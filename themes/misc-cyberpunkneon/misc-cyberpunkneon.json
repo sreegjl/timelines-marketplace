@@ -1,28 +1,28 @@
 {
   "name": "Misc - Cyberpunk Neon",
+  "type": "dark",
+  "collection": "Misc",
+  "author": "Lisa",
   "font": {
-    "family": "Red Rose",
-    "cssUrl": "https://fonts.googleapis.com/css2?family=Red+Rose:wght@300;400;700&display=swap"
+    "family": "Audiowide",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Audiowide&display=swap"
   },
   "colors": {
-    "text-primary": "#0B0F1A",
-    "ui-muted": "#1A1F33",
-    "accent-color": "#00F5FF",
-    "surface": "#F6F7FF",
-    "inset-bg": "#FBFCFF",
-    "app-bg": "#FFFFFF",
-    "text-muted": "#7A8196",
-    "text-subtle": "#5F667A",
-    "era-label": "#161A2B",
-    "selection-color": "#FF3DFF",
-    "link-color": "#00F5FF",
-    "light-bg": "#EEF1FF",
-    "border-color": "#2B2F4A",
-    "secondary-text": "#8A90A6",
-    "highlight-color": "#FFEA00",
-    "surface-active": "#00F5FF"
-  },
-  "type": "light",
-  "collection": "Misc",
-  "author": "Lisa"
+    "text-primary": "#F5F7FF",
+    "ui-muted": "#8A8FB2",
+    "accent-color": "#FF2ED1",
+    "surface-active": "#241A3A",
+    "surface": "#18122B",
+    "inset-bg": "#120D22",
+    "app-bg": "#070510",
+    "text-muted": "#A9A3C9",
+    "text-subtle": "#746F99",
+    "era-label": "#FFFFFF",
+    "selection-color": "#00E5FF",
+    "link-color": "#00F0FF",
+    "light-bg": "#20183A",
+    "border-color": "#2D2555",
+    "secondary-text": "#746F99",
+    "highlight-color": "#FF66E0"
+  }
 }

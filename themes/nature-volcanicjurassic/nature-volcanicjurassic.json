@@ -1,0 +1,28 @@
+{
+  "name": "Nature - Volcanic Jurassic",
+  "type": "dark",
+  "collection": "Nature",
+  "author": "Lisa",
+  "font": {
+    "family": "Alegreya SC",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Alegreya+SC:wght@400..700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#F4EDE6",
+    "ui-muted": "#A08A7A",
+    "accent-color": "#E25822",
+    "surface-active": "#3A1F1A",
+    "surface": "#261513",
+    "inset-bg": "#1A0F0D",
+    "app-bg": "#0E0706",
+    "text-muted": "#B5A39A",
+    "text-subtle": "#8C7A72",
+    "era-label": "#FFF8F5",
+    "selection-color": "#FF6A2A",
+    "link-color": "#FF8C42",
+    "light-bg": "#2E1A17",
+    "border-color": "#4A2A24",
+    "secondary-text": "#8C7A72",
+    "highlight-color": "#FFC16A"
+  }
+}

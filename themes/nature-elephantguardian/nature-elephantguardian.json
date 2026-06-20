@@ -1,0 +1,28 @@
+{
+  "name": "Nature - Elephant Guardian",
+  "type": "dark",
+  "collection": "Nature",
+  "author": "Lisa",
+  "font": {
+    "family": "Merriweather Sans",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Merriweather+Sans:wght@300..800&display=swap"
+  },
+  "colors": {
+    "text-primary": "#E8ECEF",
+    "ui-muted": "#9AA3AA",
+    "accent-color": "#8FA8B5",
+    "surface-active": "#55656F",
+    "surface": "#2B3238",
+    "inset-bg": "#23292E",
+    "app-bg": "#181D21",
+    "text-muted": "#B0B8BE",
+    "text-subtle": "#858E95",
+    "era-label": "#F7F9FA",
+    "selection-color": "#A7C8D8",
+    "link-color": "#9BC4D6",
+    "light-bg": "#394248",
+    "border-color": "#4A545B",
+    "secondary-text": "#858E95",
+    "highlight-color": "#D8C6A0"
+  }
+}
