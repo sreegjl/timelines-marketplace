@@ -1,0 +1,28 @@
+{
+  "name": "Nature - Jaguar Rainforest",
+  "type": "light",
+  "collection": "Nature",
+  "author": "Lisa",
+  "font": {
+    "family": "Manrope",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap"
+  },
+  "colors": {
+    "text-primary": "#3D2A14",
+    "ui-muted": "#6D5B3E",
+    "accent-color": "#D9A441",
+    "surface-active": "#E8B85B",
+    "surface": "#F7F0E1",
+    "inset-bg": "#FCF8EF",
+    "app-bg": "#FFFDF9",
+    "text-muted": "#786D5E",
+    "text-subtle": "#918577",
+    "era-label": "#23170A",
+    "selection-color": "#B7DFFF",
+    "link-color": "#8C5E1A",
+    "light-bg": "#FBF7F0",
+    "border-color": "#E4D8C4",
+    "secondary-text": "#7C7267",
+    "highlight-color": "#FFD87A"
+  }
+}

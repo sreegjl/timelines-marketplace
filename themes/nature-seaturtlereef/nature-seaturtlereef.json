@@ -1,0 +1,28 @@
+{
+  "name": "Nature - Sea Turtle Reef",
+  "type": "light",
+  "collection": "Nature",
+  "author": "Lisa",
+  "font": {
+    "family": "Nunito",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Nunito:wght@300..900&display=swap"
+  },
+  "colors": {
+    "text-primary": "#1B4D5C",
+    "ui-muted": "#4D7B72",
+    "accent-color": "#68B984",
+    "surface-active": "#84D3A2",
+    "surface": "#ECFBF8",
+    "inset-bg": "#F7FEFC",
+    "app-bg": "#FCFFFF",
+    "text-muted": "#687E82",
+    "text-subtle": "#82979A",
+    "era-label": "#10343F",
+    "selection-color": "#A9DFFF",
+    "link-color": "#0096C7",
+    "light-bg": "#F4FCFA",
+    "border-color": "#D0EAE4",
+    "secondary-text": "#70858A",
+    "highlight-color": "#FFE082"
+  }
+}

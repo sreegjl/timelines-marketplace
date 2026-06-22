@@ -1,0 +1,28 @@
+{
+  "name": "Nature - Macaw Paradise",
+  "type": "light",
+  "collection": "Nature",
+  "author": "Lisa",
+  "font": {
+    "family": "Nunito",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Nunito:wght@300..900&display=swap"
+  },
+  "colors": {
+    "text-primary": "#1E3A5F",
+    "ui-muted": "#5F7A6A",
+    "accent-color": "#F4C542",
+    "surface-active": "#FFD65A",
+    "surface": "#EAF6FF",
+    "inset-bg": "#F7FCFF",
+    "app-bg": "#FFFDF6",
+    "text-muted": "#6B7280",
+    "text-subtle": "#7A7A7A",
+    "era-label": "#12304A",
+    "selection-color": "#7CC8FF",
+    "link-color": "#009966",
+    "light-bg": "#F3F9FC",
+    "border-color": "#C9E0E8",
+    "secondary-text": "#667085",
+    "highlight-color": "#FFE66D"
+  }
+}

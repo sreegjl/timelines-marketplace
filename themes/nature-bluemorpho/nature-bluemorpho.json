@@ -1,0 +1,28 @@
+{
+  "name": "Nature - Blue Morpho",
+  "type": "light",
+  "collection": "Nature",
+  "author": "Lisa",
+  "font": {
+    "family": "Space Grotesk",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#174C75",
+    "ui-muted": "#5A7F9A",
+    "accent-color": "#4DA9FF",
+    "surface-active": "#7AC0FF",
+    "surface": "#EFF7FF",
+    "inset-bg": "#F8FBFF",
+    "app-bg": "#FDFFFF",
+    "text-muted": "#687A88",
+    "text-subtle": "#8392A0",
+    "era-label": "#103653",
+    "selection-color": "#A6E2FF",
+    "link-color": "#0077CC",
+    "light-bg": "#F4F9FF",
+    "border-color": "#D7E6F3",
+    "secondary-text": "#6D7D8A",
+    "highlight-color": "#A9E6FF"
+  }
+}

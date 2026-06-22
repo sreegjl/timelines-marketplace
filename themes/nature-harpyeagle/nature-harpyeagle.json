@@ -1,0 +1,28 @@
+{
+  "name": "Nature - Harpy Eagle",
+  "type": "light",
+  "collection": "Nature",
+  "author": "Lisa",
+  "font": {
+    "family": "Fraunces",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,100..900&display=swap"
+  },
+  "colors": {
+    "text-primary": "#2B342E",
+    "ui-muted": "#6A726C",
+    "accent-color": "#D8B35A",
+    "surface-active": "#E5C675",
+    "surface": "#F2F5F1",
+    "inset-bg": "#FAFCF9",
+    "app-bg": "#FDFEFC",
+    "text-muted": "#737A74",
+    "text-subtle": "#8A908B",
+    "era-label": "#1A221D",
+    "selection-color": "#B9DFFF",
+    "link-color": "#7A5A24",
+    "light-bg": "#F6F8F5",
+    "border-color": "#DCE3DD",
+    "secondary-text": "#747B75",
+    "highlight-color": "#F5DA8B"
+  }
+}

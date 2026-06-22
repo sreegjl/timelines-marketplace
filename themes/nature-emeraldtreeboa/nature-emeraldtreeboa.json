@@ -1,0 +1,28 @@
+{
+  "name": "Nature - Emerald Tree Boa",
+  "type": "light",
+  "collection": "Nature",
+  "author": "Lisa",
+  "font": {
+    "family": "DM Sans",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=DM+Sans:wght@100..1000&display=swap"
+  },
+  "colors": {
+    "text-primary": "#184A34",
+    "ui-muted": "#4F7A64",
+    "accent-color": "#3AA76D",
+    "surface-active": "#59C98A",
+    "surface": "#EDF8F1",
+    "inset-bg": "#F7FCF9",
+    "app-bg": "#FCFFFD",
+    "text-muted": "#64756E",
+    "text-subtle": "#7E8E87",
+    "era-label": "#0D2D1F",
+    "selection-color": "#BFE7FF",
+    "link-color": "#208B5B",
+    "light-bg": "#F3FBF6",
+    "border-color": "#D3E8D9",
+    "secondary-text": "#6E7F77",
+    "highlight-color": "#CFFF8A"
+  }
+}

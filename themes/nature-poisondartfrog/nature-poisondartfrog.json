@@ -1,0 +1,28 @@
+{
+  "name": "Nature - Poison Dart Frog",
+  "type": "light",
+  "collection": "Nature",
+  "author": "Lisa",
+  "font": {
+    "family": "Outfit",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap"
+  },
+  "colors": {
+    "text-primary": "#083B4C",
+    "ui-muted": "#2E7D8C",
+    "accent-color": "#00D084",
+    "surface-active": "#3BE89E",
+    "surface": "#E8FAFF",
+    "inset-bg": "#F5FDFF",
+    "app-bg": "#FCFFFF",
+    "text-muted": "#5C6F77",
+    "text-subtle": "#758892",
+    "era-label": "#042D38",
+    "selection-color": "#82DFFF",
+    "link-color": "#0096C7",
+    "light-bg": "#F0FBFF",
+    "border-color": "#CFEAF2",
+    "secondary-text": "#64748B",
+    "highlight-color": "#A8FF60"
+  }
+}

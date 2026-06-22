@@ -1,0 +1,28 @@
+{
+  "name": "Nature - Toucan Canopy",
+  "type": "light",
+  "collection": "Nature",
+  "author": "Lisa",
+  "font": {
+    "family": "Baloo 2",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Baloo+2:wght@400..800&display=swap"
+  },
+  "colors": {
+    "text-primary": "#203A1F",
+    "ui-muted": "#68825E",
+    "accent-color": "#FFB347",
+    "surface-active": "#FFD166",
+    "surface": "#EEF8EA",
+    "inset-bg": "#F8FCF5",
+    "app-bg": "#FFFDF8",
+    "text-muted": "#72806E",
+    "text-subtle": "#8A9487",
+    "era-label": "#152A14",
+    "selection-color": "#9BD4FF",
+    "link-color": "#FF7F11",
+    "light-bg": "#F5FAF2",
+    "border-color": "#D4E4CE",
+    "secondary-text": "#768072",
+    "highlight-color": "#FFE082"
+  }
+}

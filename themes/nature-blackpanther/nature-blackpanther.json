@@ -1,0 +1,28 @@
+{
+  "name": "Nature - Black Panther",
+  "type": "dark",
+  "collection": "Nature",
+  "author": "Lisa",
+  "font": {
+    "family": "Cormorant Garamond",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;500;600;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#E6E7E4",
+    "ui-muted": "#9AA09B",
+    "accent-color": "#4A9C7F",
+    "surface-active": "#5CB090",
+    "surface": "#232826",
+    "inset-bg": "#1B1F1D",
+    "app-bg": "#121514",
+    "text-muted": "#A0A6A1",
+    "text-subtle": "#7F8680",
+    "era-label": "#FFFFFF",
+    "selection-color": "#3A6FA8",
+    "link-color": "#70D6B4",
+    "light-bg": "#1A1D1B",
+    "border-color": "#303632",
+    "secondary-text": "#8E958F",
+    "highlight-color": "#7ADDBA"
+  }
+}

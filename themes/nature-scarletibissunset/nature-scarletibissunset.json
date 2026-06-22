@@ -1,0 +1,28 @@
+{
+  "name": "Nature - Scarlet Ibis Sunset",
+  "type": "light",
+  "collection": "Nature",
+  "author": "Lisa",
+  "font": {
+    "family": "Red Hat Display",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Red+Hat+Display:wght@300..900&display=swap"
+  },
+  "colors": {
+    "text-primary": "#6D1B2E",
+    "ui-muted": "#A05A4D",
+    "accent-color": "#F05A5A",
+    "surface-active": "#FF7A6E",
+    "surface": "#FFF2EF",
+    "inset-bg": "#FFF9F7",
+    "app-bg": "#FFFDFC",
+    "text-muted": "#856E69",
+    "text-subtle": "#9A8580",
+    "era-label": "#4A1020",
+    "selection-color": "#C7E5FF",
+    "link-color": "#D94841",
+    "light-bg": "#FFF6F4",
+    "border-color": "#EED7D0",
+    "secondary-text": "#8B7A75",
+    "highlight-color": "#FFD166"
+  }
+}

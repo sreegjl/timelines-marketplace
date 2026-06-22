@@ -1,0 +1,28 @@
+{
+  "name": "Nature - Red-Eyed Tree Frog",
+  "type": "light",
+  "collection": "Nature",
+  "author": "Lisa",
+  "font": {
+    "family": "M PLUS Rounded 1c",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@300;400;500;700;800&display=swap"
+  },
+  "colors": {
+    "text-primary": "#1F442D",
+    "ui-muted": "#5F826A",
+    "accent-color": "#6BCB5B",
+    "surface-active": "#8CE87B",
+    "surface": "#F0FAF0",
+    "inset-bg": "#F8FFF8",
+    "app-bg": "#FCFFFC",
+    "text-muted": "#67756B",
+    "text-subtle": "#839086",
+    "era-label": "#12301D",
+    "selection-color": "#A7DFFF",
+    "link-color": "#D64045",
+    "light-bg": "#F5FBF5",
+    "border-color": "#D6E9D8",
+    "secondary-text": "#6C7A70",
+    "highlight-color": "#FFF07D"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "Nature - Scarlet Macaw",
+  "type": "light",
+  "collection": "Nature",
+  "author": "Lisa",
+  "font": {
+    "family": "Comfortaa",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#7A1F1F",
+    "ui-muted": "#8A6A4B",
+    "accent-color": "#F4B942",
+    "surface-active": "#FFD166",
+    "surface": "#FFF2EE",
+    "inset-bg": "#FFF8F5",
+    "app-bg": "#FFFDFB",
+    "text-muted": "#7A6E68",
+    "text-subtle": "#8A807A",
+    "era-label": "#5A1212",
+    "selection-color": "#9BD0FF",
+    "link-color": "#0077B6",
+    "light-bg": "#FFF6F2",
+    "border-color": "#E8D3C7",
+    "secondary-text": "#7A7A7A",
+    "highlight-color": "#FFE082"
+  }
+}

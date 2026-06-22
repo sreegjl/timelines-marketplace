@@ -1410,7 +1410,6 @@
       "author": "Lisa",
       "collection": "Nature",
       "type": "dark",
-      "new": true,
       "description": "",
       "paths": {
         "theme": "themes/nature-auroraborealis/nature-auroraborealis.json",
@@ -1423,7 +1422,6 @@
       "author": "Lisa",
       "collection": "Nature",
       "type": "dark",
-      "new": true,
       "description": "",
       "paths": {
         "theme": "themes/nature-elephantguardian/nature-elephantguardian.json",
@@ -1436,7 +1434,6 @@
       "author": "Lisa",
       "collection": "Nature",
       "type": "dark",
-      "new": true,
       "description": "",
       "paths": {
         "theme": "themes/nature-icelandwinter/nature-icelandwinter.json",
@@ -1449,7 +1446,6 @@
       "author": "Lisa",
       "collection": "Nature",
       "type": "dark",
-      "new": true,
       "description": "",
       "paths": {
         "theme": "themes/nature-komododragon/nature-komododragon.json",
@@ -1462,7 +1458,6 @@
       "author": "Lisa",
       "collection": "Nature",
       "type": "dark",
-      "new": true,
       "description": "",
       "paths": {
         "theme": "themes/nature-lionpride/nature-lionpride.json",
@@ -1475,11 +1470,218 @@
       "author": "Lisa",
       "collection": "Nature",
       "type": "dark",
-      "new": true,
       "description": "",
       "paths": {
         "theme": "themes/nature-oceandolphin/nature-oceandolphin.json",
         "thumbnail": "themes/nature-oceandolphin/thumbnail.png"
+      }
+    },
+    {
+      "id": "nature-blackpanther",
+      "name": "Nature - Black Panther",
+      "author": "Lisa",
+      "collection": "Nature",
+      "type": "dark",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/nature-blackpanther/nature-blackpanther.json",
+        "thumbnail": "themes/nature-blackpanther/thumbnail.png"
+      }
+    },
+    {
+      "id": "nature-blueandgoldmacaw",
+      "name": "Nature - Blue-and-Gold Macaw",
+      "author": "Lisa",
+      "collection": "Nature",
+      "type": "light",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/nature-blueandgoldmacaw/nature-blueandgoldmacaw.json",
+        "thumbnail": "themes/nature-blueandgoldmacaw/thumbnail.png"
+      }
+    },
+    {
+      "id": "nature-bluemorpho",
+      "name": "Nature - Blue Morpho",
+      "author": "Lisa",
+      "collection": "Nature",
+      "type": "light",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/nature-bluemorpho/nature-bluemorpho.json",
+        "thumbnail": "themes/nature-bluemorpho/thumbnail.png"
+      }
+    },
+    {
+      "id": "nature-capybarariverbank",
+      "name": "Nature - Capybara Riverbank",
+      "author": "Lisa",
+      "collection": "Nature",
+      "type": "light",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/nature-capybarariverbank/nature-capybarariverbank.json",
+        "thumbnail": "themes/nature-capybarariverbank/thumbnail.png"
+      }
+    },
+    {
+      "id": "nature-emeraldtreeboa",
+      "name": "Nature - Emerald Tree Boa",
+      "author": "Lisa",
+      "collection": "Nature",
+      "type": "light",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/nature-emeraldtreeboa/nature-emeraldtreeboa.json",
+        "thumbnail": "themes/nature-emeraldtreeboa/thumbnail.png"
+      }
+    },
+    {
+      "id": "nature-flamingolagoon",
+      "name": "Nature - Flamingo Lagoon",
+      "author": "Lisa",
+      "collection": "Nature",
+      "type": "light",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/nature-flamingolagoon/nature-flamingolagoon.json",
+        "thumbnail": "themes/nature-flamingolagoon/thumbnail.png"
+      }
+    },
+    {
+      "id": "nature-harpyeagle",
+      "name": "Nature - Harpy Eagle",
+      "author": "Lisa",
+      "collection": "Nature",
+      "type": "light",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/nature-harpyeagle/nature-harpyeagle.json",
+        "thumbnail": "themes/nature-harpyeagle/thumbnail.png"
+      }
+    },
+    {
+      "id": "nature-jaguarrainforest",
+      "name": "Nature - Jaguar Rainforest",
+      "author": "Lisa",
+      "collection": "Nature",
+      "type": "light",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/nature-jaguarrainforest/nature-jaguarrainforest.json",
+        "thumbnail": "themes/nature-jaguarrainforest/thumbnail.png"
+      }
+    },
+    {
+      "id": "nature-macawparadise",
+      "name": "Nature - Macaw Paradise",
+      "author": "Lisa",
+      "collection": "Nature",
+      "type": "light",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/nature-macawparadise/nature-macawparadise.json",
+        "thumbnail": "themes/nature-macawparadise/thumbnail.png"
+      }
+    },
+    {
+      "id": "nature-orangutancanopy",
+      "name": "Nature - Orangutan Canopy",
+      "author": "Lisa",
+      "collection": "Nature",
+      "type": "light",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/nature-orangutancanopy/nature-orangutancanopy.json",
+        "thumbnail": "themes/nature-orangutancanopy/thumbnail.png"
+      }
+    },
+    {
+      "id": "nature-poisondartfrog",
+      "name": "Nature - Poison Dart Frog",
+      "author": "Lisa",
+      "collection": "Nature",
+      "type": "light",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/nature-poisondartfrog/nature-poisondartfrog.json",
+        "thumbnail": "themes/nature-poisondartfrog/thumbnail.png"
+      }
+    },
+    {
+      "id": "nature-readeyedtreefrog",
+      "name": "Nature - Red-Eyed Tree Frog",
+      "author": "Lisa",
+      "collection": "Nature",
+      "type": "light",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/nature-readeyedtreefrog/nature-readeyedtreefrog.json",
+        "thumbnail": "themes/nature-readeyedtreefrog/thumbnail.png"
+      }
+    },
+    {
+      "id": "nature-scarletibissunset",
+      "name": "Nature - Scarlet Ibis Sunset",
+      "author": "Lisa",
+      "collection": "Nature",
+      "type": "light",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/nature-scarletibissunset/nature-scarletibissunset.json",
+        "thumbnail": "themes/nature-scarletibissunset/thumbnail.png"
+      }
+    },
+    {
+      "id": "nature-scarletmacaw",
+      "name": "Nature - Scarlet Macaw",
+      "author": "Lisa",
+      "collection": "Nature",
+      "type": "light",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/nature-scarletmacaw/nature-scarletmacaw.json",
+        "thumbnail": "themes/nature-scarletmacaw/thumbnail.png"
+      }
+    },
+    {
+      "id": "nature-seaturtlereef",
+      "name": "Nature - Sea Turtle Reef",
+      "author": "Lisa",
+      "collection": "Nature",
+      "type": "light",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/nature-seaturtlereef/nature-seaturtlereef.json",
+        "thumbnail": "themes/nature-seaturtlereef/thumbnail.png"
+      }
+    },
+    {
+      "id": "nature-toucancanopy",
+      "name": "Nature - Toucan Canopy",
+      "author": "Lisa",
+      "collection": "Nature",
+      "type": "light",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/nature-toucancanopy/nature-toucancanopy.json",
+        "thumbnail": "themes/nature-toucancanopy/thumbnail.png"
       }
     }
   ]

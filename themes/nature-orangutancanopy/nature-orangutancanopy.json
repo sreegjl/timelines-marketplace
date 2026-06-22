@@ -1,0 +1,28 @@
+{
+  "name": "Nature - Orangutan Canopy",
+  "type": "light",
+  "collection": "Nature",
+  "author": "Lisa",
+  "font": {
+    "family": "Bricolage Grotesque",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@10..48,200..800&display=swap"
+  },
+  "colors": {
+    "text-primary": "#5B3420",
+    "ui-muted": "#8A6B55",
+    "accent-color": "#D97742",
+    "surface-active": "#F08C4F",
+    "surface": "#FAF2EC",
+    "inset-bg": "#FDF9F6",
+    "app-bg": "#FFFDFC",
+    "text-muted": "#80756E",
+    "text-subtle": "#988C84",
+    "era-label": "#3A2114",
+    "selection-color": "#BBDFFF",
+    "link-color": "#B65A2A",
+    "light-bg": "#FCF6F2",
+    "border-color": "#E9DCD2",
+    "secondary-text": "#847A72",
+    "highlight-color": "#FFD18A"
+  }
+}

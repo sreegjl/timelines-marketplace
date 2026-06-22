@@ -1,0 +1,28 @@
+{
+  "name": "Nature - Blue-and-Gold Macaw",
+  "type": "light",
+  "collection": "Nature",
+  "author": "Lisa",
+  "font": {
+    "family": "Quicksand",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#0E4A7A",
+    "ui-muted": "#5D7B8A",
+    "accent-color": "#F2C94C",
+    "surface-active": "#FFD86A",
+    "surface": "#EAF5FF",
+    "inset-bg": "#F8FCFF",
+    "app-bg": "#FFFDF7",
+    "text-muted": "#6B7280",
+    "text-subtle": "#7C8591",
+    "era-label": "#08375D",
+    "selection-color": "#7FC8FF",
+    "link-color": "#0077B6",
+    "light-bg": "#F3F9FE",
+    "border-color": "#C9DDEB",
+    "secondary-text": "#667085",
+    "highlight-color": "#FFE680"
+  }
+}

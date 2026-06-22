@@ -1,0 +1,28 @@
+{
+  "name": "Nature - Capybara Riverbank",
+  "type": "light",
+  "collection": "Nature",
+  "author": "Lisa",
+  "font": {
+    "family": "Afacad",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Afacad:wght@400..700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#4A3B2F",
+    "ui-muted": "#7B6C5E",
+    "accent-color": "#B88A5A",
+    "surface-active": "#CFA172",
+    "surface": "#F8F3ED",
+    "inset-bg": "#FCFAF7",
+    "app-bg": "#FFFDFB",
+    "text-muted": "#7D756C",
+    "text-subtle": "#968C84",
+    "era-label": "#2D2119",
+    "selection-color": "#C4E4FF",
+    "link-color": "#8D6841",
+    "light-bg": "#FBF7F2",
+    "border-color": "#E7DDD2",
+    "secondary-text": "#82776D",
+    "highlight-color": "#F3D69C"
+  }
+}

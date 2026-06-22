@@ -1,0 +1,28 @@
+{
+  "name": "Nature - Flamingo Lagoon",
+  "type": "light",
+  "collection": "Nature",
+  "author": "Lisa",
+  "font": {
+    "family": "Poppins",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Poppins:wght@100..900&display=swap"
+  },
+  "colors": {
+    "text-primary": "#70414B",
+    "ui-muted": "#A36D77",
+    "accent-color": "#FF8FA3",
+    "surface-active": "#FFA7B8",
+    "surface": "#FFF3F5",
+    "inset-bg": "#FFF9FA",
+    "app-bg": "#FFFDFC",
+    "text-muted": "#88727A",
+    "text-subtle": "#A18E95",
+    "era-label": "#542B34",
+    "selection-color": "#B9E5FF",
+    "link-color": "#FF6B81",
+    "light-bg": "#FFF7F8",
+    "border-color": "#F0D7DC",
+    "secondary-text": "#8B7A80",
+    "highlight-color": "#FFD166"
+  }
+}
