@@ -1,0 +1,28 @@
+{
+  "name": "Nature - Discus Paradise",
+  "type": "light",
+  "collection": "Nature",
+  "author": "Lisa",
+  "font": {
+    "family": "Quicksand",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#14504A",
+    "ui-muted": "#66928D",
+    "accent-color": "#2EC4B6",
+    "surface-active": "#C8F1EC",
+    "surface": "#E7FAF7",
+    "inset-bg": "#F5FEFC",
+    "app-bg": "#FBFFFE",
+    "text-muted": "#6E9590",
+    "text-subtle": "#89ACA8",
+    "era-label": "#0B312E",
+    "selection-color": "#9AE6D8",
+    "link-color": "#1DAA9A",
+    "light-bg": "#EFFCF9",
+    "border-color": "#CBE9E4",
+    "secondary-text": "#89ACA8",
+    "highlight-color": "#A8F0E6"
+  }
+}

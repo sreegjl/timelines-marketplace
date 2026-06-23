@@ -1,0 +1,28 @@
+{
+  "name": "Nature - Clownfish Reef",
+  "type": "light",
+  "collection": "Nature",
+  "author": "Lisa",
+  "font": {
+    "family": "Baloo 2",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Baloo+2:wght@400..800&display=swap"
+  },
+  "colors": {
+    "text-primary": "#2A3A4A",
+    "ui-muted": "#7B8B99",
+    "accent-color": "#FF7A2F",
+    "surface-active": "#FFD4B8",
+    "surface": "#FFF1E7",
+    "inset-bg": "#FFF8F3",
+    "app-bg": "#FFFCFA",
+    "text-muted": "#76808A",
+    "text-subtle": "#9099A3",
+    "era-label": "#1A232D",
+    "selection-color": "#8FD3FF",
+    "link-color": "#F26A21",
+    "light-bg": "#FFF6F0",
+    "border-color": "#FFD7C2",
+    "secondary-text": "#9099A3",
+    "highlight-color": "#FFE58A"
+  }
+}

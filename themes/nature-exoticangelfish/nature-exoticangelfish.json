@@ -1,0 +1,28 @@
+{
+  "name": "Nature - Exotic Angelfish",
+  "type": "light",
+  "collection": "Nature",
+  "author": "Lisa",
+  "font": {
+    "family": "Manrope",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap"
+  },
+  "colors": {
+    "text-primary": "#1A365D",
+    "ui-muted": "#6780A0",
+    "accent-color": "#FFD166",
+    "surface-active": "#FFF1BF",
+    "surface": "#EEF6FF",
+    "inset-bg": "#F8FBFF",
+    "app-bg": "#FCFEFF",
+    "text-muted": "#7187A4",
+    "text-subtle": "#8EA1BC",
+    "era-label": "#0D1F36",
+    "selection-color": "#B8E1FF",
+    "link-color": "#F4B400",
+    "light-bg": "#F5FAFF",
+    "border-color": "#D7E5F2",
+    "secondary-text": "#8EA1BC",
+    "highlight-color": "#FFE27A"
+  }
+}

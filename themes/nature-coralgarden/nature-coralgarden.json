@@ -1,0 +1,28 @@
+{
+  "name": "Nature - Coral Garden",
+  "type": "light",
+  "collection": "Nature",
+  "author": "Lisa",
+  "font": {
+    "family": "Comfortaa",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Comfortaa:wght@300..700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#5A3B4D",
+    "ui-muted": "#9B7C89",
+    "accent-color": "#FF8FA3",
+    "surface-active": "#FFD7E0",
+    "surface": "#FFF0F4",
+    "inset-bg": "#FFF8FA",
+    "app-bg": "#FFFDFE",
+    "text-muted": "#9A7E8A",
+    "text-subtle": "#B196A2",
+    "era-label": "#3D2633",
+    "selection-color": "#FFC2D1",
+    "link-color": "#FF6F91",
+    "light-bg": "#FFF5F7",
+    "border-color": "#F4D3DC",
+    "secondary-text": "#B196A2",
+    "highlight-color": "#FFD166"
+  }
+}

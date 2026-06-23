@@ -1,0 +1,28 @@
+{
+  "name": "Nature - Tropical Reef",
+  "type": "light",
+  "collection": "Nature",
+  "author": "Lisa",
+  "font": {
+    "family": "Nunito",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Nunito:wght@300..900&display=swap"
+  },
+  "colors": {
+    "text-primary": "#0F4C5C",
+    "ui-muted": "#5F8F99",
+    "accent-color": "#FF9F68",
+    "surface-active": "#FFD0A8",
+    "surface": "#DDF7F5",
+    "inset-bg": "#F2FFFE",
+    "app-bg": "#F8FFFE",
+    "text-muted": "#6B8F97",
+    "text-subtle": "#7AA3AA",
+    "era-label": "#073B4C",
+    "selection-color": "#7DD3FC",
+    "link-color": "#FF7F50",
+    "light-bg": "#EAFDFC",
+    "border-color": "#B7E4E1",
+    "secondary-text": "#7AA3AA",
+    "highlight-color": "#FFE66D"
+  }
+}
