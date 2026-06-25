@@ -1674,7 +1674,6 @@
       "author": "Lisa",
       "collection": "Nature",
       "type": "light",
-      "new": true,
       "description": "",
       "paths": {
         "theme": "themes/nature-clownfishreef/nature-clownfishreef.json",
@@ -1687,7 +1686,6 @@
       "author": "Lisa",
       "collection": "Nature",
       "type": "light",
-      "new": true,
       "description": "",
       "paths": {
         "theme": "themes/nature-coralgarden/nature-coralgarden.json",
@@ -1700,7 +1698,6 @@
       "author": "Lisa",
       "collection": "Nature",
       "type": "light",
-      "new": true,
       "description": "",
       "paths": {
         "theme": "themes/nature-discusparadise/nature-discusparadise.json",
@@ -1713,7 +1710,6 @@
       "author": "Lisa",
       "collection": "Nature",
       "type": "light",
-      "new": true,
       "description": "",
       "paths": {
         "theme": "themes/nature-exoticangelfish/nature-exoticangelfish.json",
@@ -1726,7 +1722,6 @@
       "author": "Lisa",
       "collection": "Nature",
       "type": "light",
-      "new": true,
       "description": "",
       "paths": {
         "theme": "themes/nature-moorishidol/nature-moorishidol.json",
@@ -1739,7 +1734,6 @@
       "author": "Lisa",
       "collection": "Nature",
       "type": "light",
-      "new": true,
       "description": "",
       "paths": {
         "theme": "themes/nature-neontetralagoon/nature-neontetralagoon.json",
@@ -1752,11 +1746,140 @@
       "author": "Lisa",
       "collection": "Nature",
       "type": "light",
-      "new": true,
       "description": "",
       "paths": {
         "theme": "themes/nature-tropicalreef/nature-tropicalreef.json",
         "thumbnail": "themes/nature-tropicalreef/thumbnail.png"
+      }
+    },
+    {
+      "id": "sports-alpinesummit",
+      "name": "Sports - Alpine Summit",
+      "author": "Lisa",
+      "collection": "Sports",
+      "type": "light",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/sports-alpinesummit/sports-alpinesummit.json",
+        "thumbnail": "themes/sports-alpinesummit/thumbnail.png"
+      }
+    },
+    {
+      "id": "sports-aqualeague",
+      "name": "Sports - Aqua League",
+      "author": "Lisa",
+      "collection": "Sports",
+      "type": "light",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/sports-aqualeague/sports-aqualeague.json",
+        "thumbnail": "themes/sports-aqualeague/thumbnail.png"
+      }
+    },
+    {
+      "id": "sports-centerice",
+      "name": "Sports - Center Ice",
+      "author": "Lisa",
+      "collection": "Sports",
+      "type": "light",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/sports-centerice/sports-centerice.json",
+        "thumbnail": "themes/sports-centerice/thumbnail.png"
+      }
+    },
+    {
+      "id": "sports-championshipnight",
+      "name": "Sports - Championship Night",
+      "author": "Lisa",
+      "collection": "Sports",
+      "type": "dark",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/sports-championshipnight/sports-championshipnight.json",
+        "thumbnail": "themes/sports-championshipnight/thumbnail.png"
+      }
+    },
+    {
+      "id": "sports-courtvision",
+      "name": "Sports - Court Vision",
+      "author": "Lisa",
+      "collection": "Sports",
+      "type": "dark",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/sports-courtvision/sports-courtvision.json",
+        "thumbnail": "themes/sports-courtvision/thumbnail.png"
+      }
+    },
+    {
+      "id": "sports-grandslam",
+      "name": "Sports - Grand Slam",
+      "author": "Lisa",
+      "collection": "Sports",
+      "type": "light",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/sports-grandslam/sports-grandslam.json",
+        "thumbnail": "themes/sports-grandslam/thumbnail.png"
+      }
+    },
+    {
+      "id": "sports-racingline",
+      "name": "Sports - Racing Line",
+      "author": "Lisa",
+      "collection": "Sports",
+      "type": "dark",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/sports-racingline/sports-racingline.json",
+        "thumbnail": "themes/sports-racingline/thumbnail.png"
+      }
+    },
+    {
+      "id": "sports-ringwalk",
+      "name": "Sports - Ring Walk",
+      "author": "Lisa",
+      "collection": "Sports",
+      "type": "dark",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/sports-ringwalk/sports-ringwalk.json",
+        "thumbnail": "themes/sports-ringwalk/thumbnail.png"
+      }
+    },
+    {
+      "id": "sports-sundaylights",
+      "name": "Sports - Sunday Lights",
+      "author": "Lisa",
+      "collection": "Sports",
+      "type": "dark",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/sports-sundaylights/sports-sundaylights.json",
+        "thumbnail": "themes/sports-sundaylights/thumbnail.png"
+      }
+    },
+    {
+      "id": "sports-trackandfield",
+      "name": "Sports - Track & Field",
+      "author": "Lisa",
+      "collection": "Sports",
+      "type": "light",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/sports-trackandfield/sports-trackandfield.json",
+        "thumbnail": "themes/sports-trackandfield/thumbnail.png"
       }
     }
   ]

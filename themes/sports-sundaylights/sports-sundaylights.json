@@ -1,0 +1,28 @@
+{
+  "name": "Sports - Sunday Lights",
+  "type": "dark",
+  "collection": "Sports",
+  "author": "Lisa",
+  "font": {
+    "family": "Teko",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Teko:wght@300;400;500;600;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#F5F7FA",
+    "ui-muted": "#95A5A6",
+    "accent-color": "#7CFC00",
+    "surface-active": "#2E7D32",
+    "surface": "#15311E",
+    "inset-bg": "#102417",
+    "app-bg": "#09140D",
+    "text-muted": "#A8B5AA",
+    "text-subtle": "#7F8C80",
+    "era-label": "#FFFFFF",
+    "selection-color": "#A3E635",
+    "link-color": "#84CC16",
+    "light-bg": "#21442B",
+    "border-color": "#2F5638",
+    "secondary-text": "#7F8C80",
+    "highlight-color": "#BEF264"
+  }
+}

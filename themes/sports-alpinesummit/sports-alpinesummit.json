@@ -1,0 +1,28 @@
+{
+  "name": "Sports - Alpine Summit",
+  "type": "light",
+  "collection": "Sports",
+  "author": "Lisa",
+  "font": {
+    "family": "Montserrat",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Montserrat:wght@300..700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#243447",
+    "ui-muted": "#738496",
+    "accent-color": "#7DD3FC",
+    "surface-active": "#E0F2FE",
+    "surface": "#EDF5FB",
+    "inset-bg": "#FAFCFE",
+    "app-bg": "#FFFFFF",
+    "text-muted": "#7F8F9F",
+    "text-subtle": "#98A7B6",
+    "era-label": "#111827",
+    "selection-color": "#38BDF8",
+    "link-color": "#0284C7",
+    "light-bg": "#F5F9FC",
+    "border-color": "#D8E6F0",
+    "secondary-text": "#98A7B6",
+    "highlight-color": "#BAE6FD"
+  }
+}

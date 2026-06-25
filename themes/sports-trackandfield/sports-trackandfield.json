@@ -1,0 +1,28 @@
+{
+  "name": "Sports - Track & Field",
+  "type": "light",
+  "collection": "Sports",
+  "author": "Lisa",
+  "font": {
+    "family": "Rajdhani",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#1E2A44",
+    "ui-muted": "#6A7890",
+    "accent-color": "#F4B400",
+    "surface-active": "#D93025",
+    "surface": "#E9EEF6",
+    "inset-bg": "#F6F8FC",
+    "app-bg": "#FFFFFF",
+    "text-muted": "#7D889A",
+    "text-subtle": "#8A95A5",
+    "era-label": "#0A0A0A",
+    "selection-color": "#6AB7FF",
+    "link-color": "#D93025",
+    "light-bg": "#F2F5FA",
+    "border-color": "#D4DCE7",
+    "secondary-text": "#8A95A5",
+    "highlight-color": "#FFD54F"
+  }
+}

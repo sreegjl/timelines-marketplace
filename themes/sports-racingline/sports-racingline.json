@@ -1,0 +1,28 @@
+{
+  "name": "Sports - Racing Line",
+  "type": "dark",
+  "collection": "Sports",
+  "author": "Lisa",
+  "font": {
+    "family": "Orbitron",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;600;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#F8FAFC",
+    "ui-muted": "#A1A1AA",
+    "accent-color": "#EF4444",
+    "surface-active": "#DC2626",
+    "surface": "#1A1A1A",
+    "inset-bg": "#111111",
+    "app-bg": "#080808",
+    "text-muted": "#B3B3B8",
+    "text-subtle": "#8A8A8F",
+    "era-label": "#FFFFFF",
+    "selection-color": "#F87171",
+    "link-color": "#FB7185",
+    "light-bg": "#232323",
+    "border-color": "#383838",
+    "secondary-text": "#8A8A8F",
+    "highlight-color": "#FCA5A5"
+  }
+}

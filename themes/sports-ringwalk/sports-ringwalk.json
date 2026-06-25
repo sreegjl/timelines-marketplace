@@ -1,0 +1,28 @@
+{
+  "name": "Sports - Ring Walk",
+  "type": "dark",
+  "collection": "Sports",
+  "author": "Lisa",
+  "font": {
+    "family": "Bebas Neue",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap"
+  },
+  "colors": {
+    "text-primary": "#FAFAFA",
+    "ui-muted": "#A3A3A3",
+    "accent-color": "#FBBF24",
+    "surface-active": "#D97706",
+    "surface": "#2B0F0F",
+    "inset-bg": "#1B0808",
+    "app-bg": "#0F0303",
+    "text-muted": "#B5A8A8",
+    "text-subtle": "#927878",
+    "era-label": "#FFFFFF",
+    "selection-color": "#F59E0B",
+    "link-color": "#FBBF24",
+    "light-bg": "#3A1616",
+    "border-color": "#572424",
+    "secondary-text": "#927878",
+    "highlight-color": "#FCD34D"
+  }
+}

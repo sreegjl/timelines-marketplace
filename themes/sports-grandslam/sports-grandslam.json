@@ -1,0 +1,28 @@
+{
+  "name": "Sports - Grand Slam",
+  "type": "light",
+  "collection": "Sports",
+  "author": "Lisa",
+  "font": {
+    "family": "Barlow",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Barlow:wght@300;400;500;600;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#20321A",
+    "ui-muted": "#6D7E62",
+    "accent-color": "#D9F99D",
+    "surface-active": "#84CC16",
+    "surface": "#EAF4D7",
+    "inset-bg": "#F7FBEF",
+    "app-bg": "#FCFFF8",
+    "text-muted": "#7A8A72",
+    "text-subtle": "#92A188",
+    "era-label": "#101010",
+    "selection-color": "#FDE047",
+    "link-color": "#65A30D",
+    "light-bg": "#F3F8E8",
+    "border-color": "#D6E3C0",
+    "secondary-text": "#92A188",
+    "highlight-color": "#FDE047"
+  }
+}

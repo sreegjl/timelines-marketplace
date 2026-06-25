@@ -1,0 +1,28 @@
+{
+  "name": "Sports - Aqua League",
+  "type": "light",
+  "collection": "Sports",
+  "author": "Lisa",
+  "font": {
+    "family": "Outfit",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Outfit:wght@300..700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#10344D",
+    "ui-muted": "#64829A",
+    "accent-color": "#06B6D4",
+    "surface-active": "#67E8F9",
+    "surface": "#E0F7FA",
+    "inset-bg": "#F3FDFF",
+    "app-bg": "#FFFFFF",
+    "text-muted": "#718DA3",
+    "text-subtle": "#8EA5B8",
+    "era-label": "#0F172A",
+    "selection-color": "#22D3EE",
+    "link-color": "#0891B2",
+    "light-bg": "#EEFDFE",
+    "border-color": "#C8EAF0",
+    "secondary-text": "#8EA5B8",
+    "highlight-color": "#A5F3FC"
+  }
+}

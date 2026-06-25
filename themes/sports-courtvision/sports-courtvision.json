@@ -1,0 +1,28 @@
+{
+  "name": "Sports - Court Vision",
+  "type": "dark",
+  "collection": "Sports",
+  "author": "Lisa",
+  "font": {
+    "family": "Oswald",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Oswald:wght@300;400;500;600;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#F8F5F1",
+    "ui-muted": "#B49A83",
+    "accent-color": "#F97316",
+    "surface-active": "#C65A11",
+    "surface": "#3A2317",
+    "inset-bg": "#2A1910",
+    "app-bg": "#1C120C",
+    "text-muted": "#C8B9AB",
+    "text-subtle": "#9F8E80",
+    "era-label": "#FFFFFF",
+    "selection-color": "#FDBA74",
+    "link-color": "#FB923C",
+    "light-bg": "#4A2D1E",
+    "border-color": "#654431",
+    "secondary-text": "#9F8E80",
+    "highlight-color": "#FDBA74"
+  }
+}

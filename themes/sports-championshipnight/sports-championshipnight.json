@@ -1,0 +1,28 @@
+{
+  "name": "Sports - Championship Night",
+  "type": "dark",
+  "collection": "Sports",
+  "author": "Lisa",
+  "font": {
+    "family": "Barlow Condensed",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@300;400;500;600;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#F5F7FA",
+    "ui-muted": "#9AA7B5",
+    "accent-color": "#FFD447",
+    "surface-active": "#1E4E8C",
+    "surface": "#132033",
+    "inset-bg": "#0E1724",
+    "app-bg": "#09111B",
+    "text-muted": "#A6B2BE",
+    "text-subtle": "#7F8B97",
+    "era-label": "#FFFFFF",
+    "selection-color": "#4DB5FF",
+    "link-color": "#5CC8FF",
+    "light-bg": "#1B2738",
+    "border-color": "#2A3A4D",
+    "secondary-text": "#7F8B97",
+    "highlight-color": "#FFD447"
+  }
+}
