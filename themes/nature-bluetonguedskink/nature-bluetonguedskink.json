@@ -1,0 +1,28 @@
+{
+  "name": "Nature - Blue-Tongued Skink",
+  "type": "light",
+  "collection": "Nature",
+  "author": "Lisa",
+  "font": {
+    "family": "Nunito",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Nunito:wght@200..1000&display=swap"
+  },
+  "colors": {
+    "text-primary": "#2F332F",
+    "ui-muted": "#7D837F",
+    "accent-color": "#9FB5BF",
+    "surface-active": "#B7CBD3",
+    "surface": "#DDE5E4",
+    "inset-bg": "#F1F5F4",
+    "app-bg": "#FAFCFB",
+    "text-muted": "#7D8484",
+    "text-subtle": "#656D6D",
+    "era-label": "#1C2020",
+    "selection-color": "#81C8F8",
+    "link-color": "#4F7FA3",
+    "light-bg": "#E8EEED",
+    "border-color": "#C8D1CF",
+    "secondary-text": "#656D6D",
+    "highlight-color": "#DAB54F"
+  }
+}

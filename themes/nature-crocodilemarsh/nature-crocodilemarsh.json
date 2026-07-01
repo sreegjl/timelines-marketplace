@@ -1,0 +1,28 @@
+{
+  "name": "Nature - Crocodile Marsh",
+  "type": "dark",
+  "collection": "Nature",
+  "author": "Lisa",
+  "font": {
+    "family": "Alegreya",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Alegreya:wght@400;500;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#E4E2D8",
+    "ui-muted": "#9CA28F",
+    "accent-color": "#72845A",
+    "surface-active": "#5D6B49",
+    "surface": "#2A2F27",
+    "inset-bg": "#21261F",
+    "app-bg": "#181B17",
+    "text-muted": "#91978D",
+    "text-subtle": "#7D837A",
+    "era-label": "#F5F4EE",
+    "selection-color": "#72B8E8",
+    "link-color": "#9CB55D",
+    "light-bg": "#31372D",
+    "border-color": "#465043",
+    "secondary-text": "#7D837A",
+    "highlight-color": "#C6A948"
+  }
+}

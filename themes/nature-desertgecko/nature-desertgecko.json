@@ -1,0 +1,28 @@
+{
+  "name": "Nature - Desert Gecko",
+  "type": "light",
+  "collection": "Nature",
+  "author": "Lisa",
+  "font": {
+    "family": "Manrope",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap"
+  },
+  "colors": {
+    "text-primary": "#47372B",
+    "ui-muted": "#98806A",
+    "accent-color": "#D9B77C",
+    "surface-active": "#E3C890",
+    "surface": "#F0DFC0",
+    "inset-bg": "#FAF1E2",
+    "app-bg": "#FFF8ED",
+    "text-muted": "#8C7B6D",
+    "text-subtle": "#75685D",
+    "era-label": "#1B1715",
+    "selection-color": "#9ED2FF",
+    "link-color": "#C97532",
+    "light-bg": "#F8EAD2",
+    "border-color": "#D9C2A1",
+    "secondary-text": "#75685D",
+    "highlight-color": "#F2C94C"
+  }
+}

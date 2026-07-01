@@ -1,0 +1,28 @@
+{
+  "name": "Sports - Tennis",
+  "type": "light",
+  "collection": "Sports",
+  "author": "Lisa",
+  "font": {
+    "family": "Barlow Condensed",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@300;400;500;600;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#1E3224",
+    "ui-muted": "#687A68",
+    "accent-color": "#B9D84A",
+    "surface-active": "#D2EA71",
+    "surface": "#E8F2DF",
+    "inset-bg": "#F6FAF2",
+    "app-bg": "#FCFEFB",
+    "text-muted": "#728273",
+    "text-subtle": "#5E6C5F",
+    "era-label": "#121A13",
+    "selection-color": "#8FC9FF",
+    "link-color": "#2F8F4A",
+    "light-bg": "#EEF6E8",
+    "border-color": "#C7D8C3",
+    "secondary-text": "#5E6C5F",
+    "highlight-color": "#E8F44A"
+  }
+}

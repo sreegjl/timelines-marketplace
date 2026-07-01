@@ -1866,11 +1866,127 @@
       "author": "Lisa",
       "collection": "Jamaica",
       "type": "light",
-      "new": true,
       "description": "",
       "paths": {
         "theme": "themes/jamaica-reggaevibes/jamaica-reggaevibes.json",
         "thumbnail": "themes/jamaica-reggaevibes/thumbnail.png"
+      }
+    },
+    {
+      "id": "nature-bluetonguedskink",
+      "name": "Nature - Blue-Tongued Skink",
+      "author": "Lisa",
+      "collection": "Nature",
+      "type": "light",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/nature-bluetonguedskink/nature-bluetonguedskink.json",
+        "thumbnail": "themes/nature-bluetonguedskink/thumbnail.png"
+      }
+    },
+    {
+      "id": "nature-crocodilemarsh",
+      "name": "Nature - Crocodile Marsh",
+      "author": "Lisa",
+      "collection": "Nature",
+      "type": "dark",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/nature-crocodilemarsh/nature-crocodilemarsh.json",
+        "thumbnail": "themes/nature-crocodilemarsh/thumbnail.png"
+      }
+    },
+    {
+      "id": "nature-desertgecko",
+      "name": "Nature - Desert Gecko",
+      "author": "Lisa",
+      "collection": "Nature",
+      "type": "light",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/nature-desertgecko/nature-desertgecko.json",
+        "thumbnail": "themes/nature-desertgecko/thumbnail.png"
+      }
+    },
+    {
+      "id": "nature-emeraldiguana",
+      "name": "Nature - Emerald Iguana",
+      "author": "Lisa",
+      "collection": "Nature",
+      "type": "light",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/nature-emeraldiguana/nature-emeraldiguana.json",
+        "thumbnail": "themes/nature-emeraldiguana/thumbnail.png"
+      }
+    },
+    {
+      "id": "nature-kingcobra",
+      "name": "Nature - King Cobra",
+      "author": "Lisa",
+      "collection": "Nature",
+      "type": "dark",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/nature-kingcobra/nature-kingcobra.json",
+        "thumbnail": "themes/nature-kingcobra/thumbnail.png"
+      }
+    },
+    {
+      "id": "nature-pantherchameleon",
+      "name": "Nature - Panther Chameleon",
+      "author": "Lisa",
+      "collection": "Nature",
+      "type": "light",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/nature-pantherchameleon/nature-pantherchameleon.json",
+        "thumbnail": "themes/nature-pantherchameleon/thumbnail.png"
+      }
+    },
+    {
+      "id": "sports-icehockey",
+      "name": "Sports - Ice Hockey",
+      "author": "Lisa",
+      "collection": "Sports",
+      "type": "light",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/sports-icehockey/sports-icehockey.json",
+        "thumbnail": "themes/sports-icehockey/thumbnail.png"
+      }
+    },
+    {
+      "id": "sports-tennis",
+      "name": "Sports - Tennis",
+      "author": "Lisa",
+      "collection": "Sports",
+      "type": "light",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/sports-tennis/sports-tennis.json",
+        "thumbnail": "themes/sports-tennis/thumbnail.png"
+      }
+    },
+    {
+      "id": "sports-worldcup",
+      "name": "Sports - World Cup",
+      "author": "Lisa",
+      "collection": "Sports",
+      "type": "light",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/sports-worldcup/sports-worldcup.json",
+        "thumbnail": "themes/sports-worldcup/thumbnail.png"
       }
     }
   ]

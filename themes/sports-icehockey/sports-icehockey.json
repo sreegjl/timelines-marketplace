@@ -1,0 +1,28 @@
+{
+  "name": "Sports - Ice Hockey",
+  "type": "light",
+  "collection": "Sports",
+  "author": "Lisa",
+  "font": {
+    "family": "Rajdhani",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Rajdhani:wght@300;400;500;600;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#1B2A35",
+    "ui-muted": "#738694",
+    "accent-color": "#79B8E8",
+    "surface-active": "#9ED2F7",
+    "surface": "#E4F2FA",
+    "inset-bg": "#F6FBFE",
+    "app-bg": "#FCFEFF",
+    "text-muted": "#788995",
+    "text-subtle": "#60717D",
+    "era-label": "#10181E",
+    "selection-color": "#67B7FF",
+    "link-color": "#2E7ECF",
+    "light-bg": "#EEF7FC",
+    "border-color": "#C8DCE8",
+    "secondary-text": "#60717D",
+    "highlight-color": "#E74C3C"
+  }
+}

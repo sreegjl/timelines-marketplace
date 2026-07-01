@@ -1,0 +1,28 @@
+{
+  "name": "Nature - King Cobra",
+  "type": "dark",
+  "collection": "Nature",
+  "author": "Lisa",
+  "font": {
+    "family": "Cormorant Garamond",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;500;600;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#E8E5D7",
+    "ui-muted": "#A8A18B",
+    "accent-color": "#8D9C59",
+    "surface-active": "#6D7D44",
+    "surface": "#2B3025",
+    "inset-bg": "#23271F",
+    "app-bg": "#191C17",
+    "text-muted": "#9B9A90",
+    "text-subtle": "#85857B",
+    "era-label": "#F3F0E4",
+    "selection-color": "#5DAAE6",
+    "link-color": "#C4D06A",
+    "light-bg": "#30352B",
+    "border-color": "#49503F",
+    "secondary-text": "#85857B",
+    "highlight-color": "#D7B146"
+  }
+}

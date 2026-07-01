@@ -1,0 +1,28 @@
+{
+  "name": "Nature - Panther Chameleon",
+  "type": "light",
+  "collection": "Nature",
+  "author": "Lisa",
+  "font": {
+    "family": "Fraunces",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,100..900&display=swap"
+  },
+  "colors": {
+    "text-primary": "#2B2733",
+    "ui-muted": "#817A8D",
+    "accent-color": "#70B38C",
+    "surface-active": "#8FC5A8",
+    "surface": "#E3E6EF",
+    "inset-bg": "#F6F8FB",
+    "app-bg": "#FCFCFE",
+    "text-muted": "#7D7A87",
+    "text-subtle": "#676372",
+    "era-label": "#1C1821",
+    "selection-color": "#79B9FF",
+    "link-color": "#6A52B8",
+    "light-bg": "#EEF1F7",
+    "border-color": "#CFD5E0",
+    "secondary-text": "#676372",
+    "highlight-color": "#E7B84A"
+  }
+}

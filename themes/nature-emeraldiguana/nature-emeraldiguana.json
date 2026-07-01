@@ -1,0 +1,28 @@
+{
+  "name": "Nature - Emerald Iguana",
+  "type": "light",
+  "collection": "Nature",
+  "author": "Lisa",
+  "font": {
+    "family": "Libre Baskerville",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#223125",
+    "ui-muted": "#70826B",
+    "accent-color": "#93B87B",
+    "surface-active": "#A8C98E",
+    "surface": "#D5E3CC",
+    "inset-bg": "#EEF5E8",
+    "app-bg": "#F7FBF4",
+    "text-muted": "#778675",
+    "text-subtle": "#627160",
+    "era-label": "#142015",
+    "selection-color": "#8FD8B3",
+    "link-color": "#4E8B4A",
+    "light-bg": "#E5EFDE",
+    "border-color": "#B7C9B2",
+    "secondary-text": "#627160",
+    "highlight-color": "#DCCB5B"
+  }
+}

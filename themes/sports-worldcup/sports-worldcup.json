@@ -1,0 +1,28 @@
+{
+  "name": "Sports - World Cup",
+  "type": "light",
+  "collection": "Sports",
+  "author": "Lisa",
+  "font": {
+    "family": "Outfit",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap"
+  },
+  "colors": {
+    "text-primary": "#18342A",
+    "ui-muted": "#61786E",
+    "accent-color": "#C7A646",
+    "surface-active": "#D8BB5F",
+    "surface": "#E8F1E8",
+    "inset-bg": "#F5FAF5",
+    "app-bg": "#FCFEFC",
+    "text-muted": "#74837A",
+    "text-subtle": "#5D6C64",
+    "era-label": "#112018",
+    "selection-color": "#7DC8FF",
+    "link-color": "#0F7A4A",
+    "light-bg": "#EEF5EE",
+    "border-color": "#C9D8CB",
+    "secondary-text": "#5D6C64",
+    "highlight-color": "#F2C94C"
+  }
+}
