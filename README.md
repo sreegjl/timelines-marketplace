@@ -16,22 +16,8 @@ See the [theme documentation](https://github.com/sreegjl/timelines/wiki/Themes) 
 ### Steps
 
 1. Fork and clone this repo
-2. Install dependencies:
-   ```
-   npm install
-   ```
-3. Drop your theme `.json` file(s) into the `inbox/` folder
-4. Run the import script:
-   ```
-   node scripts/import.js
-   ```
-   This will:
-   - Create `themes/<id>/` with your theme JSON and a generated thumbnail
-   - Add your theme to `index.json`
-   - Update `docs/preview.png`
-   - Remove any `index.json` entries whose `themes/` folder no longer exists
-
-5. Open a pull request with the changes
+2. Drop your theme `.json` file(s) into the `inbox/` folder
+3. Open a pull request with the changes
 
 ## Regenerating thumbnails
 
