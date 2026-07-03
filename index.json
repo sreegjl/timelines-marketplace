@@ -86,7 +86,7 @@
     },
     {
       "id": "beach-beachescape",
-      "name": "Beach - Beach Escape",
+      "name": "Beach Escape",
       "author": "Lisa",
       "collection": "Beach",
       "type": "light",
@@ -98,7 +98,7 @@
     },
     {
       "id": "beach-driftwood",
-      "name": "Beach - Driftwood",
+      "name": "Driftwood",
       "author": "Lisa",
       "collection": "Beach",
       "type": "light",
@@ -110,7 +110,7 @@
     },
     {
       "id": "beach-goldenshore",
-      "name": "Beach - Golden Shore",
+      "name": "Golden Shore",
       "author": "Lisa",
       "collection": "Beach",
       "type": "light",
@@ -122,7 +122,7 @@
     },
     {
       "id": "beach-malibumorning",
-      "name": "Beach - Malibu Morning",
+      "name": "Malibu Morning",
       "author": "Lisa",
       "collection": "Beach",
       "type": "light",
@@ -134,7 +134,7 @@
     },
     {
       "id": "beach-moonlitbeach",
-      "name": "Beach - Moonlit Beach",
+      "name": "Moonlit Beach",
       "author": "Lisa",
       "collection": "Beach",
       "type": "light",
@@ -146,7 +146,7 @@
     },
     {
       "id": "beach-pinksands",
-      "name": "Beach - Pink Sands",
+      "name": "Pink Sands",
       "author": "Lisa",
       "collection": "Beach",
       "type": "light",
@@ -158,7 +158,7 @@
     },
     {
       "id": "beach-santorinicoast",
-      "name": "Beach - Santorini Coast",
+      "name": "Santorini Coast",
       "author": "Lisa",
       "collection": "Beach",
       "type": "light",
@@ -170,7 +170,7 @@
     },
     {
       "id": "beach-surfclub",
-      "name": "Beach - Surf Club",
+      "name": "Surf Club",
       "author": "Lisa",
       "collection": "Beach",
       "type": "light",
@@ -182,7 +182,7 @@
     },
     {
       "id": "beach-tropicallagoon",
-      "name": "Beach - Tropical Lagoon",
+      "name": "Tropical Lagoon",
       "author": "Lisa",
       "collection": "Beach",
       "type": "light",
@@ -194,7 +194,7 @@
     },
     {
       "id": "food-chocolate",
-      "name": "Food - Chocolate",
+      "name": "Chocolate",
       "author": "Lisa",
       "collection": "Food",
       "type": "light",
@@ -206,7 +206,7 @@
     },
     {
       "id": "food-citruszest",
-      "name": "Food - Citrus Zest",
+      "name": "Citrus Zest",
       "author": "Lisa",
       "collection": "Food",
       "type": "light",
@@ -218,7 +218,7 @@
     },
     {
       "id": "food-coffeehouse",
-      "name": "Food - Coffee House",
+      "name": "Coffee House",
       "author": "Lisa",
       "collection": "Food",
       "type": "light",
@@ -230,7 +230,7 @@
     },
     {
       "id": "food-freshbread",
-      "name": "Food - Fresh Bread",
+      "name": "Fresh Bread",
       "author": "Lisa",
       "collection": "Food",
       "type": "light",
@@ -242,7 +242,7 @@
     },
     {
       "id": "food-freshfruitbasket",
-      "name": "Food - Fresh Fruit Basket",
+      "name": "Fresh Fruit Basket",
       "author": "Lisa",
       "collection": "Food",
       "type": "light",
@@ -254,7 +254,7 @@
     },
     {
       "id": "food-fruitcocktail",
-      "name": "Food - Fruit Cocktail",
+      "name": "Fruit Cocktail",
       "author": "Lisa",
       "collection": "Food",
       "type": "light",
@@ -266,7 +266,7 @@
     },
     {
       "id": "food-gelatodream",
-      "name": "Food - Gelato Dream",
+      "name": "Gelato Dream",
       "author": "Lisa",
       "collection": "Food",
       "type": "light",
@@ -278,7 +278,7 @@
     },
     {
       "id": "food-goldenpineapple",
-      "name": "Food - Golden Pineapple",
+      "name": "Golden Pineapple",
       "author": "Lisa",
       "collection": "Food",
       "type": "light",
@@ -290,7 +290,7 @@
     },
     {
       "id": "food-matchamochi",
-      "name": "Food - Matcha Mochi",
+      "name": "Matcha Mochi",
       "author": "Lisa",
       "collection": "Food",
       "type": "light",
@@ -302,7 +302,7 @@
     },
     {
       "id": "food-midnightramen",
-      "name": "Food - Midnight Ramen",
+      "name": "Midnight Ramen",
       "author": "Lisa",
       "collection": "Food",
       "type": "dark",
@@ -314,7 +314,7 @@
     },
     {
       "id": "food-orange",
-      "name": "Food - Orange",
+      "name": "Orange",
       "author": "Lisa",
       "collection": "Food",
       "type": "light",
@@ -326,7 +326,7 @@
     },
     {
       "id": "food-pineapplesunshine",
-      "name": "Food - Pineapple Sunshine",
+      "name": "Pineapple Sunshine",
       "author": "Lisa",
       "collection": "Food",
       "type": "light",
@@ -338,7 +338,7 @@
     },
     {
       "id": "food-pizza",
-      "name": "Food - Pizza",
+      "name": "Pizza",
       "author": "Lisa",
       "collection": "Food",
       "type": "light",
@@ -350,7 +350,7 @@
     },
     {
       "id": "food-ripepeach",
-      "name": "Food - Ripe Peach",
+      "name": "Ripe Peach",
       "author": "Lisa",
       "collection": "Food",
       "type": "light",
@@ -362,7 +362,7 @@
     },
     {
       "id": "food-smokybbq",
-      "name": "Food - Smoky BBQ",
+      "name": "Smoky BBQ",
       "author": "Lisa",
       "collection": "Food",
       "type": "light",
@@ -374,7 +374,7 @@
     },
     {
       "id": "food-steakhouse",
-      "name": "Food - Steakhouse",
+      "name": "Steakhouse",
       "author": "Lisa",
       "collection": "Food",
       "type": "light",
@@ -386,7 +386,7 @@
     },
     {
       "id": "food-tomato",
-      "name": "Food - Tomato",
+      "name": "Tomato",
       "author": "Lisa",
       "collection": "Food",
       "type": "light",
@@ -398,7 +398,7 @@
     },
     {
       "id": "food-tropicalpineapplecocktail",
-      "name": "Food - Tropical Pineapple Cocktail",
+      "name": "Tropical Pineapple Cocktail",
       "author": "Lisa",
       "collection": "Food",
       "type": "light",
@@ -410,7 +410,7 @@
     },
     {
       "id": "food-vanillaicecream",
-      "name": "Food - Vanilla Ice Cream",
+      "name": "Vanilla Ice Cream",
       "author": "Lisa",
       "collection": "Food",
       "type": "light",
@@ -422,7 +422,7 @@
     },
     {
       "id": "food-winecellar",
-      "name": "Food - Wine Cellar",
+      "name": "Wine Cellar",
       "author": "Lisa",
       "collection": "Food",
       "type": "light",
@@ -434,7 +434,7 @@
     },
     {
       "id": "jamaica-jamaicabluehole",
-      "name": "Jamaica - Jamaica Blue Hole",
+      "name": "Jamaica Blue Hole",
       "author": "Lisa",
       "collection": "Jamaica",
       "type": "light",
@@ -446,7 +446,7 @@
     },
     {
       "id": "jamaica-jamaicacaribbeansea",
-      "name": "Jamaica - Jamaica Caribbean Sea",
+      "name": "Jamaica Caribbean Sea",
       "author": "Lisa",
       "collection": "Jamaica",
       "type": "light",
@@ -458,7 +458,7 @@
     },
     {
       "id": "jamaica-jamaicajungle",
-      "name": "Jamaica - Jamaica Jungle",
+      "name": "Jamaica Jungle",
       "author": "Lisa",
       "collection": "Jamaica",
       "type": "light",
@@ -470,7 +470,7 @@
     },
     {
       "id": "jamaica-jamaicakonokofalls",
-      "name": "Jamaica - Jamaica Konoko Falls",
+      "name": "Jamaica Konoko Falls",
       "author": "Lisa",
       "collection": "Jamaica",
       "type": "light",
@@ -482,7 +482,7 @@
     },
     {
       "id": "jamaica-jamaicamarijuana",
-      "name": "Jamaica - Jamaica Marijuana ",
+      "name": "Jamaica Marijuana",
       "author": "Lisa",
       "collection": "Jamaica",
       "type": "light",
@@ -494,7 +494,7 @@
     },
     {
       "id": "jamaica-onelove",
-      "name": "Jamaica - One Love",
+      "name": "One Love",
       "author": "Lisa",
       "collection": "Jamaica",
       "type": "light",
@@ -506,7 +506,7 @@
     },
     {
       "id": "jamaica-rastafarigold",
-      "name": "Jamaica - Rastafari Gold",
+      "name": "Rastafari Gold",
       "author": "Lisa",
       "collection": "Jamaica",
       "type": "light",
@@ -518,7 +518,7 @@
     },
     {
       "id": "japan-mossgarden",
-      "name": "Japan - Moss Garden",
+      "name": "Moss Garden",
       "author": "Lisa",
       "collection": "Japan",
       "type": "light",
@@ -530,7 +530,7 @@
     },
     {
       "id": "japan-greatwave",
-      "name": "Japan - Great Wave",
+      "name": "Great Wave",
       "author": "Lisa",
       "collection": "Japan",
       "type": "light",
@@ -542,7 +542,7 @@
     },
     {
       "id": "japan-japaneskoipond",
-      "name": "Japan - Japanese Koi Pond",
+      "name": "Japanese Koi Pond",
       "author": "Lisa",
       "collection": "Japan",
       "type": "light",
@@ -554,7 +554,7 @@
     },
     {
       "id": "japan-kyotosakura",
-      "name": "Japan - Kyoto Sakura",
+      "name": "Kyoto Sakura",
       "author": "Lisa",
       "collection": "Japan",
       "type": "light",
@@ -566,7 +566,7 @@
     },
     {
       "id": "japan-kyototemple",
-      "name": "Japan - Kyoto Temple",
+      "name": "Kyoto Temple",
       "author": "Lisa",
       "collection": "Japan",
       "type": "light",
@@ -578,7 +578,7 @@
     },
     {
       "id": "japan-mujiminimal",
-      "name": "Japan - Muji Minimal",
+      "name": "Muji Minimal",
       "author": "Lisa",
       "collection": "Japan",
       "type": "light",
@@ -590,7 +590,7 @@
     },
     {
       "id": "japan-teahouse",
-      "name": "Japan - Tea House",
+      "name": "Tea House",
       "author": "Lisa",
       "collection": "Japan",
       "type": "light",
@@ -602,7 +602,7 @@
     },
     {
       "id": "japan-toriisunset",
-      "name": "Japan - Torii Sunset",
+      "name": "Torii Sunset",
       "author": "Lisa",
       "collection": "Japan",
       "type": "light",
@@ -614,7 +614,7 @@
     },
     {
       "id": "japan-ukiyo-e",
-      "name": "Japan - Ukiyo-e",
+      "name": "Ukiyo-e",
       "author": "Lisa",
       "collection": "Japan",
       "type": "light",
@@ -626,7 +626,7 @@
     },
     {
       "id": "japan-zengarden",
-      "name": "Japan - Zen Garden",
+      "name": "Zen Garden",
       "author": "Lisa",
       "collection": "Japan",
       "type": "light",
@@ -638,7 +638,7 @@
     },
     {
       "id": "miami-artdecomiami",
-      "name": "Miami - Art Deco Miami",
+      "name": "Art Deco Miami",
       "author": "Lisa",
       "collection": "Miami",
       "type": "light",
@@ -650,7 +650,7 @@
     },
     {
       "id": "miami-biscayneblue",
-      "name": "Miami - Biscayne Blue",
+      "name": "Biscayne Blue",
       "author": "Lisa",
       "collection": "Miami",
       "type": "light",
@@ -662,7 +662,7 @@
     },
     {
       "id": "miami-champagnecoast",
-      "name": "Miami - Champagne Coast",
+      "name": "Champagne Coast",
       "author": "Lisa",
       "collection": "Miami",
       "type": "light",
@@ -674,7 +674,7 @@
     },
     {
       "id": "miami-coconutgrove",
-      "name": "Miami - Coconut Grove",
+      "name": "Coconut Grove",
       "author": "Lisa",
       "collection": "Miami",
       "type": "light",
@@ -686,7 +686,7 @@
     },
     {
       "id": "miami-flamingopink",
-      "name": "Miami - Flamingo Pink",
+      "name": "Flamingo Pink",
       "author": "Lisa",
       "collection": "Miami",
       "type": "light",
@@ -698,7 +698,7 @@
     },
     {
       "id": "miami-oceandrive",
-      "name": "Miami - Ocean Drive",
+      "name": "Ocean Drive",
       "author": "Lisa",
       "collection": "Miami",
       "type": "light",
@@ -710,7 +710,7 @@
     },
     {
       "id": "miami-palmroyale",
-      "name": "Miami - Palm Royale",
+      "name": "Palm Royale",
       "author": "Lisa",
       "collection": "Miami",
       "type": "light",
@@ -722,7 +722,7 @@
     },
     {
       "id": "miami-southbeachluxury",
-      "name": "Miami - South Beach Luxury",
+      "name": "South Beach Luxury",
       "author": "Lisa",
       "collection": "Miami",
       "type": "light",
@@ -734,7 +734,7 @@
     },
     {
       "id": "miami-southbeachsunset",
-      "name": "Miami - South Beach Sunset",
+      "name": "South Beach Sunset",
       "author": "Lisa",
       "collection": "Miami",
       "type": "light",
@@ -746,7 +746,7 @@
     },
     {
       "id": "misc-christmas",
-      "name": "Misc - Christmas",
+      "name": "Christmas",
       "author": "Lisa",
       "collection": "Misc",
       "type": "light",
@@ -758,7 +758,7 @@
     },
     {
       "id": "misc-cyberpunkneon",
-      "name": "Misc - Cyberpunk Neon",
+      "name": "Cyberpunk Neon",
       "author": "Lisa",
       "collection": "Misc",
       "type": "light",
@@ -770,7 +770,7 @@
     },
     {
       "id": "misc-retroclassic",
-      "name": "Misc - Retro Classic",
+      "name": "Retro Classic",
       "author": "Lisa",
       "collection": "Misc",
       "type": "light",
@@ -782,7 +782,7 @@
     },
     {
       "id": "misc-8bitquest",
-      "name": "Misc - 8-Bit Quest",
+      "name": "8-Bit Quest",
       "author": "Lisa",
       "collection": "Misc",
       "type": "light",
@@ -794,7 +794,7 @@
     },
     {
       "id": "misc-pixelquest",
-      "name": "Misc - Pixel Quest",
+      "name": "Pixel Quest",
       "author": "Lisa",
       "collection": "Misc",
       "type": "light",
@@ -806,7 +806,7 @@
     },
     {
       "id": "misc-psychedelicdream",
-      "name": "Misc - Psychedelic Dream",
+      "name": "Psychedelic Dream",
       "author": "Lisa",
       "collection": "Misc",
       "type": "light",
@@ -818,7 +818,7 @@
     },
     {
       "id": "rainforest-amazonriver",
-      "name": "Rainforest - Amazon River",
+      "name": "Amazon River",
       "author": "Lisa",
       "collection": "Rainforest",
       "type": "light",
@@ -830,7 +830,7 @@
     },
     {
       "id": "rainforest-emeraldcanopy",
-      "name": "Rainforest - Emerald Canopy",
+      "name": "Emerald Canopy",
       "author": "Lisa",
       "collection": "Rainforest",
       "type": "light",
@@ -842,7 +842,7 @@
     },
     {
       "id": "rainforest-junglestorm",
-      "name": "Rainforest - Jungle Storm",
+      "name": "Jungle Storm",
       "author": "Lisa",
       "collection": "Rainforest",
       "type": "light",
@@ -854,7 +854,7 @@
     },
     {
       "id": "rainforest-mossandstone",
-      "name": "Rainforest - Moss & Stone",
+      "name": "Moss & Stone",
       "author": "Lisa",
       "collection": "Rainforest",
       "type": "light",
@@ -866,7 +866,7 @@
     },
     {
       "id": "rainforest-orchidbloom",
-      "name": "Rainforest - Orchid Bloom",
+      "name": "Orchid Bloom",
       "author": "Lisa",
       "collection": "Rainforest",
       "type": "light",
@@ -878,7 +878,7 @@
     },
     {
       "id": "rainforest-rainforestnight",
-      "name": "Rainforest - Rainforest Night",
+      "name": "Rainforest Night",
       "author": "Lisa",
       "collection": "Rainforest",
       "type": "light",
@@ -890,7 +890,7 @@
     },
     {
       "id": "summer-coastalbreeze",
-      "name": "Summer - Coastal Breeze",
+      "name": "Coastal Breeze",
       "author": "Lisa",
       "collection": "Summer",
       "type": "light",
@@ -902,7 +902,7 @@
     },
     {
       "id": "summer-hibiscussummer",
-      "name": "Summer - Hibiscus Summer",
+      "name": "Hibiscus Summer",
       "author": "Lisa",
       "collection": "Summer",
       "type": "light",
@@ -914,7 +914,7 @@
     },
     {
       "id": "summer-lemonadesummer",
-      "name": "Summer - Lemonade Summer",
+      "name": "Lemonade Summer",
       "author": "Lisa",
       "collection": "Summer",
       "type": "light",
@@ -926,7 +926,7 @@
     },
     {
       "id": "summer-oceansummer",
-      "name": "Summer - Ocean Summer",
+      "name": "Ocean Summer",
       "author": "Lisa",
       "collection": "Summer",
       "type": "light",
@@ -938,7 +938,7 @@
     },
     {
       "id": "summer-summer",
-      "name": "Summer - Summer",
+      "name": "Summer",
       "author": "Lisa",
       "collection": "Summer",
       "type": "light",
@@ -950,7 +950,7 @@
     },
     {
       "id": "summer-summersunset",
-      "name": "Summer - Summer Sunset",
+      "name": "Summer Sunset",
       "author": "Lisa",
       "collection": "Summer",
       "type": "light",
@@ -962,7 +962,7 @@
     },
     {
       "id": "summer-tropicalsummer",
-      "name": "Summer - Tropical Summer",
+      "name": "Tropical Summer",
       "author": "Lisa",
       "collection": "Summer",
       "type": "light",
@@ -974,7 +974,7 @@
     },
     {
       "id": "food-peach",
-      "name": "Food - Peach",
+      "name": "Peach",
       "author": "Lisa",
       "collection": "Food",
       "type": "light",
@@ -986,7 +986,7 @@
     },
     {
       "id": "miami-miamipastels",
-      "name": "Miami - Miami Pastels",
+      "name": "Miami Pastels",
       "author": "Lisa",
       "collection": "Miami",
       "type": "light",
@@ -998,7 +998,7 @@
     },
     {
       "id": "summer-beachsandsummer",
-      "name": "Summer - Beach Sand Summer",
+      "name": "Beach Sand Summer",
       "author": "Lisa",
       "collection": "Summer",
       "type": "light",
@@ -1010,7 +1010,7 @@
     },
     {
       "id": "food-bananamilkshake",
-      "name": "Food - Banana Milkshake",
+      "name": "Banana Milkshake",
       "author": "Lisa",
       "collection": "Food",
       "type": "light",
@@ -1022,7 +1022,7 @@
     },
     {
       "id": "food-bananasplit",
-      "name": "Food - Banana Split",
+      "name": "Banana Split",
       "author": "Lisa",
       "collection": "Food",
       "type": "light",
@@ -1034,7 +1034,7 @@
     },
     {
       "id": "food-blueberrybliss",
-      "name": "Food - Blueberry Bliss",
+      "name": "Blueberry Bliss",
       "author": "Lisa",
       "collection": "Food",
       "type": "light",
@@ -1046,7 +1046,7 @@
     },
     {
       "id": "food-bubblegumpop",
-      "name": "Food - Bubblegum Pop",
+      "name": "Bubblegum Pop",
       "author": "Lisa",
       "collection": "Food",
       "type": "light",
@@ -1058,7 +1058,7 @@
     },
     {
       "id": "food-candyshop",
-      "name": "Food - Candy Shop",
+      "name": "Candy Shop",
       "author": "Lisa",
       "collection": "Food",
       "type": "light",
@@ -1070,7 +1070,7 @@
     },
     {
       "id": "food-chocolatecoveredstrawberry",
-      "name": "Food - Chocolate-Covered Strawberry",
+      "name": "Chocolate-Covered Strawberry",
       "author": "Lisa",
       "collection": "Food",
       "type": "light",
@@ -1082,7 +1082,7 @@
     },
     {
       "id": "food-lollipopland",
-      "name": "Food - Lollipop Land",
+      "name": "Lollipop Land",
       "author": "Lisa",
       "collection": "Food",
       "type": "light",
@@ -1094,7 +1094,7 @@
     },
     {
       "id": "food-strawberrycream",
-      "name": "Food - Strawberry Cream",
+      "name": "Strawberry Cream",
       "author": "Lisa",
       "collection": "Food",
       "type": "light",
@@ -1106,7 +1106,7 @@
     },
     {
       "id": "food-strawberrymilkshake",
-      "name": "Food - Strawberry Milkshake",
+      "name": "Strawberry Milkshake",
       "author": "Lisa",
       "collection": "Food",
       "type": "light",
@@ -1118,7 +1118,7 @@
     },
     {
       "id": "food-sugarplumdream",
-      "name": "Food - Sugar Plum Dream",
+      "name": "Sugar Plum Dream",
       "author": "Lisa",
       "collection": "Food",
       "type": "light",
@@ -1130,7 +1130,7 @@
     },
     {
       "id": "food-watermelondelight",
-      "name": "Food - Watermelon Delight",
+      "name": "Watermelon Delight",
       "author": "Lisa",
       "collection": "Food",
       "type": "light",
@@ -1142,7 +1142,7 @@
     },
     {
       "id": "food-wildstrawberry",
-      "name": "Food - Wild Strawberry",
+      "name": "Wild Strawberry",
       "author": "Lisa",
       "collection": "Food",
       "type": "light",
@@ -1154,7 +1154,7 @@
     },
     {
       "id": "nature-bloomgarden",
-      "name": "Nature - Bloom Garden",
+      "name": "Bloom Garden",
       "author": "Lisa",
       "collection": "Nature",
       "type": "light",
@@ -1166,7 +1166,7 @@
     },
     {
       "id": "nature-cloudyskies",
-      "name": "Nature - Cloudy Skies",
+      "name": "Cloudy Skies",
       "author": "Lisa",
       "collection": "Nature",
       "type": "light",
@@ -1178,7 +1178,7 @@
     },
     {
       "id": "nature-deepforest",
-      "name": "Nature - Deep Forest",
+      "name": "Deep Forest",
       "author": "Lisa",
       "collection": "Nature",
       "type": "light",
@@ -1190,7 +1190,7 @@
     },
     {
       "id": "nature-freshgrass",
-      "name": "Nature - Fresh Grass",
+      "name": "Fresh Grass",
       "author": "Lisa",
       "collection": "Nature",
       "type": "light",
@@ -1202,7 +1202,7 @@
     },
     {
       "id": "nature-iceage",
-      "name": "Nature - Ice Age",
+      "name": "Ice Age",
       "author": "Lisa",
       "collection": "Nature",
       "type": "light",
@@ -1214,7 +1214,7 @@
     },
     {
       "id": "nature-italiantomatogarden",
-      "name": "Nature - Italian Tomato Garden",
+      "name": "Italian Tomato Garden",
       "author": "Lisa",
       "collection": "Nature",
       "type": "light",
@@ -1226,7 +1226,7 @@
     },
     {
       "id": "nature-jurassicamber",
-      "name": "Nature - Jurassic Amber",
+      "name": "Jurassic Amber",
       "author": "Lisa",
       "collection": "Nature",
       "type": "light",
@@ -1238,7 +1238,7 @@
     },
     {
       "id": "nature-rainyday",
-      "name": "Nature - Rainy Day",
+      "name": "Rainy Day",
       "author": "Lisa",
       "collection": "Nature",
       "type": "light",
@@ -1250,7 +1250,7 @@
     },
     {
       "id": "nature-sandstorm",
-      "name": "Nature - Sandstorm",
+      "name": "Sandstorm",
       "author": "Lisa",
       "collection": "Nature",
       "type": "light",
@@ -1262,7 +1262,7 @@
     },
     {
       "id": "nature-thunderstorm",
-      "name": "Nature - Thunderstorm",
+      "name": "Thunderstorm",
       "author": "Lisa",
       "collection": "Nature",
       "type": "light",
@@ -1274,7 +1274,7 @@
     },
     {
       "id": "nature-tropicalparadise",
-      "name": "Nature - Tropical Paradise",
+      "name": "Tropical Paradise",
       "author": "Lisa",
       "collection": "Nature",
       "type": "light",
@@ -1286,7 +1286,7 @@
     },
     {
       "id": "nature-waterfallcascade",
-      "name": "Nature - Waterfall Cascade",
+      "name": "Waterfall Cascade",
       "author": "Lisa",
       "collection": "Nature",
       "type": "light",
@@ -1298,7 +1298,7 @@
     },
     {
       "id": "misc-neonfuture",
-      "name": "Misc - Neon Future",
+      "name": "Neon Future",
       "author": "Lisa",
       "collection": "Misc",
       "type": "dark",
@@ -1310,7 +1310,7 @@
     },
     {
       "id": "nature-deepspace",
-      "name": "Nature - Deep Space",
+      "name": "Deep Space",
       "author": "Lisa",
       "collection": "Nature",
       "type": "dark",
@@ -1322,7 +1322,7 @@
     },
     {
       "id": "nature-desertdunes",
-      "name": "Nature - Desert Dunes",
+      "name": "Desert Dunes",
       "author": "Lisa",
       "collection": "Nature",
       "type": "light",
@@ -1334,7 +1334,7 @@
     },
     {
       "id": "nature-desertsunsetglow",
-      "name": "Nature - Desert Sunset Glow",
+      "name": "Desert Sunset Glow",
       "author": "Lisa",
       "collection": "Nature",
       "type": "light",
@@ -1346,7 +1346,7 @@
     },
     {
       "id": "nature-jurassicearth",
-      "name": "Nature - Jurassic Earth",
+      "name": "Jurassic Earth",
       "author": "Lisa",
       "collection": "Nature",
       "type": "dark",
@@ -1358,7 +1358,7 @@
     },
     {
       "id": "nature-starlight",
-      "name": "Nature - Starlight",
+      "name": "Starlight",
       "author": "Lisa",
       "collection": "Nature",
       "type": "dark",
@@ -1370,7 +1370,7 @@
     },
     {
       "id": "nature-twinklingstars",
-      "name": "Nature - Twinkling Stars",
+      "name": "Twinkling Stars",
       "author": "Lisa",
       "collection": "Nature",
       "type": "dark",
@@ -1382,7 +1382,7 @@
     },
     {
       "id": "nature-volcanicjurassic",
-      "name": "Nature - Volcanic Jurassic",
+      "name": "Volcanic Jurassic",
       "author": "Lisa",
       "collection": "Nature",
       "type": "dark",
@@ -1394,7 +1394,7 @@
     },
     {
       "id": "nature-auroraborealis",
-      "name": "Nature - Aurora Borealis",
+      "name": "Aurora Borealis",
       "author": "Lisa",
       "collection": "Nature",
       "type": "dark",
@@ -1406,7 +1406,7 @@
     },
     {
       "id": "nature-elephantguardian",
-      "name": "Nature - Elephant Guardian",
+      "name": "Elephant Guardian",
       "author": "Lisa",
       "collection": "Nature",
       "type": "dark",
@@ -1418,7 +1418,7 @@
     },
     {
       "id": "nature-icelandwinter",
-      "name": "Nature - Iceland Winter",
+      "name": "Iceland Winter",
       "author": "Lisa",
       "collection": "Nature",
       "type": "dark",
@@ -1430,7 +1430,7 @@
     },
     {
       "id": "nature-komododragon",
-      "name": "Nature - Komodo Dragon",
+      "name": "Komodo Dragon",
       "author": "Lisa",
       "collection": "Nature",
       "type": "dark",
@@ -1442,7 +1442,7 @@
     },
     {
       "id": "nature-lionpride",
-      "name": "Nature - Lion Pride",
+      "name": "Lion Pride",
       "author": "Lisa",
       "collection": "Nature",
       "type": "dark",
@@ -1454,7 +1454,7 @@
     },
     {
       "id": "nature-oceandolphin",
-      "name": "Nature - Ocean Dolphin",
+      "name": "Ocean Dolphin",
       "author": "Lisa",
       "collection": "Nature",
       "type": "dark",
@@ -1466,7 +1466,7 @@
     },
     {
       "id": "nature-blackpanther",
-      "name": "Nature - Black Panther",
+      "name": "Black Panther",
       "author": "Lisa",
       "collection": "Nature",
       "type": "dark",
@@ -1478,7 +1478,7 @@
     },
     {
       "id": "nature-blueandgoldmacaw",
-      "name": "Nature - Blue-and-Gold Macaw",
+      "name": "Blue-and-Gold Macaw",
       "author": "Lisa",
       "collection": "Nature",
       "type": "light",
@@ -1490,7 +1490,7 @@
     },
     {
       "id": "nature-bluemorpho",
-      "name": "Nature - Blue Morpho",
+      "name": "Blue Morpho",
       "author": "Lisa",
       "collection": "Nature",
       "type": "light",
@@ -1502,7 +1502,7 @@
     },
     {
       "id": "nature-capybarariverbank",
-      "name": "Nature - Capybara Riverbank",
+      "name": "Capybara Riverbank",
       "author": "Lisa",
       "collection": "Nature",
       "type": "light",
@@ -1514,7 +1514,7 @@
     },
     {
       "id": "nature-emeraldtreeboa",
-      "name": "Nature - Emerald Tree Boa",
+      "name": "Emerald Tree Boa",
       "author": "Lisa",
       "collection": "Nature",
       "type": "light",
@@ -1526,7 +1526,7 @@
     },
     {
       "id": "nature-flamingolagoon",
-      "name": "Nature - Flamingo Lagoon",
+      "name": "Flamingo Lagoon",
       "author": "Lisa",
       "collection": "Nature",
       "type": "light",
@@ -1538,7 +1538,7 @@
     },
     {
       "id": "nature-harpyeagle",
-      "name": "Nature - Harpy Eagle",
+      "name": "Harpy Eagle",
       "author": "Lisa",
       "collection": "Nature",
       "type": "light",
@@ -1550,7 +1550,7 @@
     },
     {
       "id": "nature-jaguarrainforest",
-      "name": "Nature - Jaguar Rainforest",
+      "name": "Jaguar Rainforest",
       "author": "Lisa",
       "collection": "Nature",
       "type": "light",
@@ -1562,7 +1562,7 @@
     },
     {
       "id": "nature-macawparadise",
-      "name": "Nature - Macaw Paradise",
+      "name": "Macaw Paradise",
       "author": "Lisa",
       "collection": "Nature",
       "type": "light",
@@ -1574,7 +1574,7 @@
     },
     {
       "id": "nature-orangutancanopy",
-      "name": "Nature - Orangutan Canopy",
+      "name": "Orangutan Canopy",
       "author": "Lisa",
       "collection": "Nature",
       "type": "light",
@@ -1586,7 +1586,7 @@
     },
     {
       "id": "nature-poisondartfrog",
-      "name": "Nature - Poison Dart Frog",
+      "name": "Poison Dart Frog",
       "author": "Lisa",
       "collection": "Nature",
       "type": "light",
@@ -1598,7 +1598,7 @@
     },
     {
       "id": "nature-readeyedtreefrog",
-      "name": "Nature - Red-Eyed Tree Frog",
+      "name": "Red-Eyed Tree Frog",
       "author": "Lisa",
       "collection": "Nature",
       "type": "light",
@@ -1610,7 +1610,7 @@
     },
     {
       "id": "nature-scarletibissunset",
-      "name": "Nature - Scarlet Ibis Sunset",
+      "name": "Scarlet Ibis Sunset",
       "author": "Lisa",
       "collection": "Nature",
       "type": "light",
@@ -1622,7 +1622,7 @@
     },
     {
       "id": "nature-scarletmacaw",
-      "name": "Nature - Scarlet Macaw",
+      "name": "Scarlet Macaw",
       "author": "Lisa",
       "collection": "Nature",
       "type": "light",
@@ -1634,7 +1634,7 @@
     },
     {
       "id": "nature-seaturtlereef",
-      "name": "Nature - Sea Turtle Reef",
+      "name": "Sea Turtle Reef",
       "author": "Lisa",
       "collection": "Nature",
       "type": "light",
@@ -1646,7 +1646,7 @@
     },
     {
       "id": "nature-toucancanopy",
-      "name": "Nature - Toucan Canopy",
+      "name": "Toucan Canopy",
       "author": "Lisa",
       "collection": "Nature",
       "type": "light",
@@ -1658,7 +1658,7 @@
     },
     {
       "id": "nature-clownfishreef",
-      "name": "Nature - Clownfish Reef",
+      "name": "Clownfish Reef",
       "author": "Lisa",
       "collection": "Nature",
       "type": "light",
@@ -1670,7 +1670,7 @@
     },
     {
       "id": "nature-coralgarden",
-      "name": "Nature - Coral Garden",
+      "name": "Coral Garden",
       "author": "Lisa",
       "collection": "Nature",
       "type": "light",
@@ -1682,7 +1682,7 @@
     },
     {
       "id": "nature-discusparadise",
-      "name": "Nature - Discus Paradise",
+      "name": "Discus Paradise",
       "author": "Lisa",
       "collection": "Nature",
       "type": "light",
@@ -1694,7 +1694,7 @@
     },
     {
       "id": "nature-exoticangelfish",
-      "name": "Nature - Exotic Angelfish",
+      "name": "Exotic Angelfish",
       "author": "Lisa",
       "collection": "Nature",
       "type": "light",
@@ -1706,7 +1706,7 @@
     },
     {
       "id": "nature-moorishidol",
-      "name": "Nature - Moorish Idol",
+      "name": "Moorish Idol",
       "author": "Lisa",
       "collection": "Nature",
       "type": "light",
@@ -1718,7 +1718,7 @@
     },
     {
       "id": "nature-neontetralagoon",
-      "name": "Nature - Neon Tetra Lagoon",
+      "name": "Neon Tetra Lagoon",
       "author": "Lisa",
       "collection": "Nature",
       "type": "light",
@@ -1730,7 +1730,7 @@
     },
     {
       "id": "nature-tropicalreef",
-      "name": "Nature - Tropical Reef",
+      "name": "Tropical Reef",
       "author": "Lisa",
       "collection": "Nature",
       "type": "light",
@@ -1742,7 +1742,7 @@
     },
     {
       "id": "sports-alpinesummit",
-      "name": "Sports - Alpine Summit",
+      "name": "Alpine Summit",
       "author": "Lisa",
       "collection": "Sports",
       "type": "light",
@@ -1754,7 +1754,7 @@
     },
     {
       "id": "sports-aqualeague",
-      "name": "Sports - Aqua League",
+      "name": "Aqua League",
       "author": "Lisa",
       "collection": "Sports",
       "type": "light",
@@ -1766,7 +1766,7 @@
     },
     {
       "id": "sports-centerice",
-      "name": "Sports - Center Ice",
+      "name": "Center Ice",
       "author": "Lisa",
       "collection": "Sports",
       "type": "light",
@@ -1778,7 +1778,7 @@
     },
     {
       "id": "sports-championshipnight",
-      "name": "Sports - Championship Night",
+      "name": "Championship Night",
       "author": "Lisa",
       "collection": "Sports",
       "type": "dark",
@@ -1790,7 +1790,7 @@
     },
     {
       "id": "sports-courtvision",
-      "name": "Sports - Court Vision",
+      "name": "Court Vision",
       "author": "Lisa",
       "collection": "Sports",
       "type": "dark",
@@ -1802,7 +1802,7 @@
     },
     {
       "id": "sports-grandslam",
-      "name": "Sports - Grand Slam",
+      "name": "Grand Slam",
       "author": "Lisa",
       "collection": "Sports",
       "type": "light",
@@ -1814,7 +1814,7 @@
     },
     {
       "id": "sports-racingline",
-      "name": "Sports - Racing Line",
+      "name": "Racing Line",
       "author": "Lisa",
       "collection": "Sports",
       "type": "dark",
@@ -1826,7 +1826,7 @@
     },
     {
       "id": "sports-ringwalk",
-      "name": "Sports - Ring Walk",
+      "name": "Ring Walk",
       "author": "Lisa",
       "collection": "Sports",
       "type": "dark",
@@ -1838,7 +1838,7 @@
     },
     {
       "id": "sports-sundaylights",
-      "name": "Sports - Sunday Lights",
+      "name": "Sunday Lights",
       "author": "Lisa",
       "collection": "Sports",
       "type": "dark",
@@ -1850,7 +1850,7 @@
     },
     {
       "id": "sports-trackandfield",
-      "name": "Sports - Track & Field",
+      "name": "Track & Field",
       "author": "Lisa",
       "collection": "Sports",
       "type": "light",
@@ -1862,7 +1862,7 @@
     },
     {
       "id": "jamaica-reggaevibes",
-      "name": "Jamaica - Reggae Vibes",
+      "name": "Reggae Vibes",
       "author": "Lisa",
       "collection": "Jamaica",
       "type": "light",
@@ -1874,7 +1874,7 @@
     },
     {
       "id": "nature-bluetonguedskink",
-      "name": "Nature - Blue-Tongued Skink",
+      "name": "Blue-Tongued Skink",
       "author": "Lisa",
       "collection": "Nature",
       "type": "light",
@@ -1887,7 +1887,7 @@
     },
     {
       "id": "nature-crocodilemarsh",
-      "name": "Nature - Crocodile Marsh",
+      "name": "Crocodile Marsh",
       "author": "Lisa",
       "collection": "Nature",
       "type": "dark",
@@ -1900,7 +1900,7 @@
     },
     {
       "id": "nature-desertgecko",
-      "name": "Nature - Desert Gecko",
+      "name": "Desert Gecko",
       "author": "Lisa",
       "collection": "Nature",
       "type": "light",
@@ -1913,7 +1913,7 @@
     },
     {
       "id": "nature-emeraldiguana",
-      "name": "Nature - Emerald Iguana",
+      "name": "Emerald Iguana",
       "author": "Lisa",
       "collection": "Nature",
       "type": "light",
@@ -1926,7 +1926,7 @@
     },
     {
       "id": "nature-kingcobra",
-      "name": "Nature - King Cobra",
+      "name": "King Cobra",
       "author": "Lisa",
       "collection": "Nature",
       "type": "dark",
@@ -1939,7 +1939,7 @@
     },
     {
       "id": "nature-pantherchameleon",
-      "name": "Nature - Panther Chameleon",
+      "name": "Panther Chameleon",
       "author": "Lisa",
       "collection": "Nature",
       "type": "light",
@@ -1952,7 +1952,7 @@
     },
     {
       "id": "sports-icehockey",
-      "name": "Sports - Ice Hockey",
+      "name": "Ice Hockey",
       "author": "Lisa",
       "collection": "Sports",
       "type": "light",
@@ -1965,7 +1965,7 @@
     },
     {
       "id": "sports-tennis",
-      "name": "Sports - Tennis",
+      "name": "Tennis",
       "author": "Lisa",
       "collection": "Sports",
       "type": "light",
@@ -1978,7 +1978,7 @@
     },
     {
       "id": "sports-worldcup",
-      "name": "Sports - World Cup",
+      "name": "World Cup",
       "author": "Lisa",
       "collection": "Sports",
       "type": "light",

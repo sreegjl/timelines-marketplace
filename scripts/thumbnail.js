@@ -5,10 +5,22 @@ const WIDTH = 410;
 const HEIGHT = 160;
 const SWATCH_H = 38.24;
 const SWATCH_KEYS = ["text-primary", "ui-muted", "accent-color", "surface", "inset-bg"];
+const FONT_SIZES = {
+  collection: 17,
+  title: 46,
+  subtitle: 17,
+};
+const MIN_FONT_SIZES = {
+  collection: 12,
+  title: 16,
+  subtitle: 11,
+};
 
 function buildHtml(theme) {
   const c = theme.colors;
   const title = theme.name.toLowerCase();
+  const showCollection = Boolean(theme.collection) && theme.collection.toLowerCase() !== "featured";
+  const collection = showCollection ? theme.collection.toLowerCase() : "";
   const subtitle = `by ${theme.author}`;
   const fontFamily = theme.font?.family ?? "Inter";
   const cssUrl = theme.font?.cssUrl ?? "https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap";
@@ -37,23 +49,36 @@ function buildHtml(theme) {
     position: absolute;
     left: 24px;
     top: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 6px;
     transform: translateY(calc(-50% - ${SWATCH_H / 2}px));
+  }
+  .collection {
+    display: block;
+    color: ${c["ui-muted"]};
+    font-size: ${FONT_SIZES.collection}px;
+    font-weight: 900;
+    letter-spacing: 0.1em;
+    line-height: 0.95;
+    text-transform: uppercase;
+    white-space: nowrap;
   }
   .title {
     display: block;
     color: ${c["text-primary"]};
-    font-size: 46px;
+    font-size: ${FONT_SIZES.title}px;
     font-weight: 900;
-    line-height: 1;
+    line-height: 0.95;
     white-space: nowrap;
   }
   .subtitle {
     display: block;
     color: ${c["text-primary"]};
-    font-size: 16px;
+    font-size: ${FONT_SIZES.subtitle}px;
     font-weight: 900;
-    line-height: 1;
-    margin-top: 5px;
+    line-height: 0.95;
     white-space: nowrap;
   }
   .swatches {
@@ -70,6 +95,7 @@ function buildHtml(theme) {
 </head>
 <body>
   <div class="text-block">
+    ${showCollection ? `<span class="collection">${collection}</span>` : ""}
     <span class="title">${title}</span>
     <span class="subtitle">${subtitle}</span>
   </div>
@@ -83,15 +109,34 @@ function buildHtml(theme) {
 async function renderThumbnail(theme, outPath, page) {
   await page.setViewportSize({ width: WIDTH, height: HEIGHT });
   await page.setContent(buildHtml(theme), { waitUntil: "networkidle" });
-  await page.evaluate((maxWidth) => {
-    for (const el of document.querySelectorAll(".title, .subtitle")) {
+  await page.evaluate(async () => {
+    if (document.fonts?.ready) {
+      try {
+        await document.fonts.ready;
+      } catch {}
+    }
+  });
+  await page.evaluate(({ maxWidth, minSizes }) => {
+    const selectors = [".collection", ".title", ".subtitle"];
+
+    for (const selector of selectors) {
+      const el = document.querySelector(selector);
+      if (!el) continue;
+
       let size = parseFloat(getComputedStyle(el).fontSize);
-      while (el.scrollWidth > maxWidth && size > 10) {
+      while (el.scrollWidth > maxWidth && size > minSizes[selector]) {
         size -= 0.5;
         el.style.fontSize = size + "px";
       }
     }
-  }, WIDTH - 2 * 24);
+  }, {
+    maxWidth: WIDTH - 2 * 24,
+    minSizes: {
+      ".collection": MIN_FONT_SIZES.collection,
+      ".title": MIN_FONT_SIZES.title,
+      ".subtitle": MIN_FONT_SIZES.subtitle,
+    },
+  });
   await page.screenshot({ path: outPath });
 }
 
