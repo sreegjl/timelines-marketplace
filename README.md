@@ -1,4 +1,4 @@
-![Banner](docs/banner.png)
+<img width="1256" height="157" alt="Group 187 (1)" src="https://github.com/user-attachments/assets/85d9fad8-9a17-4f79-a531-229a4af42b13" />
 
 ## Adding a theme
 
