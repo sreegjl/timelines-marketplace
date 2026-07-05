@@ -1,0 +1,28 @@
+  {
+    "name": "Dinosaurs - Therizinosaurus",
+    "type": "dark",
+    "collection": "Dinosaurs",
+    "author": "Lisa",
+    "font": {
+      "family": "Playfair Display",
+      "cssUrl": "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400..900&display=swap"
+    },
+    "colors": {
+      "text-primary": "#E7F0E4",
+      "ui-muted": "#96A48E",
+      "accent-color": "#6F9162",
+      "surface-active": "#82A974",
+      "surface": "#243125",
+      "inset-bg": "#1A231B",
+      "app-bg": "#101610",
+      "text-muted": "#B3C0AD",
+      "text-subtle": "#82907D",
+      "era-label": "#F6FAF4",
+      "selection-color": "#73C0EB",
+      "link-color": "#95C683",
+      "light-bg": "#334236",
+      "border-color": "#49584B",
+      "secondary-text": "#82907D",
+      "highlight-color": "#D5C45B"
+    }
+  }

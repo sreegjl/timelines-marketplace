@@ -1,0 +1,28 @@
+  {
+    "name": "Dinosaurs - Styracosaurus",
+    "type": "light",
+    "collection": "Dinosaurs",
+    "author": "Lisa",
+    "font": {
+      "family": "Sorts Mill Goudy",
+      "cssUrl": "https://fonts.googleapis.com/css2?family=Sorts+Mill+Goudy:ital@0;1&display=swap"
+    },
+    "colors": {
+      "text-primary": "#42352E",
+      "ui-muted": "#938276",
+      "accent-color": "#B86B43",
+      "surface-active": "#CF8358",
+      "surface": "#F0E3D3",
+      "inset-bg": "#FCF6EE",
+      "app-bg": "#FFFDF9",
+      "text-muted": "#8C847C",
+      "text-subtle": "#766F68",
+      "era-label": "#171717",
+      "selection-color": "#A7D5F6",
+      "link-color": "#A0542E",
+      "light-bg": "#F6EDE1",
+      "border-color": "#DDD0BF",
+      "secondary-text": "#766F68",
+      "highlight-color": "#EDC967"
+    }
+  }

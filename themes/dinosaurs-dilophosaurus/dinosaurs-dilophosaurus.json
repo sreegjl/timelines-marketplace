@@ -1,0 +1,28 @@
+  {
+    "name": "Dinosaurs - Dilophosaurus",
+    "type": "light",
+    "collection": "Dinosaurs",
+    "author": "Lisa",
+    "font": {
+      "family": "Fraunces",
+      "cssUrl": "https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,100..900&display=swap"
+    },
+    "colors": {
+      "text-primary": "#3A302B",
+      "ui-muted": "#8D837A",
+      "accent-color": "#B34C63",
+      "surface-active": "#C96178",
+      "surface": "#F2E7E6",
+      "inset-bg": "#FCF7F6",
+      "app-bg": "#FFFCFB",
+      "text-muted": "#8E8883",
+      "text-subtle": "#78726C",
+      "era-label": "#181818",
+      "selection-color": "#A8D4F6",
+      "link-color": "#A63D55",
+      "light-bg": "#F7EFEF",
+      "border-color": "#DDD0CF",
+      "secondary-text": "#78726C",
+      "highlight-color": "#F0C96E"
+    }
+  }

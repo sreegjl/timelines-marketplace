@@ -1,0 +1,28 @@
+  {
+    "name": "Dinosaurs - Kentrosaurus",
+    "type": "dark",
+    "collection": "Dinosaurs",
+    "author": "Lisa",
+    "font": {
+      "family": "Literata",
+      "cssUrl": "https://fonts.googleapis.com/css2?family=Literata:opsz,wght@7..72,200..900&display=swap"
+    },
+    "colors": {
+      "text-primary": "#ECE7D8",
+      "ui-muted": "#9E9484",
+      "accent-color": "#8F6F3F",
+      "surface-active": "#A98752",
+      "surface": "#302A22",
+      "inset-bg": "#221E18",
+      "app-bg": "#15120F",
+      "text-muted": "#BAAF9D",
+      "text-subtle": "#897E70",
+      "era-label": "#FDFBF8",
+      "selection-color": "#82C0EB",
+      "link-color": "#D0A05B",
+      "light-bg": "#3F372D",
+      "border-color": "#5D5245",
+      "secondary-text": "#897E70",
+      "highlight-color": "#DDBE57"
+    }
+  }

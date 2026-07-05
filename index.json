@@ -1878,7 +1878,6 @@
       "author": "Lisa",
       "collection": "Nature",
       "type": "light",
-      "new": true,
       "description": "",
       "paths": {
         "theme": "themes/nature-bluetonguedskink/nature-bluetonguedskink.json",
@@ -1891,7 +1890,6 @@
       "author": "Lisa",
       "collection": "Nature",
       "type": "dark",
-      "new": true,
       "description": "",
       "paths": {
         "theme": "themes/nature-crocodilemarsh/nature-crocodilemarsh.json",
@@ -1904,7 +1902,6 @@
       "author": "Lisa",
       "collection": "Nature",
       "type": "light",
-      "new": true,
       "description": "",
       "paths": {
         "theme": "themes/nature-desertgecko/nature-desertgecko.json",
@@ -1917,7 +1914,6 @@
       "author": "Lisa",
       "collection": "Nature",
       "type": "light",
-      "new": true,
       "description": "",
       "paths": {
         "theme": "themes/nature-emeraldiguana/nature-emeraldiguana.json",
@@ -1930,7 +1926,6 @@
       "author": "Lisa",
       "collection": "Nature",
       "type": "dark",
-      "new": true,
       "description": "",
       "paths": {
         "theme": "themes/nature-kingcobra/nature-kingcobra.json",
@@ -1943,7 +1938,6 @@
       "author": "Lisa",
       "collection": "Nature",
       "type": "light",
-      "new": true,
       "description": "",
       "paths": {
         "theme": "themes/nature-pantherchameleon/nature-pantherchameleon.json",
@@ -1956,7 +1950,6 @@
       "author": "Lisa",
       "collection": "Sports",
       "type": "light",
-      "new": true,
       "description": "",
       "paths": {
         "theme": "themes/sports-icehockey/sports-icehockey.json",
@@ -1969,7 +1962,6 @@
       "author": "Lisa",
       "collection": "Sports",
       "type": "light",
-      "new": true,
       "description": "",
       "paths": {
         "theme": "themes/sports-tennis/sports-tennis.json",
@@ -1982,11 +1974,244 @@
       "author": "Lisa",
       "collection": "Sports",
       "type": "light",
-      "new": true,
       "description": "",
       "paths": {
         "theme": "themes/sports-worldcup/sports-worldcup.json",
         "thumbnail": "themes/sports-worldcup/thumbnail.png"
+      }
+    },
+    {
+      "id": "dinosaurs-allosaurus",
+      "name": "Dinosaurs - Allosaurus",
+      "author": "Lisa",
+      "collection": "Dinosaurs",
+      "type": "dark",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/dinosaurs-allosaurus/dinosaurs-allosaurus.json",
+        "thumbnail": "themes/dinosaurs-allosaurus/thumbnail.png"
+      }
+    },
+    {
+      "id": "dinosaurs-ankylosaurus",
+      "name": "Dinosaurs - Ankylosaurus",
+      "author": "Lisa",
+      "collection": "Dinosaurs",
+      "type": "dark",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/dinosaurs-ankylosaurus/dinosaurs-ankylosaurus.json",
+        "thumbnail": "themes/dinosaurs-ankylosaurus/thumbnail.png"
+      }
+    },
+    {
+      "id": "dinosaurs-brachiosaurus",
+      "name": "Dinosaurs - Brachiosaurus",
+      "author": "Lisa",
+      "collection": "Dinosaurs",
+      "type": "light",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/dinosaurs-brachiosaurus/dinosaurs-brachiosaurus.json",
+        "thumbnail": "themes/dinosaurs-brachiosaurus/thumbnail.png"
+      }
+    },
+    {
+      "id": "dinosaurs-carnotaurus",
+      "name": "Dinosaurs - Carnotaurus",
+      "author": "Lisa",
+      "collection": "Dinosaurs",
+      "type": "dark",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/dinosaurs-carnotaurus/dinosaurs-carnotaurus.json",
+        "thumbnail": "themes/dinosaurs-carnotaurus/thumbnail.png"
+      }
+    },
+    {
+      "id": "dinosaurs-deinonychus",
+      "name": "Dinosaurs - Deinonychus",
+      "author": "Lisa",
+      "collection": "Dinosaurs",
+      "type": "dark",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/dinosaurs-deinonychus/dinosaurs-deinonychus.json",
+        "thumbnail": "themes/dinosaurs-deinonychus/thumbnail.png"
+      }
+    },
+    {
+      "id": "dinosaurs-dilophosaurus",
+      "name": "Dinosaurs - Dilophosaurus",
+      "author": "Lisa",
+      "collection": "Dinosaurs",
+      "type": "light",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/dinosaurs-dilophosaurus/dinosaurs-dilophosaurus.json",
+        "thumbnail": "themes/dinosaurs-dilophosaurus/thumbnail.png"
+      }
+    },
+    {
+      "id": "dinosaurs-diplodocus",
+      "name": "Dinosaurs - Diplodocus",
+      "author": "Lisa",
+      "collection": "Dinosaurs",
+      "type": "light",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/dinosaurs-diplodocus/dinosaurs-diplodocus.json",
+        "thumbnail": "themes/dinosaurs-diplodocus/thumbnail.png"
+      }
+    },
+    {
+      "id": "dinosaurs-iguanodon",
+      "name": "Dinosaurs - Iguanodon",
+      "author": "Lisa",
+      "collection": "Dinosaurs",
+      "type": "light",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/dinosaurs-iguanodon/dinosaurs-iguanodon.json",
+        "thumbnail": "themes/dinosaurs-iguanodon/thumbnail.png"
+      }
+    },
+    {
+      "id": "dinosaurs-kentrosaurus",
+      "name": "Dinosaurs - Kentrosaurus",
+      "author": "Lisa",
+      "collection": "Dinosaurs",
+      "type": "dark",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/dinosaurs-kentrosaurus/dinosaurs-kentrosaurus.json",
+        "thumbnail": "themes/dinosaurs-kentrosaurus/thumbnail.png"
+      }
+    },
+    {
+      "id": "dinosaurs-pachycephalosaurus",
+      "name": "Dinosaurs - Pachycephalosaurus",
+      "author": "Lisa",
+      "collection": "Dinosaurs",
+      "type": "light",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/dinosaurs-pachycephalosaurus/dinosaurs-pachycephalosaurus.json",
+        "thumbnail": "themes/dinosaurs-pachycephalosaurus/thumbnail.png"
+      }
+    },
+    {
+      "id": "dinosaurs-parasaurolophus",
+      "name": "Dinosaurs - Parasaurolophus",
+      "author": "Lisa",
+      "collection": "Dinosaurs",
+      "type": "light",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/dinosaurs-parasaurolophus/dinosaurs-parasaurolophus.json",
+        "thumbnail": "themes/dinosaurs-parasaurolophus/thumbnail.png"
+      }
+    },
+    {
+      "id": "dinosaurs-spinosaurus",
+      "name": "Dinosaurs - Spinosaurus",
+      "author": "Lisa",
+      "collection": "Dinosaurs",
+      "type": "dark",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/dinosaurs-spinosaurus/dinosaurs-spinosaurus.json",
+        "thumbnail": "themes/dinosaurs-spinosaurus/thumbnail.png"
+      }
+    },
+    {
+      "id": "dinosaurs-stegosaurus",
+      "name": "Dinosaurs - Stegosaurus",
+      "author": "Lisa",
+      "collection": "Dinosaurs",
+      "type": "light",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/dinosaurs-stegosaurus/dinosaurs-stegosaurus.json",
+        "thumbnail": "themes/dinosaurs-stegosaurus/thumbnail.png"
+      }
+    },
+    {
+      "id": "dinosaurs-styracosaurus",
+      "name": "Dinosaurs - Styracosaurus",
+      "author": "Lisa",
+      "collection": "Dinosaurs",
+      "type": "light",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/dinosaurs-styracosaurus/dinosaurs-styracosaurus.json",
+        "thumbnail": "themes/dinosaurs-styracosaurus/thumbnail.png"
+      }
+    },
+    {
+      "id": "dinosaurs-therizinosaurus",
+      "name": "Dinosaurs - Therizinosaurus",
+      "author": "Lisa",
+      "collection": "Dinosaurs",
+      "type": "dark",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/dinosaurs-therizinosaurus/dinosaurs-therizinosaurus.json",
+        "thumbnail": "themes/dinosaurs-therizinosaurus/thumbnail.png"
+      }
+    },
+    {
+      "id": "dinosaurs-triceratops",
+      "name": "Dinosaurs - Triceratops",
+      "author": "Lisa",
+      "collection": "Dinosaurs",
+      "type": "light",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/dinosaurs-triceratops/dinosaurs-triceratops.json",
+        "thumbnail": "themes/dinosaurs-triceratops/thumbnail.png"
+      }
+    },
+    {
+      "id": "dinosaurs-tyrannosaurusrex",
+      "name": "Dinosaurs - Tyrannosaurus Rex",
+      "author": "Lisa",
+      "collection": "Dinosaurs",
+      "type": "dark",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/dinosaurs-tyrannosaurusrex/dinosaurs-tyrannosaurusrex.json",
+        "thumbnail": "themes/dinosaurs-tyrannosaurusrex/thumbnail.png"
+      }
+    },
+    {
+      "id": "dinosaurs-velociraptor",
+      "name": "Dinosaurs - Velociraptor",
+      "author": "Lisa",
+      "collection": "Dinosaurs",
+      "type": "dark",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/dinosaurs-velociraptor/dinosaurs-velociraptor.json",
+        "thumbnail": "themes/dinosaurs-velociraptor/thumbnail.png"
       }
     }
   ]

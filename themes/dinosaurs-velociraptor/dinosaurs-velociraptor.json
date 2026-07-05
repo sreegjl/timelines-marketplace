@@ -1,0 +1,28 @@
+  {
+    "name": "Dinosaurs - Velociraptor",
+    "type": "dark",
+    "collection": "Dinosaurs",
+    "author": "Lisa",
+    "font": {
+      "family": "Space Grotesk",
+      "cssUrl": "https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap"
+    },
+    "colors": {
+      "text-primary": "#E8F1E4",
+      "ui-muted": "#91A087",
+      "accent-color": "#4F7A56",
+      "surface-active": "#5E9066",
+      "surface": "#243126",
+      "inset-bg": "#1A241B",
+      "app-bg": "#111813",
+      "text-muted": "#A5B4A0",
+      "text-subtle": "#7E8B7A",
+      "era-label": "#F3F7F2",
+      "selection-color": "#66B7E8",
+      "link-color": "#82C27D",
+      "light-bg": "#334237",
+      "border-color": "#46574B",
+      "secondary-text": "#7E8B7A",
+      "highlight-color": "#C5B44D"
+    }
+  }

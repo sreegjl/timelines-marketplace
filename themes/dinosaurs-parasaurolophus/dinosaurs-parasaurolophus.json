@@ -1,0 +1,28 @@
+ {
+    "name": "Dinosaurs - Parasaurolophus",
+    "type": "light",
+    "collection": "Dinosaurs",
+    "author": "Lisa",
+    "font": {
+      "family": "Libre Baskerville",
+      "cssUrl": "https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&display=swap"
+    },
+    "colors": {
+      "text-primary": "#40372E",
+      "ui-muted": "#8F8577",
+      "accent-color": "#D28E49",
+      "surface-active": "#DEA35E",
+      "surface": "#EFE5D5",
+      "inset-bg": "#FBF6EC",
+      "app-bg": "#FEFCF7",
+      "text-muted": "#8C867E",
+      "text-subtle": "#78736D",
+      "era-label": "#191919",
+      "selection-color": "#95CBF6",
+      "link-color": "#B66C34",
+      "light-bg": "#F5EEE2",
+      "border-color": "#DCCFBE",
+      "secondary-text": "#78736D",
+      "highlight-color": "#EBCB6B"
+    }
+  }

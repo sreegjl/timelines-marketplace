@@ -1,0 +1,28 @@
+ {
+    "name": "Dinosaurs - Allosaurus",
+    "type": "dark",
+    "collection": "Dinosaurs",
+    "author": "Lisa",
+    "font": {
+      "family": "Alegreya",
+      "cssUrl": "https://fonts.googleapis.com/css2?family=Alegreya:wght@400..900&display=swap"
+    },
+    "colors": {
+      "text-primary": "#F2E8D6",
+      "ui-muted": "#A19482",
+      "accent-color": "#9A5137",
+      "surface-active": "#B06144",
+      "surface": "#312620",
+      "inset-bg": "#241C18",
+      "app-bg": "#171210",
+      "text-muted": "#B7A995",
+      "text-subtle": "#8B7D6C",
+      "era-label": "#FAF6F0",
+      "selection-color": "#C27C52",
+      "link-color": "#DA8A58",
+      "light-bg": "#3E312A",
+      "border-color": "#5C4A40",
+      "secondary-text": "#8B7D6C",
+      "highlight-color": "#E3BA62"
+    }
+  }

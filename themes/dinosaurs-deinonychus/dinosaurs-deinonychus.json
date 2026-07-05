@@ -1,0 +1,28 @@
+  {
+    "name": "Dinosaurs - Deinonychus",
+    "type": "dark",
+    "collection": "Dinosaurs",
+    "author": "Lisa",
+    "font": {
+      "family": "Outfit",
+      "cssUrl": "https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap"
+    },
+    "colors": {
+      "text-primary": "#EEF1EA",
+      "ui-muted": "#97A096",
+      "accent-color": "#546E57",
+      "surface-active": "#67856C",
+      "surface": "#232826",
+      "inset-bg": "#181D1B",
+      "app-bg": "#0F1312",
+      "text-muted": "#B0B8AF",
+      "text-subtle": "#7F8880",
+      "era-label": "#FCFCFC",
+      "selection-color": "#62B8E6",
+      "link-color": "#7AC88E",
+      "light-bg": "#313936",
+      "border-color": "#47504B",
+      "secondary-text": "#7F8880",
+      "highlight-color": "#D8BF58"
+    }
+  }

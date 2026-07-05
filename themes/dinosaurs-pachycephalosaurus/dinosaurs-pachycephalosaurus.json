@@ -1,0 +1,28 @@
+  {
+    "name": "Dinosaurs - Pachycephalosaurus",
+    "type": "light",
+    "collection": "Dinosaurs",
+    "author": "Lisa",
+    "font": {
+      "family": "Domine",
+      "cssUrl": "https://fonts.googleapis.com/css2?family=Domine:wght@400..700&display=swap"
+    },
+    "colors": {
+      "text-primary": "#3F362E",
+      "ui-muted": "#8E8375",
+      "accent-color": "#A87B54",
+      "surface-active": "#BF936B",
+      "surface": "#EFE6D8",
+      "inset-bg": "#FCF8F0",
+      "app-bg": "#FFFDF9",
+      "text-muted": "#8C857D",
+      "text-subtle": "#766F68",
+      "era-label": "#191919",
+      "selection-color": "#9ED1F5",
+      "link-color": "#8B6038",
+      "light-bg": "#F6EFE5",
+      "border-color": "#DDD1C1",
+      "secondary-text": "#766F68",
+      "highlight-color": "#EBCB72"
+    }
+  }

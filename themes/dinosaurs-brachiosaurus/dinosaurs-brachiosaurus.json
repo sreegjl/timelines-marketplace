@@ -1,0 +1,28 @@
+  {
+    "name": "Dinosaurs - Brachiosaurus",
+    "type": "light",
+    "collection": "Dinosaurs",
+    "author": "Lisa",
+    "font": {
+      "family": "Lora",
+      "cssUrl": "https://fonts.googleapis.com/css2?family=Lora:wght@400..700&display=swap"
+    },
+    "colors": {
+      "text-primary": "#3A352E",
+      "ui-muted": "#8C857B",
+      "accent-color": "#7BAF8E",
+      "surface-active": "#91C3A2",
+      "surface": "#E5E8DE",
+      "inset-bg": "#F6F8F2",
+      "app-bg": "#FCFCF8",
+      "text-muted": "#88867F",
+      "text-subtle": "#74716C",
+      "era-label": "#1A1A1A",
+      "selection-color": "#A2D7F7",
+      "link-color": "#5F9A74",
+      "light-bg": "#EEF1E8",
+      "border-color": "#CFD5C9",
+      "secondary-text": "#74716C",
+      "highlight-color": "#E9D57A"
+    }
+  }

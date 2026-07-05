@@ -1,0 +1,28 @@
+ {
+    "name": "Dinosaurs - Triceratops",
+    "type": "light",
+    "collection": "Dinosaurs",
+    "author": "Lisa",
+    "font": {
+      "family": "Merriweather",
+      "cssUrl": "https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700;900&display=swap"
+    },
+    "colors": {
+      "text-primary": "#3F3428",
+      "ui-muted": "#8E816E",
+      "accent-color": "#8AA36B",
+      "surface-active": "#A3BE7A",
+      "surface": "#E8E0CC",
+      "inset-bg": "#F8F4E7",
+      "app-bg": "#FCF9EF",
+      "text-muted": "#91897B",
+      "text-subtle": "#7E766A",
+      "era-label": "#1A1A1A",
+      "selection-color": "#8EC7F2",
+      "link-color": "#6E8B4A",
+      "light-bg": "#F0E9DA",
+      "border-color": "#D4C9B4",
+      "secondary-text": "#7E766A",
+      "highlight-color": "#E2D06E"
+    }
+  }

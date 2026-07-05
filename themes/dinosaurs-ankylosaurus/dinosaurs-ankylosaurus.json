@@ -1,0 +1,28 @@
+ {
+    "name": "Dinosaurs - Ankylosaurus",
+    "type": "dark",
+    "collection": "Dinosaurs",
+    "author": "Lisa",
+    "font": {
+      "family": "Bitter",
+      "cssUrl": "https://fonts.googleapis.com/css2?family=Bitter:wght@100..900&display=swap"
+    },
+    "colors": {
+      "text-primary": "#E8DFC9",
+      "ui-muted": "#9D917B",
+      "accent-color": "#8B6B4A",
+      "surface-active": "#A07B55",
+      "surface": "#332A23",
+      "inset-bg": "#241D18",
+      "app-bg": "#181310",
+      "text-muted": "#B6A890",
+      "text-subtle": "#887C6B",
+      "era-label": "#FAF8F5",
+      "selection-color": "#79B7E8",
+      "link-color": "#C68D52",
+      "light-bg": "#40352D",
+      "border-color": "#5A4A3E",
+      "secondary-text": "#887C6B",
+      "highlight-color": "#D4B75E"
+    }
+  }

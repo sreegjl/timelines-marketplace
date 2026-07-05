@@ -1,0 +1,28 @@
+ {
+    "name": "Dinosaurs - Tyrannosaurus Rex",
+    "type": "dark",
+    "collection": "Dinosaurs",
+    "author": "Lisa",
+    "font": {
+      "family": "Cinzel",
+      "cssUrl": "https://fonts.googleapis.com/css2?family=Cinzel:wght@400..900&display=swap"
+    },
+    "colors": {
+      "text-primary": "#F5E6C8",
+      "ui-muted": "#9E8F77",
+      "accent-color": "#8C3B2A",
+      "surface-active": "#A44935",
+      "surface": "#2E241E",
+      "inset-bg": "#221A15",
+      "app-bg": "#18120F",
+      "text-muted": "#B8A68A",
+      "text-subtle": "#8A7B68",
+      "era-label": "#F7F1E8",
+      "selection-color": "#B86A3D",
+      "link-color": "#D97C41",
+      "light-bg": "#3A2F27",
+      "border-color": "#59463A",
+      "secondary-text": "#8A7B68",
+      "highlight-color": "#D9B44A"
+    }
+  }

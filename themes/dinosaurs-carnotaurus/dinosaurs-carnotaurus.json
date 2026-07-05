@@ -1,0 +1,28 @@
+  {
+    "name": "Dinosaurs - Carnotaurus",
+    "type": "dark",
+    "collection": "Dinosaurs",
+    "author": "Lisa",
+    "font": {
+      "family": "Bree Serif",
+      "cssUrl": "https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap"
+    },
+    "colors": {
+      "text-primary": "#F4E7D2",
+      "ui-muted": "#A28D79",
+      "accent-color": "#A22F2F",
+      "surface-active": "#BD4343",
+      "surface": "#2A1F1D",
+      "inset-bg": "#1D1615",
+      "app-bg": "#120D0D",
+      "text-muted": "#C0A78F",
+      "text-subtle": "#8A7467",
+      "era-label": "#FFF7F4",
+      "selection-color": "#BF7C4B",
+      "link-color": "#E06252",
+      "light-bg": "#392A28",
+      "border-color": "#584341",
+      "secondary-text": "#8A7467",
+      "highlight-color": "#E5B85D"
+    }
+  }

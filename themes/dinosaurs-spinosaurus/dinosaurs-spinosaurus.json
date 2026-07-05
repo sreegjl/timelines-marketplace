@@ -1,0 +1,28 @@
+  {
+    "name": "Dinosaurs - Spinosaurus",
+    "type": "dark",
+    "collection": "Dinosaurs",
+    "author": "Lisa",
+    "font": {
+      "family": "Spectral",
+      "cssUrl": "https://fonts.googleapis.com/css2?family=Spectral:wght@200;300;400;500;600;700;800&display=swap"
+    },
+    "colors": {
+      "text-primary": "#DDEDEA",
+      "ui-muted": "#8AA3A0",
+      "accent-color": "#2F7A8A",
+      "surface-active": "#3F91A3",
+      "surface": "#1F3035",
+      "inset-bg": "#17252A",
+      "app-bg": "#10181C",
+      "text-muted": "#A5C0BC",
+      "text-subtle": "#7A9290",
+      "era-label": "#F5FBFC",
+      "selection-color": "#5CB8F0",
+      "link-color": "#67C4D8",
+      "light-bg": "#2C4349",
+      "border-color": "#426068",
+      "secondary-text": "#7A9290",
+      "highlight-color": "#D8C65A"
+    }
+  }

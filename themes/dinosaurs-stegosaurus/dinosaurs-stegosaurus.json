@@ -1,0 +1,28 @@
+ {
+    "name": "Dinosaurs - Stegosaurus",
+    "type": "light",
+    "collection": "Dinosaurs",
+    "author": "Lisa",
+    "font": {
+      "family": "Cormorant Garamond",
+      "cssUrl": "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;500;600;700&display=swap"
+    },
+    "colors": {
+      "text-primary": "#2F3A2A",
+      "ui-muted": "#7A8770",
+      "accent-color": "#C97A42",
+      "surface-active": "#D58B52",
+      "surface": "#E4E7D8",
+      "inset-bg": "#F4F8EC",
+      "app-bg": "#FAFCF5",
+      "text-muted": "#7D8779",
+      "text-subtle": "#687061",
+      "era-label": "#202020",
+      "selection-color": "#A7D6F7",
+      "link-color": "#B5622E",
+      "light-bg": "#EDF1E4",
+      "border-color": "#C8D0BE",
+      "secondary-text": "#687061",
+      "highlight-color": "#E9C95D"
+    }
+  }
