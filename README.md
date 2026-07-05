@@ -1,4 +1,4 @@
-![Banner](docs/banner.png)
+![Banner](docs/banner-light.png)
 
 ## Adding a theme
 
