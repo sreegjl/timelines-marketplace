@@ -2202,11 +2202,36 @@
       "author": "Lisa",
       "collection": "Nature",
       "type": "light",
-      "new": true,
       "description": "",
       "paths": {
         "theme": "themes/nature-emeraldscales/nature-emeraldscales.json",
         "thumbnail": "themes/nature-emeraldscales/thumbnail.png"
+      }
+    },
+    {
+      "id": "japan-bonsaigarden",
+      "name": "Bonsai Garden",
+      "author": "Lisa",
+      "collection": "Japan",
+      "type": "light",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/japan-bonsaigarden/japan-bonsaigarden.json",
+        "thumbnail": "themes/japan-bonsaigarden/thumbnail.png"
+      }
+    },
+    {
+      "id": "japan-kawaiisakura",
+      "name": "Kawaii Sakura",
+      "author": "Lisa",
+      "collection": "Japan",
+      "type": "light",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/japan-kawaiisakura/japan-kawaiisakura.json",
+        "thumbnail": "themes/japan-kawaiisakura/thumbnail.png"
       }
     }
   ]

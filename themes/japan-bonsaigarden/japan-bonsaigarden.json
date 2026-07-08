@@ -1,0 +1,28 @@
+{
+  "name": "Bonsai Garden",
+  "type": "light",
+  "collection": "Japan",
+  "author": "Lisa",
+  "font": {
+    "family": "Zen Maru Gothic",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Zen+Maru+Gothic:wght@300;400;500;700;900&display=swap"
+  },
+  "colors": {
+    "text-primary": "#2F3B2F",
+    "ui-muted": "#7A8875",
+    "accent-color": "#7FA86C",
+    "surface-active": "#C9DDC1",
+    "surface": "#EEF2E8",
+    "inset-bg": "#F8FAF4",
+    "app-bg": "#FCFDF9",
+    "text-muted": "#73806F",
+    "text-subtle": "#93A08D",
+    "era-label": "#243024",
+    "selection-color": "#A8D6B0",
+    "link-color": "#4E7A47",
+    "light-bg": "#F4F6EF",
+    "border-color": "#D3DCCB",
+    "secondary-text": "#677363",
+    "highlight-color": "#DCCB8F"
+  }
+}

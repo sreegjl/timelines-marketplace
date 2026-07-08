@@ -1,0 +1,28 @@
+{
+  "name": "Kawaii Sakura",
+  "type": "light",
+  "collection": "Japan",
+  "author": "Lisa",
+  "font": {
+    "family": "M PLUS Rounded 1c",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=M+PLUS+Rounded+1c:wght@300;400;500;700;800&display=swap"
+  },
+  "colors": {
+    "text-primary": "#5B4A56",
+    "ui-muted": "#B69BAA",
+    "accent-color": "#FFB7D5",
+    "surface-active": "#FFD6E7",
+    "surface": "#FFF0F6",
+    "inset-bg": "#FFF8FC",
+    "app-bg": "#FFFDFE",
+    "text-muted": "#9E8795",
+    "text-subtle": "#B39AA8",
+    "era-label": "#4B3A47",
+    "selection-color": "#A8D8FF",
+    "link-color": "#FF6FAF",
+    "light-bg": "#FFF6FA",
+    "border-color": "#F4C9DC",
+    "secondary-text": "#8D7885",
+    "highlight-color": "#FFE88A"
+  }
+}
