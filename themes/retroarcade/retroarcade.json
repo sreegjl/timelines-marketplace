@@ -1,0 +1,28 @@
+{
+  "name": "Retro Arcade",
+  "type": "dark",
+  "collection": "Arcade Timelines",
+  "author": "sreegjl",
+  "font": {
+    "family": "Silkscreen",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Silkscreen:wght@400;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#ffe36b",
+    "ui-muted": "#1ea0ff",
+    "accent-color": "#1a2144",
+    "surface-active": "#1a2144",
+    "surface": "#020214",
+    "inset-bg": "#01010a",
+    "app-bg": "#000000",
+    "text-muted": "#b7bcc1",
+    "text-subtle": "#8e9398",
+    "era-label": "#1e2125",
+    "selection-color": "#5282db",
+    "link-color": "#ff4aa8",
+    "light-bg": "#2a2d31",
+    "border-color": "#243cff",
+    "secondary-text": "#b0b5ba",
+    "highlight-color": "#6a5a00"
+  }
+}

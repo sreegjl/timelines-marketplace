@@ -2214,7 +2214,6 @@
       "author": "Lisa",
       "collection": "Japan",
       "type": "light",
-      "new": true,
       "description": "",
       "paths": {
         "theme": "themes/japan-bonsaigarden/japan-bonsaigarden.json",
@@ -2227,11 +2226,23 @@
       "author": "Lisa",
       "collection": "Japan",
       "type": "light",
-      "new": true,
       "description": "",
       "paths": {
         "theme": "themes/japan-kawaiisakura/japan-kawaiisakura.json",
         "thumbnail": "themes/japan-kawaiisakura/thumbnail.png"
+      }
+    },
+    {
+      "id": "retroarcade",
+      "name": "Retro Arcade",
+      "author": "sreegjl",
+      "collection": "Arcade Timelines",
+      "type": "dark",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/retroarcade/retroarcade.json",
+        "thumbnail": "themes/retroarcade/thumbnail.png"
       }
     }
   ]
