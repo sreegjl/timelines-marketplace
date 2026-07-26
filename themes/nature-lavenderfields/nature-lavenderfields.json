@@ -1,0 +1,28 @@
+{
+  "name": "Lavender Fields",
+  "type": "light",
+  "collection": "Nature",
+  "author": "Lisa",
+  "font": {
+    "family": "Marcellus",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Marcellus&display=swap"
+  },
+  "colors": {
+    "text-primary": "#41364C",
+    "ui-muted": "#82788E",
+    "accent-color": "#BFA8E3",
+    "surface-active": "#D7C8F0",
+    "surface": "#F2ECFA",
+    "inset-bg": "#FCFAFE",
+    "app-bg": "#FFFEFF",
+    "text-muted": "#948B9D",
+    "text-subtle": "#7E7587",
+    "era-label": "#2A2430",
+    "selection-color": "#A7D6FF",
+    "link-color": "#7B67C8",
+    "light-bg": "#F7F4FC",
+    "border-color": "#DDD5EA",
+    "secondary-text": "#7E7587",
+    "highlight-color": "#F2DD7A"
+  }
+}

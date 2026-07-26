@@ -1,0 +1,28 @@
+{
+  "name": "Rose Garden",
+  "type": "light",
+  "collection": "Nature",
+  "author": "Lisa",
+  "font": {
+    "family": "Playfair Display",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#4A2F37",
+    "ui-muted": "#8F737B",
+    "accent-color": "#D88CA6",
+    "surface-active": "#E6B3C4",
+    "surface": "#F7E4EA",
+    "inset-bg": "#FFF8FA",
+    "app-bg": "#FFFDFE",
+    "text-muted": "#9B8A90",
+    "text-subtle": "#87767D",
+    "era-label": "#2D1E22",
+    "selection-color": "#9FD5FF",
+    "link-color": "#B64D6B",
+    "light-bg": "#FBF0F4",
+    "border-color": "#E5CCD6",
+    "secondary-text": "#87767D",
+    "highlight-color": "#F7D97B"
+  }
+}

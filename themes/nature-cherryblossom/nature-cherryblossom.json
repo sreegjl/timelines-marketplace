@@ -1,0 +1,28 @@
+{
+  "name": "Cherry Blossom",
+  "type": "light",
+  "collection": "Nature",
+  "author": "Lisa",
+  "font": {
+    "family": "Lora",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Lora:wght@400;500;600;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#4A3740",
+    "ui-muted": "#8F7A83",
+    "accent-color": "#F3B7CB",
+    "surface-active": "#F8CCDB",
+    "surface": "#FDF0F5",
+    "inset-bg": "#FFF9FB",
+    "app-bg": "#FFFDFE",
+    "text-muted": "#9C8E95",
+    "text-subtle": "#877880",
+    "era-label": "#2E2227",
+    "selection-color": "#A6D8FF",
+    "link-color": "#D26A91",
+    "light-bg": "#FEF5F8",
+    "border-color": "#EFD8E2",
+    "secondary-text": "#877880",
+    "highlight-color": "#F7E08A"
+  }
+}

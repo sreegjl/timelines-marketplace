@@ -1,0 +1,28 @@
+{
+  "name": "Blue Hydrangea",
+  "type": "light",
+  "collection": "Nature",
+  "author": "Lisa",
+  "font": {
+    "family": "Libre Baskerville",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#334254",
+    "ui-muted": "#76889A",
+    "accent-color": "#9EC8E8",
+    "surface-active": "#BCD9EF",
+    "surface": "#EDF6FC",
+    "inset-bg": "#FAFDFE",
+    "app-bg": "#FEFFFF",
+    "text-muted": "#8B99A7",
+    "text-subtle": "#73818E",
+    "era-label": "#202B36",
+    "selection-color": "#8ED4FF",
+    "link-color": "#4D87C7",
+    "light-bg": "#F4FAFD",
+    "border-color": "#D4E3EF",
+    "secondary-text": "#73818E",
+    "highlight-color": "#F4D976"
+  }
+}

@@ -2238,11 +2238,101 @@
       "author": "sreegjl",
       "collection": "Arcade Timelines",
       "type": "dark",
-      "new": true,
       "description": "",
       "paths": {
         "theme": "themes/retroarcade/retroarcade.json",
         "thumbnail": "themes/retroarcade/thumbnail.png"
+      }
+    },
+    {
+      "id": "nature-bluehydrangea",
+      "name": "Blue Hydrangea",
+      "author": "Lisa",
+      "collection": "Nature",
+      "type": "light",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/nature-bluehydrangea/nature-bluehydrangea.json",
+        "thumbnail": "themes/nature-bluehydrangea/thumbnail.png"
+      }
+    },
+    {
+      "id": "nature-cherryblossom",
+      "name": "Cherry Blossom",
+      "author": "Lisa",
+      "collection": "Nature",
+      "type": "light",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/nature-cherryblossom/nature-cherryblossom.json",
+        "thumbnail": "themes/nature-cherryblossom/thumbnail.png"
+      }
+    },
+    {
+      "id": "nature-lavenderfields",
+      "name": "Lavender Fields",
+      "author": "Lisa",
+      "collection": "Nature",
+      "type": "light",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/nature-lavenderfields/nature-lavenderfields.json",
+        "thumbnail": "themes/nature-lavenderfields/thumbnail.png"
+      }
+    },
+    {
+      "id": "nature-rosegarden",
+      "name": "Rose Garden",
+      "author": "Lisa",
+      "collection": "Nature",
+      "type": "light",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/nature-rosegarden/nature-rosegarden.json",
+        "thumbnail": "themes/nature-rosegarden/thumbnail.png"
+      }
+    },
+    {
+      "id": "nature-sunflowermeadow",
+      "name": "Sunflower Meadow",
+      "author": "Lisa",
+      "collection": "Nature",
+      "type": "light",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/nature-sunflowermeadow/nature-sunflowermeadow.json",
+        "thumbnail": "themes/nature-sunflowermeadow/thumbnail.png"
+      }
+    },
+    {
+      "id": "nature-whitemagnolia",
+      "name": "White Magnolia",
+      "author": "Lisa",
+      "collection": "Nature",
+      "type": "light",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/nature-whitemagnolia/nature-whitemagnolia.json",
+        "thumbnail": "themes/nature-whitemagnolia/thumbnail.png"
+      }
+    },
+    {
+      "id": "nature-wildflowerbloom",
+      "name": "Wildflower Bloom",
+      "author": "Lisa",
+      "collection": "Nature",
+      "type": "light",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/nature-wildflowerbloom/nature-wildflowerbloom.json",
+        "thumbnail": "themes/nature-wildflowerbloom/thumbnail.png"
       }
     }
   ]

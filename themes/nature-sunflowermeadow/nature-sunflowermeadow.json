@@ -1,0 +1,28 @@
+{
+  "name": "Sunflower Meadow",
+  "type": "light",
+  "collection": "Nature",
+  "author": "Lisa",
+  "font": {
+    "family": "Bitter",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Bitter:wght@300;400;500;600;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#4A3A21",
+    "ui-muted": "#907F63",
+    "accent-color": "#F0C75E",
+    "surface-active": "#F6D98A",
+    "surface": "#FAF0D4",
+    "inset-bg": "#FFFBEF",
+    "app-bg": "#FFFDF8",
+    "text-muted": "#9A8F7E",
+    "text-subtle": "#857A69",
+    "era-label": "#2F2615",
+    "selection-color": "#92D2FF",
+    "link-color": "#C6841E",
+    "light-bg": "#FCF5E4",
+    "border-color": "#E8D8B6",
+    "secondary-text": "#857A69",
+    "highlight-color": "#FFD84A"
+  }
+}

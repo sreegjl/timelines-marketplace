@@ -1,0 +1,28 @@
+{
+  "name": "White Magnolia",
+  "type": "light",
+  "collection": "Nature",
+  "author": "Lisa",
+  "font": {
+    "family": "EB Garamond",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=EB+Garamond:wght@400;500;600;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#433C36",
+    "ui-muted": "#8C837B",
+    "accent-color": "#D8D2C7",
+    "surface-active": "#E8E3D8",
+    "surface": "#F7F4EF",
+    "inset-bg": "#FDFCF9",
+    "app-bg": "#FFFEFC",
+    "text-muted": "#968F88",
+    "text-subtle": "#817A73",
+    "era-label": "#2B2723",
+    "selection-color": "#A4D6FF",
+    "link-color": "#8C6A52",
+    "light-bg": "#FBF9F5",
+    "border-color": "#E5DED3",
+    "secondary-text": "#817A73",
+    "highlight-color": "#F3D97F"
+  }
+}

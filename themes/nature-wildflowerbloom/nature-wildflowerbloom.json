@@ -1,0 +1,28 @@
+{
+  "name": "Wildflower Bloom",
+  "type": "light",
+  "collection": "Nature",
+  "author": "Lisa",
+  "font": {
+    "family": "Cormorant Garamond",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300;400;500;600;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#4B3A46",
+    "ui-muted": "#8C7A84",
+    "accent-color": "#DDA8C7",
+    "surface-active": "#E8BED8",
+    "surface": "#F5E4EE",
+    "inset-bg": "#FFF9FC",
+    "app-bg": "#FFFDFE",
+    "text-muted": "#9C8E98",
+    "text-subtle": "#877985",
+    "era-label": "#2F2430",
+    "selection-color": "#A9D8FF",
+    "link-color": "#B85F7C",
+    "light-bg": "#FAF0F6",
+    "border-color": "#E4D0DD",
+    "secondary-text": "#877985",
+    "highlight-color": "#F6D88B"
+  }
+}
