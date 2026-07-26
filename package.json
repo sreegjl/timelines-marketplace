@@ -1,6 +1,9 @@
 {
   "name": "timelines-marketplace",
   "version": "1.0.0",
+  "scripts": {
+    "test": "node --test scripts/*.test.js"
+  },
   "devDependencies": {
     "playwright": "^1.61.0"
   }

@@ -2,6 +2,7 @@ const { chromium } = require("playwright");
 const fs = require("fs");
 const path = require("path");
 const { renderThumbnail, generatePreview } = require("./thumbnail");
+const { decodeJsonBuffer } = require("./json-encoding");
 
 const ROOT = path.resolve(__dirname, "..");
 const INBOX_DIR = path.join(ROOT, "inbox");
@@ -61,8 +62,9 @@ async function main() {
   for (const file of files) {
     const inboxPath = path.join(INBOX_DIR, file);
     let theme;
+    let encoding;
     try {
-      theme = JSON.parse(fs.readFileSync(inboxPath, "utf8"));
+      ({ value: theme, encoding } = decodeJsonBuffer(fs.readFileSync(inboxPath)));
       validate(theme, file);
     } catch (err) {
       console.error(`skipping ${file}: ${err.message}`);
@@ -75,7 +77,10 @@ async function main() {
     const thumbFile = path.join(themeDir, "thumbnail.png");
 
     fs.mkdirSync(themeDir, { recursive: true });
-    fs.copyFileSync(inboxPath, themeFile);
+    fs.writeFileSync(themeFile, JSON.stringify(theme, null, 2) + "\n", "utf8");
+    if (encoding !== "UTF-8") {
+      console.log(`  converted ${encoding} → UTF-8`);
+    }
 
     await renderThumbnail(theme, thumbFile, page);
     console.log(`  thumbnail → themes/${id}/thumbnail.png`);
