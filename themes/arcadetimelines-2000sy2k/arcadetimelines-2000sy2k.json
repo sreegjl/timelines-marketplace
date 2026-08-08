@@ -1,0 +1,28 @@
+{
+  "name": "2000s Y2K",
+  "type": "dark",
+  "collection": "Arcade Timelines",
+  "author": "Lisa",
+  "font": {
+    "family": "Orbitron",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Orbitron:wght@400;500;700&display=swap"
+  },
+  "colors": {
+    "text-primary": "#d8f4ff",
+    "ui-muted": "#62d8ff",
+    "accent-color": "#4b7dff",
+    "surface-active": "#203a7f",
+    "surface": "#0b1328",
+    "inset-bg": "#050b18",
+    "app-bg": "#01050d",
+    "text-muted": "#a9b8d0",
+    "text-subtle": "#7f8ea8",
+    "era-label": "#1f3f74",
+    "selection-color": "#7df9ff",
+    "link-color": "#5cc8ff",
+    "light-bg": "#1c2940",
+    "border-color": "#8bc9ff",
+    "secondary-text": "#b7c7dd",
+    "highlight-color": "#3f9dff"
+  }
+}

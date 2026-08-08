@@ -1,0 +1,28 @@
+{
+  "name": "70s Groove",
+  "type": "light",
+  "collection": "Arcade Timelines",
+  "author": "Lisa",
+  "font": {
+    "family": "Bree Serif",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Bree+Serif&display=swap"
+  },
+  "colors": {
+    "text-primary": "#4a2c16",
+    "ui-muted": "#7c5b2e",
+    "accent-color": "#c86b32",
+    "surface-active": "#f0c36a",
+    "surface": "#f6ead1",
+    "inset-bg": "#f2e1bc",
+    "app-bg": "#f9f2df",
+    "text-muted": "#746654",
+    "text-subtle": "#9b8b73",
+    "era-label": "#d8b37a",
+    "selection-color": "#d97c2b",
+    "link-color": "#8f4f1d",
+    "light-bg": "#fff8eb",
+    "border-color": "#a76d2f",
+    "secondary-text": "#665747",
+    "highlight-color": "#d9a441"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "name": "80s Synthwave",
+  "type": "dark",
+  "collection": "Arcade timelines",
+  "author": "Lisa",
+  "font": {
+    "family": "Audiowide",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Audiowide&display=swap"
+  },
+  "colors": {
+    "text-primary": "#ff73d9",
+    "ui-muted": "#22e9ff",
+    "accent-color": "#7b2cff",
+    "surface-active": "#35145f",
+    "surface": "#140021",
+    "inset-bg": "#090012",
+    "app-bg": "#030005",
+    "text-muted": "#d8d9ff",
+    "text-subtle": "#8f92b7",
+    "era-label": "#26143d",
+    "selection-color": "#00f5ff",
+    "link-color": "#ff4db8",
+    "light-bg": "#2a1942",
+    "border-color": "#00d4ff",
+    "secondary-text": "#bfc3ea",
+    "highlight-color": "#ffcc00"
+  }
+}

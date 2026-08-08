@@ -2250,7 +2250,6 @@
       "author": "Lisa",
       "collection": "Nature",
       "type": "light",
-      "new": true,
       "description": "",
       "paths": {
         "theme": "themes/nature-bluehydrangea/nature-bluehydrangea.json",
@@ -2263,7 +2262,6 @@
       "author": "Lisa",
       "collection": "Nature",
       "type": "light",
-      "new": true,
       "description": "",
       "paths": {
         "theme": "themes/nature-cherryblossom/nature-cherryblossom.json",
@@ -2276,7 +2274,6 @@
       "author": "Lisa",
       "collection": "Nature",
       "type": "light",
-      "new": true,
       "description": "",
       "paths": {
         "theme": "themes/nature-lavenderfields/nature-lavenderfields.json",
@@ -2289,7 +2286,6 @@
       "author": "Lisa",
       "collection": "Nature",
       "type": "light",
-      "new": true,
       "description": "",
       "paths": {
         "theme": "themes/nature-rosegarden/nature-rosegarden.json",
@@ -2302,7 +2298,6 @@
       "author": "Lisa",
       "collection": "Nature",
       "type": "light",
-      "new": true,
       "description": "",
       "paths": {
         "theme": "themes/nature-sunflowermeadow/nature-sunflowermeadow.json",
@@ -2315,7 +2310,6 @@
       "author": "Lisa",
       "collection": "Nature",
       "type": "light",
-      "new": true,
       "description": "",
       "paths": {
         "theme": "themes/nature-whitemagnolia/nature-whitemagnolia.json",
@@ -2328,11 +2322,62 @@
       "author": "Lisa",
       "collection": "Nature",
       "type": "light",
-      "new": true,
       "description": "",
       "paths": {
         "theme": "themes/nature-wildflowerbloom/nature-wildflowerbloom.json",
         "thumbnail": "themes/nature-wildflowerbloom/thumbnail.png"
+      }
+    },
+    {
+      "id": "arcadetimelines-2000sy2k",
+      "name": "2000s Y2K",
+      "author": "Lisa",
+      "collection": "Arcade Timelines",
+      "type": "dark",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/arcadetimelines-2000sy2k/arcadetimelines-2000sy2k.json",
+        "thumbnail": "themes/arcadetimelines-2000sy2k/thumbnail.png"
+      }
+    },
+    {
+      "id": "arcadetimelines-70sgroove",
+      "name": "70s Groove",
+      "author": "Lisa",
+      "collection": "Arcade Timelines",
+      "type": "light",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/arcadetimelines-70sgroove/arcadetimelines-70sgroove.json",
+        "thumbnail": "themes/arcadetimelines-70sgroove/thumbnail.png"
+      }
+    },
+    {
+      "id": "arcadetimelines-80ssynthwave",
+      "name": "80s Synthwave",
+      "author": "Lisa",
+      "collection": "Arcade timelines",
+      "type": "dark",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/arcadetimelines-80ssynthwave/arcadetimelines-80ssynthwave.json",
+        "thumbnail": "themes/arcadetimelines-80ssynthwave/thumbnail.png"
+      }
+    },
+    {
+      "id": "arcadetimelines-90smemphis",
+      "name": "90s Memphis",
+      "author": "Lisa",
+      "collection": "Arcade Timelines",
+      "type": "light",
+      "new": true,
+      "description": "",
+      "paths": {
+        "theme": "themes/arcadetimelines-90smemphis/arcadetimelines-90smemphis.json",
+        "thumbnail": "themes/arcadetimelines-90smemphis/thumbnail.png"
       }
     }
   ]

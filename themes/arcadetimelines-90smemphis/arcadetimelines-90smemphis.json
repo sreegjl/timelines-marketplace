@@ -1,0 +1,28 @@
+{
+  "name": "90s Memphis",
+  "type": "light",
+  "collection": "Arcade Timelines",
+  "author": "Lisa",
+  "font": {
+    "family": "Bungee",
+    "cssUrl": "https://fonts.googleapis.com/css2?family=Bungee&display=swap"
+  },
+  "colors": {
+    "text-primary": "#222222",
+    "ui-muted": "#00b8d9",
+    "accent-color": "#ff5fa2",
+    "surface-active": "#ffe45c",
+    "surface": "#fffaf0",
+    "inset-bg": "#fff4d9",
+    "app-bg": "#ffffff",
+    "text-muted": "#666666",
+    "text-subtle": "#888888",
+    "era-label": "#8be9fd",
+    "selection-color": "#ff9f1c",
+    "link-color": "#7b2cbf",
+    "light-bg": "#f5f5f5",
+    "border-color": "#00c2a8",
+    "secondary-text": "#555555",
+    "highlight-color": "#ffe066"
+  }
+}
